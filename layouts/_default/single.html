@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<div class="site-main has-sidebar" style="display: grid; grid-template-columns: 1fr 280px; gap: 2.5rem; align-items: start; max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 4rem;">
+
+  <main class="main-content" style="min-width: 0;">
+
+    <article class="single-page">
+
+      {{ if .Params.image }}
+      <div class="page-featured-image">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+      </div>
+      {{ end }}
+
+      <header class="page-header">
+        {{/* Sirf tabhi h1 dikhayega jab page ka URL /subjects/ na ho */}}
+        {{ if ne .RelPermalink "/subjects/" }}
+          <h1>{{ .Title }}</h1>
+        {{ end }}
+
+        {{ if .Params.categories }}
+        <p class="page-meta">
+          {{ range .Params.categories }}
+          <span class="tag">{{ . }}</span>
+          {{ end }}
+
+          {{ if not .Date.IsZero }}
+          · {{ .Date.Format "2 January 2006" }}
+          {{ end }}
+        </p>
+        {{ end }}
+
+      </header>
+
+      {{ if ne .Params.toc false }}
+      <div class="table-of-contents">
+        <h2>Table of Contents</h2>
+        {{ .TableOfContents }}
+      </div>
+      {{ end }}
+
+      <div class="page-content">
+        {{ .Content }}
+      </div>
+        {{ if eq .Kind "page" }}
+        {{ partial "social-share.html" . }}
+        {{ end }}
+
+    </article>
+
+  </main>
+
+  <!-- Sidebar sirf posts par render hoga -->
+  {{ partial "sidebar.html" . }}
+
+</div>
+
+{{ end }}

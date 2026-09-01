@@ -1,0 +1,69 @@
+{{ define "hero" }}
+<section class="hero">
+  {{ if .Site.Params.heroImage }}
+    <img class="hero-image" src="{{ .Site.Params.heroImage }}" alt="{{ .Site.Title }}">
+  {{ else }}
+    <p class="hero-om">ॐ</p>
+    <h1>{{ .Site.Title }}</h1>
+    <p class="hero-tagline">{{ .Site.Params.tagline }}</p>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ define "main" }}
+
+{{ with .Content }}
+<section class="intro-text">
+  {{ . }}
+</section>
+{{ end }}
+
+<section class="subjects-grid">
+  <h2>Explore by Subject</h2>
+
+  <div class="card-grid grid-3">
+    {{ range .Site.Params.subjects }}
+      <a class="subject-card" href="{{ .url }}">
+        <span class="subject-icon">{{ .icon }}</span>
+        <h3>{{ .title }}</h3>
+        <p>{{ .description }}</p>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="content-grid" style="padding-top: 3rem;">
+  <h2>Featured Posts</h2>
+  <div class="card-grid grid-3">
+    {{ $popularPosts := where .Site.RegularPages "Params.popular" true }}
+    {{ $posts := cond (gt (len $popularPosts) 0) $popularPosts .Site.RegularPages.ByDate.Reverse }}
+    {{ range first 6 $posts }}
+    
+      <a class="card" href="{{ .RelPermalink }}">
+
+        {{ $img := .Params.image | default .Params.cover | default .Params.featured_image | default .Params.thumbnail }}
+
+        {{ if $img }}
+          <div class="card-image">
+            <img
+              src="{{ $img | relURL }}"
+              alt="{{ .Title }}"
+              style="width: 100%; height: 200px; object-fit: cover; display: block;"
+            />
+          </div>
+        {{ end }}
+
+        <h3>{{ .Title }}</h3>
+
+        {{ if .Params.categories }}
+          <span class="card-tag">
+            {{ delimit .Params.categories ", " }}
+          </span>
+        {{ end }}
+
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

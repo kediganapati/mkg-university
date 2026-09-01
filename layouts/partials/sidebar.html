@@ -1,0 +1,51 @@
+<aside class="sidebar">
+  {{ range .Site.Params.sidebarWidgets }}
+    {{ $type := .type | default "text" }}
+    <div class="widget widget-{{ $type }}">
+      <h4>{{ .title }}</h4>
+
+      {{ if eq $type "author" }}
+        {{ if .image }}<img class="widget-author-photo" src="{{ .image }}" alt="{{ .title }}">{{ end }}
+        {{ if .text }}<p>{{ .text }}</p>{{ end }}
+
+      {{ else if eq $type "posts" }}
+        {{ $count := .count | default 5 }}
+        {{ $featured := where $.Site.RegularPages "Params.popular" true }}
+        {{ $list := $featured }}
+        {{ if eq (len $featured) 0 }}{{ $list = $.Site.RegularPages.ByDate.Reverse }}{{ end }}
+        <ul class="widget-links">
+          {{ range first $count $list }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+
+      {{ else if eq $type "categories" }}
+        <ul class="widget-links">
+          {{ range $.Site.Taxonomies.categories.ByCount }}
+            <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
+          {{ end }}
+        </ul>
+
+      {{ else if eq $type "links" }}
+        {{ if .text }}<p>{{ .text }}</p>{{ end }}
+        {{ if .links }}
+        <ul class="widget-links">
+          {{ range .links }}
+            <li><a href="{{ .url }}">{{ .label }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
+      {{ else }}
+        {{ if .text }}<p>{{ .text }}</p>{{ end }}
+        {{ if .links }}
+        <ul class="widget-links">
+          {{ range .links }}
+            <li><a href="{{ .url }}">{{ .label }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+</aside>

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="books-container">
+    <h1>{{ .Title }}</h1>
+    
+    <!-- Optional Intro Content from Markdown -->
+    <div class="page-content">
+        {{ .Content }}
+    </div>
+
+    <!-- Books Grid -->
+    <div class="book-grid">
+        {{ range .Params.books }}
+            <div class="book-card">
+                {{ if .cover }}
+                    <a href="{{ .link }}" target="_blank">
+                        <img src="{{ .cover | relURL }}" alt="{{ .title }}" class="book-cover">
+                    </a>
+                {{ end }}
+                <div class="book-info">
+                    <h3>
+                        <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+                    </h3>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

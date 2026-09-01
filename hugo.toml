@@ -1,0 +1,162 @@
+baseURL = "https://www.mkgdigitaluniversity.com/"
+title = "MKG Digital University of Sanatan Dharma"
+languageCode = "en-us"
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
+  [markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+[params]
+  founder = "Kedi Ganapati"
+  tagline = "Free Digital University of Sanatan Dharma"
+  themeColor = "#ff7700"
+  description = "Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati."
+
+  # Homepage hero image. Put your image file inside the static/images/ folder
+  # and write its filename here (with a leading slash and "images/").
+  # Leave this line blank ( heroImage = "" ) to show the Om symbol instead.
+  heroImage = "/images/mkg-digital-university-hero-image.webp"
+
+  # ---------------------------------------------------------------
+  # HOMEPAGE — 6 SUBJECTS SECTION
+  # Shown below the 3-post grid on the homepage. Edit title/description/
+  # url/icon for each, or add/remove blocks (copy-paste one below).
+  # ---------------------------------------------------------------
+
+  [[params.subjects]]
+    icon = "🕉️"
+    title = "Dharma"
+    description = "Explore scriptures, and the timeless knowledge of Dharma."
+    url = "/dharma/"
+
+  [[params.subjects]]
+    icon = "🌌"
+    title = "Science"
+    description = "Explore the universe, matter, life, mathematics, and the laws of reality."
+    url = "/science/"
+
+  [[params.subjects]]
+    icon = "⚖️"
+    title = "Society"
+    description = "Explore human behaviour, society, law, economics, governance, and human"
+    url = "/society/"
+
+  [[params.subjects]]
+    icon = "📖"
+    title = "Subjects"
+    description = "Free, structured learning material."
+    url = "/subjects/"
+
+  [[params.subjects]]
+    icon = "🔬"
+    title = "Research"
+    description = "Original research papers by Kedi Ganapati."
+    url = "/research/"
+
+  [[params.subjects]]
+    icon = "📚"
+    title = "Books"
+    description = "Books written by Kedi Ganapati."
+    url = "/books/"
+
+  # ---------------------------------------------------------------
+  # SIDEBAR WIDGETS
+  # Shown on every page, including the homepage.
+  # Each widget needs a "type":
+  #   type = "author"      -> photo + intro note about the founder
+  #   type = "posts"       -> auto-list of articles (most recent, or
+  #                            mark a post "popular = true" in its own
+  #                            front-matter to feature it here instead)
+  #   type = "categories"  -> auto-list of all categories used on the site
+  #   type = "links"       -> a manual list of links you write yourself
+  #   type = "text"        -> a simple text block
+  # To add a widget: copy a whole [[params.sidebarWidgets]] block below
+  # and edit it. To remove one: delete its whole block. Order here =
+  # order shown top to bottom.
+  # ---------------------------------------------------------------
+
+  [[params.sidebarWidgets]]
+    type = "author"
+    title = "Founder Kedi Ganapati"
+    image = "/images/kedi-ganapati.webp"
+    text = "Every word and every post on this website has been written solely by one author, based on his own understanding and wisdom. If you find any grammatical mistakes, please accept my apologies for the inconvenience. Learn about your dharma, laugh at my drama - Kedi"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Kedi"
+    parent = "about"
+    url = "/kedi/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Faculty"
+    identifier = "faculty"
+    url = "/faculty/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Dharma"
+    parent = "faculty"
+    url = "/dharma/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Science"
+    parent = "faculty"
+    url = "/science/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Society"
+    parent = "faculty"
+    url = "/society/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Subjects"
+    identifier = "subjects"
+    url = "/subjects/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Research Papers"
+    parent = "subjects"
+    url = "/research/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Books & PDF"
+    parent = "subjects"
+    url = "/books/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Support"
+    url = "/support/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
