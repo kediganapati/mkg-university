@@ -36,37 +36,37 @@ enableEmoji = true
     icon = "🕉️"
     title = "Dharma"
     description = "Explore scriptures, and the timeless knowledge of Dharma."
-    url = "/dharma/"
+    url = "dharma/"
 
   [[params.subjects]]
     icon = "🌌"
     title = "Science"
     description = "Explore the universe, matter, life, mathematics, and the laws of reality."
-    url = "/science/"
+    url = "science/"
 
   [[params.subjects]]
     icon = "⚖️"
     title = "Society"
     description = "Explore human behaviour, society, law, economics, governance, and human"
-    url = "/society/"
+    url = "society/"
 
   [[params.subjects]]
     icon = "📖"
     title = "Subjects"
     description = "Free, structured learning material."
-    url = "/subjects/"
+    url = "subjects/"
 
   [[params.subjects]]
     icon = "🔬"
     title = "Research"
     description = "Original research papers by Kedi Ganapati."
-    url = "/research/"
+    url = "research/"
 
   [[params.subjects]]
     icon = "📚"
     title = "Books"
     description = "Books written by Kedi Ganapati."
-    url = "/books/"
+    url = "books/"
 
   # ---------------------------------------------------------------
   # SIDEBAR WIDGETS
