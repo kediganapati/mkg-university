@@ -24,7 +24,7 @@ enableEmoji = true
   # Homepage hero image. Put your image file inside the static/images/ folder
   # and write its filename here (with a leading slash and "images/").
   # Leave this line blank ( heroImage = "" ) to show the Om symbol instead.
-  heroImage = "/images/mkg-digital-university-hero-image.webp"
+  heroImage = "images/mkg-digital-university-hero-image.webp"
 
   # ---------------------------------------------------------------
   # HOMEPAGE — 6 SUBJECTS SECTION
