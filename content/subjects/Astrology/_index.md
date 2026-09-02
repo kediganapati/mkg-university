@@ -1,6 +1,5 @@
 ---
 title: "Astrology"
-hideTitle: true
 draft: false
 ---
 
