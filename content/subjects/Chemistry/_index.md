@@ -1,6 +1,5 @@
 ---
 title: "Chemistry"
-hideTitle: true
 draft: false
 ---
 
