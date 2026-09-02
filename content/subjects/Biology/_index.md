@@ -1,5 +1,7 @@
 ---
 title: "Biology"
+hideTitle: true
+draft: false
 ---
 
 
