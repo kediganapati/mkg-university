@@ -77,4 +77,4 @@ Explore scriptures, spiritual wisdom, philosophy, and the timeless knowledge of 
 </div>
 </section>
 
-<h2 style="text-align: center;">All Dharma Pages</h2>
+<h2 style="text-align: center;">All Dharma Subject List</h2>
