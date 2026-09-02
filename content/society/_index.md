@@ -3,7 +3,7 @@ title: "Society"
 draft: false
 ---
 
-Explore society, economics, law, governance, psychology, human relationships, and social behaviour.
+Explore the six disciplines of Society.
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
