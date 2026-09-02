@@ -3,7 +3,9 @@ title: "Faculty"
 draft: false
 ---
 
+<div style="text-align: center;">
 MKG Faculty is divided into three sections: Dharma, Science, and Society.
+</div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
