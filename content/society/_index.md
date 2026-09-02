@@ -3,7 +3,7 @@ title: "Society"
 draft: false
 ---
 
-Explore society, economics, law, governance, philosophy, psychology, human relationships, and social behaviour.
+Explore society, economics, law, governance, psychology, human relationships, and social behaviour.
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
@@ -24,12 +24,6 @@ Explore society, economics, law, governance, philosophy, psychology, human relat
 <span class="subject-icon">⚖️</span>
 <h3>Judiciary</h3>
 <p>Study of the Constitution, courts, law, justice, and legal principles.</p>
-</a>
-
-<a class="subject-card" href="/mkg-university/society/philosophy/">
-<span class="subject-icon">❤️</span>
-<h3>Philosophy</h3>
-<p>Study of ideas, existence, knowledge, consciousness, ethics, and reality.</p>
 </a>
 
 <a class="subject-card" href="/mkg-university/society/psychology/">
