@@ -1,5 +1,6 @@
 ---
-title: "Yuddha Kand"
+title: "Yuddha Kand Chapter 6"
+weight: 6
 ---
 
 

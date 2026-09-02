@@ -3,8 +3,6 @@
 # Kedi Ganapati
 ###  Researcher · Author · Savior
 
-
-
 </div>
 
 

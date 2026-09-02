@@ -1,5 +1,6 @@
 ---
 title: "Uttara Kand Chapter 7"
+weight: 7
 ---
 
 

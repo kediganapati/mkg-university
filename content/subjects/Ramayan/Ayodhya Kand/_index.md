@@ -1,5 +1,6 @@
 ---
-title: "Ayodhya Kand"
+title: "Ayodhya Kand Chapter 2"
+weight: 2
 ---
 
 

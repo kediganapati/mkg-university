@@ -13,10 +13,7 @@
       {{ end }}
 
       <header class="page-header">
-        {{/* Sirf tabhi h1 dikhayega jab page ka URL /subjects/ na ho */}}
-        {{ if ne .RelPermalink "/subjects/" }}
-          <h1>{{ .Title }}</h1>
-        {{ end }}
+        <h1>{{ .Title }}</h1>
 
         {{ if .Params.categories }}
         <p class="page-meta">
@@ -29,7 +26,6 @@
           {{ end }}
         </p>
         {{ end }}
-
       </header>
 
       {{ if ne .Params.toc false }}
@@ -42,15 +38,14 @@
       <div class="page-content">
         {{ .Content }}
       </div>
-        {{ if eq .Kind "page" }}
-        {{ partial "social-share.html" . }}
-        {{ end }}
+      {{ if eq .Kind "page" }}
+      {{ partial "social-share.html" . }}
+      {{ end }}
 
     </article>
 
   </main>
 
-  <!-- Sidebar sirf posts par render hoga -->
   {{ partial "sidebar.html" . }}
 
 </div>
