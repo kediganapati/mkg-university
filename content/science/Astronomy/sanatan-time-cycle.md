@@ -6,6 +6,8 @@ description: "Explore the Sanatan Time Cycle – a cosmic system of time based o
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2KxwFB575IZH31xV-egSXqGD3VqsDIxVFyw-WsFQUNGbV3Ba0isZRce7Q-K73Jj5EdP0F0LYNf4PCLVXAbK3pW7qz8UM0BZzkfEIqTnYIuCiXImBzivsKwT-T2EdSxxdxQm0fN-Ycdqzb0YiJ2Qx4LnJ0VkgAgzWgDtlmz3u1x0XiSOjj5gQolwUO8ko/s16000/Time%20Cycle.webp"
 author: "Kedi Ganapati"
 popular: true
+aliases:
+  - "/subjects/astronomy/sanatan-time-cycle/"
 ---
 
 ## The Foundation of Time
