@@ -1,7 +1,7 @@
 ---
 title: "Trend & Selection Fameworks"
 categories: ["Economics"]
-image: "/images/Trend-and-Section-Economic-behaviour.webp"
+image: "images/Trend-and-Section-Economic-behaviour.webp"
 author: "Kedi Ganapati"
 popular: true
 ---
