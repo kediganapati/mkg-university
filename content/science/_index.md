@@ -3,7 +3,7 @@ title: "Science"
 draft: false
 ---
 
-Explore astronomy, astrology, physics, mathematics, chemistry, biology, and the scientific dimensions of human knowledge.
+Explore the six disciplines of Science.
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
