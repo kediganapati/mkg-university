@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Physics on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:1313/subjects/physics/</link>
+		<link>https://www.mkgdigitaluniversity.com/subjects/physics/</link>
 		<description>Recent content in Physics on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/subjects/physics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.mkgdigitaluniversity.com/subjects/physics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Origin of Dimensions</title>
-				<link>http://localhost:1313/subjects/physics/the-origin-of-dimensions/</link>
+				<link>https://www.mkgdigitaluniversity.com/subjects/physics/the-origin-of-dimensions/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/subjects/physics/the-origin-of-dimensions/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/subjects/physics/the-origin-of-dimensions/</guid>
 				<description>&lt;h2 id=&#34;bollywood-movie-dates&#34;&gt;Bollywood Movie Dates&lt;/h2&gt;&#xA;&lt;p&gt;In 2019, I used to go on dates with a girl. She was my friendly client. We did not go on dates for any relationship—only for friendly fun. The good thing was that the bike petrol expenses were mine, while the food and drink expenses were hers. And whenever we traveled by auto cab, she would pay for that as well; I only invested my time. Her annual income tax payment was far more than my yearly earnings. The income tax penalty amount she once mentioned was equal to my three years of income.&lt;/p&gt;</description>
 			</item>
 	</channel>

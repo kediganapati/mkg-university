@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:1313/categories/</link>
+		<link>https://www.mkgdigitaluniversity.com/categories/</link>
 		<description>Recent content in Categories on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,124 +10,124 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.mkgdigitaluniversity.com/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Astrology</title>
-				<link>http://localhost:1313/categories/astrology/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/astrology/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/astrology/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/astrology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Astronomy</title>
-				<link>http://localhost:1313/categories/astronomy/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/astronomy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/astronomy/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/astronomy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bala Kanda</title>
-				<link>http://localhost:1313/categories/bala-kanda/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/bala-kanda/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/bala-kanda/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/bala-kanda/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bhagvad Gita</title>
-				<link>http://localhost:1313/categories/bhagvad-gita/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/bhagvad-gita/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/bhagvad-gita/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/bhagvad-gita/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dharma &amp; Spirituality</title>
-				<link>http://localhost:1313/categories/dharma--spirituality/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/dharma--spirituality/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/dharma--spirituality/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/dharma--spirituality/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Economics</title>
-				<link>http://localhost:1313/categories/economics/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/economics/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/economics/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/economics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Judiciary</title>
-				<link>http://localhost:1313/categories/judiciary/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/judiciary/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/judiciary/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/judiciary/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kedi Purana</title>
-				<link>http://localhost:1313/categories/kedi-purana/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/kedi-purana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/kedi-purana/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/kedi-purana/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Philosophy</title>
-				<link>http://localhost:1313/categories/philosophy/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/philosophy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/philosophy/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/philosophy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Physics</title>
-				<link>http://localhost:1313/categories/physics/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/physics/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/physics/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/physics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Psychology</title>
-				<link>http://localhost:1313/categories/psychology/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/psychology/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/psychology/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/psychology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ramayan</title>
-				<link>http://localhost:1313/categories/ramayan/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/ramayan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/ramayan/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/ramayan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sociology</title>
-				<link>http://localhost:1313/categories/sociology/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/sociology/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/sociology/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/sociology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Spirituality</title>
-				<link>http://localhost:1313/categories/spirituality/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/spirituality/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/spirituality/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/spirituality/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Upanishad</title>
-				<link>http://localhost:1313/categories/upanishad/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/upanishad/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/upanishad/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/upanishad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vandana</title>
-				<link>http://localhost:1313/categories/vandana/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/vandana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/vandana/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/vandana/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Veda</title>
-				<link>http://localhost:1313/categories/veda/</link>
+				<link>https://www.mkgdigitaluniversity.com/categories/veda/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/categories/veda/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/categories/veda/</guid>
 				<description></description>
 			</item>
 	</channel>

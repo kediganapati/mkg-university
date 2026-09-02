@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sociology on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:1313/categories/sociology/</link>
+		<link>https://www.mkgdigitaluniversity.com/categories/sociology/</link>
 		<description>Recent content in Sociology on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,19 +10,19 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/categories/sociology/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.mkgdigitaluniversity.com/categories/sociology/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Origin of Sociology</title>
-				<link>http://localhost:1313/society/sociology/the-origin-of-sociology/</link>
+				<link>https://www.mkgdigitaluniversity.com/society/sociology/the-origin-of-sociology/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/society/sociology/the-origin-of-sociology/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/society/sociology/the-origin-of-sociology/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;sanatan-dharma-the-eternal-dharma-of-humans&#34;&gt;Sanatan Dharma: The Eternal Dharma of Humans&lt;/h2&gt;&#xA;&lt;p&gt;Sanatan Dharma is not a religion. It is the eternal Dharma of humans.&lt;/p&gt;&#xA;&lt;p&gt;Following the rights, responsibilities, and rules of one’s own existence is called Dharma. After changing religion or not following any religion, the human rights, responsibilities, and rules of humans that give them their real existence in this world never change. Every human being has to follow the rights, responsibilities, and rules of their own existence to be a human.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Origin of Sociology</title>
-				<link>http://localhost:1313/subjects/sociology/the-origin-of-sociology/</link>
+				<link>https://www.mkgdigitaluniversity.com/subjects/sociology/the-origin-of-sociology/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/subjects/sociology/the-origin-of-sociology/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/subjects/sociology/the-origin-of-sociology/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;sanatan-dharma-the-eternal-dharma-of-humans&#34;&gt;Sanatan Dharma: The Eternal Dharma of Humans&lt;/h2&gt;&#xA;&lt;p&gt;Sanatan Dharma is not a religion. It is the eternal Dharma of humans.&lt;/p&gt;&#xA;&lt;p&gt;Following the rights, responsibilities, and rules of one’s own existence is called Dharma. After changing religion or not following any religion, the human rights, responsibilities, and rules of humans that give them their real existence in this world never change. Every human being has to follow the rights, responsibilities, and rules of their own existence to be a human.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Psychology on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:1313/categories/psychology/</link>
+		<link>https://www.mkgdigitaluniversity.com/categories/psychology/</link>
 		<description>Recent content in Psychology on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/categories/psychology/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.mkgdigitaluniversity.com/categories/psychology/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>108 Elements of Human Mind</title>
-				<link>http://localhost:1313/society/psychology/108-elements-of-human-mind/</link>
+				<link>https://www.mkgdigitaluniversity.com/society/psychology/108-elements-of-human-mind/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/society/psychology/108-elements-of-human-mind/</guid>
+				<guid>https://www.mkgdigitaluniversity.com/society/psychology/108-elements-of-human-mind/</guid>
 				<description>&lt;h2 id=&#34;introduction-what-is-mindset&#34;&gt;Introduction: What is Mindset?&lt;/h2&gt;&#xA;&lt;p&gt;Kedi: Why didn’t I feel sad even after losing?&lt;/p&gt;&#xA;&lt;p&gt;Ganesh: Because you chose to lose yourself. If you did not want to lose at any cost and still lost, then you would feel sad.&lt;/p&gt;&#xA;&lt;p&gt;Kedi: Does that mean I have to fight another boxing match to understand the pain of losing?&lt;/p&gt;&#xA;&lt;p&gt;Ganesh: You can experience loss even without boxing. Loss exists in every field.&lt;/p&gt;&#xA;&lt;p&gt;Kedi: Then why did I join boxing? Why did I let myself get beaten so much?&lt;/p&gt;</description>
 			</item>
 	</channel>
