@@ -3,7 +3,9 @@ title: "Dharma"
 draft: false
 ---
 
-Explore scriptures, spiritual wisdom, philosophy, and the timeless knowledge of Dharma.
+<div style="text-align: center;">
+Explore the six disciplines of Dharma.
+</div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
