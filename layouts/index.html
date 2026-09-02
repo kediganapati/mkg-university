@@ -23,7 +23,7 @@
 
   <div class="card-grid grid-3">
     {{ range .Site.Params.subjects }}
-      <a class="subject-card" href="{{ .url }}">
+     <a class="subject-card" href="{{ .url | relURL }}">
         <span class="subject-icon">{{ .icon }}</span>
         <h3>{{ .title }}</h3>
         <p>{{ .description }}</p>
