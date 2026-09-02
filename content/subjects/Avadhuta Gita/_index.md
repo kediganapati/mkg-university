@@ -1,6 +1,5 @@
 ---
 title: "Avadhuta Gita"
-hideTitle: true
 draft: false
 ---
 
