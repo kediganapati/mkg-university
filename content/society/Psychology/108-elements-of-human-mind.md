@@ -1,7 +1,7 @@
 ---
 title: "108 Elements of Human Mind"
 categories: ["Psychology"]
-image: "/images/108-Elements-of-Human-Mind.webp"
+image: "images/108-Elements-of-Human-Mind.webp"
 author: "Kedi Ganapati"
 popular: true
 ---
