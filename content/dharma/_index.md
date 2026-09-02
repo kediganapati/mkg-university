@@ -3,7 +3,9 @@ title: "Dharma"
 draft: false
 ---
 
+<div style="text-align: center;">
 Explore the six disciplines of Dharma.
+</div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
