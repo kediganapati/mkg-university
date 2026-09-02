@@ -8,7 +8,7 @@
 
       {{ if .Params.image }}
       <div class="page-featured-image">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+       <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
       </div>
       {{ end }}
 
