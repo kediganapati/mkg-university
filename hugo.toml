@@ -87,7 +87,7 @@ enableEmoji = true
   [[params.sidebarWidgets]]
     type = "author"
     title = "Founder Kedi Ganapati"
-    image = "/images/kedi-ganapati.webp"
+    image = "images/kedi-ganapati.webp"
     text = "Every word and every post on this website has been written solely by one author, based on his own understanding and wisdom. If you find any grammatical mistakes, please accept my apologies for the inconvenience. Learn about your dharma, laugh at my drama - Kedi"
 
 
