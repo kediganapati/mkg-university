@@ -4,7 +4,7 @@ draft: false
 ---
 
 <div style="text-align: center;">
-MKG Digital University 24 offers subjects based on Sanatan Dharma, philosophy, science, society, and human Existance.
+MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, science, society, and human Existance.
 </div>
 
 <section class="subjects-grid">
