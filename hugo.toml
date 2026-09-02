@@ -24,7 +24,7 @@ enableEmoji = true
   # Homepage hero image. Put your image file inside the static/images/ folder
   # and write its filename here (with a leading slash and "images/").
   # Leave this line blank ( heroImage = "" ) to show the Om symbol instead.
-  heroImage = "/images/mkg-digital-university-hero-image.webp"
+  heroImage = "images/mkg-digital-university-hero-image.webp"
 
   # ---------------------------------------------------------------
   # HOMEPAGE — 6 SUBJECTS SECTION
@@ -36,37 +36,37 @@ enableEmoji = true
     icon = "🕉️"
     title = "Dharma"
     description = "Explore scriptures, and the timeless knowledge of Dharma."
-    url = "/dharma/"
+    url = "dharma/"
 
   [[params.subjects]]
     icon = "🌌"
     title = "Science"
     description = "Explore the universe, matter, life, mathematics, and the laws of reality."
-    url = "/science/"
+    url = "science/"
 
   [[params.subjects]]
     icon = "⚖️"
     title = "Society"
     description = "Explore human behaviour, society, law, economics, governance, and human"
-    url = "/society/"
+    url = "society/"
 
   [[params.subjects]]
     icon = "📖"
     title = "Subjects"
     description = "Free, structured learning material."
-    url = "/subjects/"
+    url = "subjects/"
 
   [[params.subjects]]
     icon = "🔬"
     title = "Research"
     description = "Original research papers by Kedi Ganapati."
-    url = "/research/"
+    url = "research/"
 
   [[params.subjects]]
     icon = "📚"
     title = "Books"
     description = "Books written by Kedi Ganapati."
-    url = "/books/"
+    url = "books/"
 
   # ---------------------------------------------------------------
   # SIDEBAR WIDGETS
@@ -87,7 +87,7 @@ enableEmoji = true
   [[params.sidebarWidgets]]
     type = "author"
     title = "Founder Kedi Ganapati"
-    image = "/images/kedi-ganapati.webp"
+    image = "images/kedi-ganapati.webp"
     text = "Every word and every post on this website has been written solely by one author, based on his own understanding and wisdom. If you find any grammatical mistakes, please accept my apologies for the inconvenience. Learn about your dharma, laugh at my drama - Kedi"
 
 

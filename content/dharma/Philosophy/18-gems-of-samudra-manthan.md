@@ -1,7 +1,7 @@
 ---
 title: "18 Gems of Samudra Manthan"
 categories: ["Philosophy"]
-image: "/images/samudra-manthan.webp"
+image: "images/samudra-manthan.webp"
 author: "Kedi Ganapati"
 popular: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Glutton Kiran to Sage Kedi"
 categories: ["Kedi Purana"]
-image: "/images/Glutton-Kiran-Sage-Kedi.webp"
+image: "images/Glutton-Kiran-Sage-Kedi.webp"
 author: "Kedi Ganapati"
 popular: true
 ---
