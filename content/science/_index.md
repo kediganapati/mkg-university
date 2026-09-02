@@ -1,7 +1,7 @@
 ---
 title: "Science"
 draft: false
-------------
+---
 
 Explore astronomy, astrology, physics, mathematics, chemistry, biology, and the scientific dimensions of human knowledge.
 
