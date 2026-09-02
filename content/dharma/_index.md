@@ -50,7 +50,7 @@ Explore scriptures, spiritual wisdom, philosophy, and the timeless knowledge of 
 <p>Exploring spiritual practice, self-realisation, consciousness, and inner growth.</p>
 </a>
 
-<a class="subject-card" href="/mkg-university/society/philosophy/">
+<a class="subject-card" href="/mkg-university/dharma/philosophy/">
 <span class="subject-icon">❤️</span>
 <h3>Philosophy</h3>
 <p>Study of ideas, existence, knowledge, consciousness, ethics, and reality.</p>

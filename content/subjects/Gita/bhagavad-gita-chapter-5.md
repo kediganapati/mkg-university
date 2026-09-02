@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 5: Karma Sannyasa Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-5.webp"
+image: "images/bhagavad-gita-chapter-5.webp"
 weight: 5
 author: "Kedi Ganapati"
 -----------------------

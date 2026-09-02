@@ -1,7 +1,7 @@
 ---
 title: "8 Layers of Horoscope"
 categories: ["Dharma & Spirituality"]
-image: "/images/8-layers-of-reading-horoscope.webp"
+image: "images/8-layers-of-reading-horoscope.webp"
 author: "Kedi Ganapati"
 ---
 

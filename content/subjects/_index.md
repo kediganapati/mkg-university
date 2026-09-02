@@ -157,18 +157,20 @@ MKG Digital University 24 offers subjects based on Sanatan Dharma, philosophy, s
 </div>
 </section>
 
-
-
-> If you learn one subject, you become knowledgeable.
-> If you learn all related subjects, you become a master.
-
-**MKG Digital University focuses on helping seekers become masters.**
-
 ---
 
+<h2 style="text-align: center;">MKG Digital University focuses on helping seekers become masters.</h2>
+
+---
 
 **Note**: *I, Kedi Ganapati, have a mission to learn all subjects related to Sanatan Dharma and human existence and establish an open Digital University of Sanatan Dharma.*
 
 *All 24 subjects are necessary for my mission, but not for everyone.*
 
+*If you learn one subject, you become knowledgeable. If you learn all related subjects, you become a master.*
+
 *Learn related subjects for health and wealth. Learning everything may harm your health and wealth. Choose wisely.*
+
+---
+
+<h2 style="text-align: center;">All Subject List</h2>
