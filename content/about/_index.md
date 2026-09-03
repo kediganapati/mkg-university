@@ -23,7 +23,11 @@ A journey dedicated to rediscovering eternal wisdom, awakening consciousness, an
 
 MKG Digital University was born from the unusual and deeply personal journey of Kedi Ganapati — a journey of job-hopping, bike riding, spiritual seeking, wandering, relationships, struggle, failure, blunders, self-discovery, and inner awakening.
 
-I was Kiran Khot until 2016, when I started learning website designing. At that time, an idea came to my mind: I wanted to establish a website dedicated to Sanatan Dharma, and that website should contain all the knowledge of Sanatan Dharma so that people from around the world could come to one platform to learn about Sanatan Dharma.
+I was Kiran Khot until 2016. At that time, I was already researching Dharma and economics and wanted to write new scriptures covering different subjects of Sanatan Dharma. To research human sexuality, I became a freelance massage therapist and started my own erotic massage business, Lickspa.
+
+I wanted to create a website for Lickspa but could not find a web designer willing to build it, so I started learning website designing myself. Then I thought: if I can create a website for my business, I can create an educational website too.
+
+That thought eventually led to an idea: I wanted to establish a website dedicated to Sanatan Dharma, where people from around the world could come to one platform to learn about its vast body of knowledge.
 
 That idea introduced me to my own identity and life goal. I realized that my name should not be Kiran; I should be Kedi. In 2017, I officially changed my name from Kiran to Kedi through the Gazette, and took the first step toward MKG.
 
