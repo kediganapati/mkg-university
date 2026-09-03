@@ -32,7 +32,11 @@ Your contribution will help continue the work of research, writing, and sharing 
 **UPI ID:** `kediganapati@oksbi`
 
 *Scan the QR code or copy the UPI ID and pay via any UPI app.*
-   ![UPI QR Code – kediganapati@oksbi](mkg-upi-qr.webp)
+ <img src="/mkg-university/images/mkg-upi-qr.webp" width="250">
+
+UPI ID: kediganapati@oksbi
+
+</center>
 
 ### ✦ Choose Your Seva Amount
 
