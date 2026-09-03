@@ -19,13 +19,20 @@ A journey dedicated to rediscovering eternal wisdom, awakening consciousness, an
 ---
 
 
-## The Story of Kedi
+## The Story of MKG
 
-MKG Digital University was born from the unusual and deeply personal journey of **Kedi Ganapati** — a journey of job-hopping, bike riding, spiritual seeking, wandering, relationships, struggle, failure, blunders,self-discovery, and inner awakening.
+MKG Digital University was born from the unusual and deeply personal journey of Kedi Ganapati — a journey of job-hopping, bike riding, spiritual seeking, wandering, relationships, struggle, failure, blunders, self-discovery, and inner awakening.
 
-What began as an individual's search for meaning gradually transformed into a larger mission: to study, understand, research, and present Sanatan Dharma from an independent and original perspective.
+I was Kiran Khot until 2016, when I started learning website designing. At that time, an idea came to my mind: I wanted to establish a website dedicated to Sanatan Dharma, and that website should contain all the knowledge of Sanatan Dharma so that people from around the world could come to one platform to learn about Sanatan Dharma.
+
+That idea introduced me to my own identity and life goal. I realized that my name should not be Kiran; I should be Kedi. In 2017, I officially changed my name from Kiran to Kedi through the Gazette, and took the first step toward MKG.
+
+From 2016 to 2026, I started deeply learning about Sanatan Dharma, and the learning process is still continuing. On MKG Digital University, you will find both existing scriptures of Sanatan Dharma and new scriptures of Sanatan Dharma, presented from the original perspective of Kedi Ganapati.
+
+As the mission grew, my own identity gradually became secondary; the mission of creating a university for Sanatan Dharma became the priority — and **Mission Kedi Ganapati** was born.
 
 MKG Digital University is a commitment to revive the eternal light of Sanatan Dharma in its purest and most original form. It is a journey of spiritual renaissance — an effort to restore forgotten wisdom, awaken dormant consciousness, and reconnect humanity with its eternal roots.
+
 
 ---
 
