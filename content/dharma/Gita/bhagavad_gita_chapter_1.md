@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 1"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-1.webp"
+image: "images/bhagavad-gita-chapter-1.webp"
 weight: 1
 author: "Kedi Ganapati"
 ---
