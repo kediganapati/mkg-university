@@ -1079,3 +1079,221 @@ body {
   .share-btn svg { width: 16px; height: 16px; }
   .social-share-buttons { gap: 0.4rem; }
 }
+/* =========================================================
+   MOBILE HEADER MENU
+   ========================================================= */
+
+.mobile-menu-toggle {
+  display: none;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 640px) {
+
+  .site-header {
+    position: sticky;
+    top: 0;
+  }
+
+  .header-inner {
+    position: relative;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    gap: 0.5rem;
+    padding: 0.7rem 1rem;
+  }
+
+
+  /* MKG Brand */
+
+  .brand {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .brand-text {
+    font-size: 0.85rem;
+    line-height: 0.95rem;
+  }
+
+  .brand-text strong {
+    font-size: 1rem;
+  }
+
+  .brand-text small {
+    font-size: 0.9rem;
+  }
+
+
+  /* Hamburger */
+
+  .mobile-menu-toggle {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 42px;
+    height: 42px;
+
+    padding: 0;
+
+    border: 1px solid rgba(255,255,255,0.35);
+    border-radius: 7px;
+
+    background: transparent;
+    color: #fff;
+
+    font-size: 1.6rem;
+    line-height: 1;
+
+    cursor: pointer;
+  }
+
+  .mobile-menu-toggle:hover {
+    background: var(--saffron);
+    border-color: var(--saffron);
+  }
+
+
+  /* Main Navigation */
+
+  .main-nav {
+    display: none;
+    width: 100%;
+    order: 3;
+  }
+
+  .main-nav.mobile-open {
+    display: block;
+  }
+
+
+  .main-nav > ul {
+    display: flex !important;
+    flex-direction: column;
+    gap: 0 !important;
+
+    width: 100%;
+
+    margin: 0;
+    padding: 0.5rem 0;
+
+    border-top: 1px solid rgba(255,255,255,0.15);
+  }
+
+
+  .main-nav > ul > li {
+    width: 100%;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+
+
+  .main-nav > ul > li > a {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+
+    padding: 0.7rem 0.3rem;
+
+    font-size: 0.95rem;
+  }
+
+
+  /* Mobile Submenu */
+
+  .main-nav .submenu {
+    display: none;
+
+    position: static;
+
+    width: 100%;
+    min-width: 0;
+
+    padding: 0;
+
+    background: #211c1a;
+
+    flex-direction: column;
+  }
+
+
+  .main-nav .submenu li {
+    width: 100%;
+  }
+
+
+  .main-nav .submenu a {
+    padding: 0.6rem 1.2rem;
+
+    font-size: 0.88rem;
+
+    text-transform: none;
+
+    border-top: 1px solid rgba(255,255,255,0.07);
+  }
+
+
+  /* Open submenu */
+
+  .main-nav .has-submenu.submenu-open .submenu {
+    display: flex;
+  }
+
+
+  /* Disable desktop hover dropdown on mobile */
+
+  .main-nav .has-submenu:hover .submenu {
+    display: none;
+  }
+
+  .main-nav .has-submenu.submenu-open:hover .submenu {
+    display: flex;
+  }
+
+
+  /* Submenu arrow */
+
+  .submenu-arrow {
+    margin-left: auto;
+    font-size: 0.8rem;
+    transition: transform 0.2s ease;
+  }
+
+  .main-nav
+  .has-submenu.submenu-open
+  .submenu-arrow {
+    transform: rotate(180deg);
+  }
+
+
+  /* Language button */
+
+  .mkg-language {
+    width: auto !important;
+    flex-shrink: 0;
+  }
+
+  .language-toggle {
+    width: auto !important;
+    justify-content: center;
+  }
+
+  .language-menu {
+    left: auto !important;
+    right: 0 !important;
+
+    width: 260px !important;
+    max-width: calc(100vw - 20px) !important;
+  }
+
+}
