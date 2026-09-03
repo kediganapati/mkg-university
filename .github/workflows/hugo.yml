@@ -31,7 +31,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://kediganapati.github.io/mkg-university/"
+         run: hugo --minify
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
