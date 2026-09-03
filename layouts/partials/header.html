@@ -1,311 +1,327 @@
 <header class="site-header">
   <div class="header-inner">
 
-<!-- ==============================
-     MKG BRAND
-     ============================== -->
+    <!-- ==============================
+         MKG BRAND
+         ============================== -->
 
-<a class="brand" href="{{ "/" | relLangURL }}">
-  <span class="brand-text">
-    <strong>MKG</strong> Digital University
-    <small>of Sanatan Dharma</small>
-  </span>
-</a>
-
-
-<!-- ==============================
-     MOBILE MENU BUTTON
-     ============================== -->
-
-<button
-  type="button"
-  class="mobile-menu-toggle"
-  id="mobileMenuToggle"
-  aria-expanded="false"
-  aria-controls="mainNavigation"
-  aria-label="Open Menu"
->
-  ☰
-</button>
+    <a class="brand" href="{{ "/" | relLangURL }}">
+      <span class="brand-text">
+        <strong>MKG</strong> Digital University
+        <small>of Sanatan Dharma</small>
+      </span>
+    </a>
 
 
-<!-- ==============================
-     MAIN NAVIGATION
-     ============================== -->
+    <!-- ==============================
+         MOBILE MENU BUTTON
+         ============================== -->
 
-<nav class="main-nav" id="mainNavigation">
+    <button
+      type="button"
+      class="mobile-menu-toggle"
+      id="mobileMenuToggle"
+      aria-expanded="false"
+      aria-controls="mainNavigation"
+      aria-label="Open Menu"
+    >
+      ☰
+    </button>
 
-  <ul>
 
-    {{ range .Site.Menus.main }}
+    <!-- ==============================
+         MAIN NAVIGATION
+         ============================== -->
 
-    <li class="{{ if .HasChildren }}has-submenu{{ end }}">
+    <nav class="main-nav" id="mainNavigation">
 
-      <a href="{{ .URL | relLangURL }}">
-        {{ .Name }}
-        {{ if .HasChildren }}
-          <span class="submenu-arrow">▾</span>
-        {{ end }}
-      </a>
+      <ul>
 
-      {{ if .HasChildren }}
+        {{ range .Site.Menus.main }}
 
-      <ul class="submenu">
+        <li class="{{ if .HasChildren }}has-submenu{{ end }}">
 
-        {{ range .Children }}
+          <div class="nav-link-wrapper">
 
-        <li>
-          <a href="{{ .URL | relLangURL }}">
-            {{ .Name }}
-          </a>
+            <a href="{{ .URL | relLangURL }}">
+              {{ .Name }}
+            </a>
+
+            {{ if .HasChildren }}
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            {{ end }}
+
+          </div>
+
+
+          {{ if .HasChildren }}
+
+          <ul class="submenu">
+
+            {{ range .Children }}
+
+            <li>
+              <a href="{{ .URL | relLangURL }}">
+                {{ .Name }}
+              </a>
+            </li>
+
+            {{ end }}
+
+          </ul>
+
+          {{ end }}
+
         </li>
 
         {{ end }}
 
       </ul>
 
-      {{ end }}
-
-    </li>
-
-    {{ end }}
-
-  </ul>
-
-</nav>
+    </nav>
 
 
-<!-- ==============================
-     MKG LANGUAGE SWITCHER
-     ============================== -->
+    <!-- ==============================
+         MKG LANGUAGE SWITCHER
+         ============================== -->
 
-<div class="mkg-language" id="mkgLanguage">
+    <div class="mkg-language" id="mkgLanguage">
 
-  <button
-    type="button"
-    class="language-toggle"
-    id="languageToggle"
-    aria-expanded="false"
-    aria-controls="languageMenu"
-    translate="no"
-  >
-    <span>🌐</span>
-    <span>Language</span>
-    <span class="language-arrow">▾</span>
-  </button>
+      <button
+        type="button"
+        class="language-toggle"
+        id="languageToggle"
+        aria-expanded="false"
+        aria-controls="languageMenu"
+        translate="no"
+      >
+        <span>🌐</span>
+        <span>Language</span>
+        <span class="language-arrow">▾</span>
+      </button>
 
 
-  <!-- Language Dropdown -->
+      <!-- Language Dropdown -->
 
-  <div
-    class="language-menu"
-    id="languageMenu"
-    translate="no"
-  >
+      <div
+        class="language-menu"
+        id="languageMenu"
+        translate="no"
+      >
 
-    <div class="language-menu-title">
-      Select Language
+        <div class="language-menu-title">
+          Select Language
+        </div>
+
+
+        <!-- Main Languages -->
+
+        <button
+          type="button"
+          class="language-option active"
+          data-lang="en"
+          translate="no"
+        >
+          English
+        </button>
+
+        <button
+          type="button"
+          class="language-option"
+          data-lang="hi"
+          translate="no"
+        >
+          Hindi / हिन्दी
+        </button>
+
+        <button
+          type="button"
+          class="language-option"
+          data-lang="zh-CN"
+          translate="no"
+        >
+          Mandarin / 中文
+        </button>
+
+        <button
+          type="button"
+          class="language-option"
+          data-lang="es"
+          translate="no"
+        >
+          Spanish / Español
+        </button>
+
+        <button
+          type="button"
+          class="language-option"
+          data-lang="fr"
+          translate="no"
+        >
+          French / Français
+        </button>
+
+        <button
+          type="button"
+          class="language-option"
+          data-lang="ar"
+          translate="no"
+        >
+          Arabic / عربي
+        </button>
+
+
+        <!-- Divider -->
+
+        <div class="language-divider"></div>
+
+
+        <!-- More Languages -->
+
+        <label
+          class="language-more-label"
+          for="moreLanguages"
+          translate="no"
+        >
+          More Languages
+        </label>
+
+
+        <select
+          id="moreLanguages"
+          class="language-more-select"
+          translate="no"
+        >
+
+          <option value="">
+            -- Select Language --
+          </option>
+
+
+          <!-- Indian Languages -->
+
+          <optgroup label="🇮🇳 Indian Languages">
+
+            <option value="mr">Marathi / मराठी</option>
+            <option value="sa">Sanskrit / संस्कृतम्</option>
+            <option value="ta">Tamil / தமிழ்</option>
+            <option value="te">Telugu / తెలుగు</option>
+            <option value="kn">Kannada / ಕನ್ನಡ</option>
+            <option value="gu">Gujarati / ગુજરાતી</option>
+            <option value="pa">Punjabi / ਪੰਜਾਬੀ</option>
+            <option value="bn">Bengali / বাংলা</option>
+            <option value="ml">Malayalam / മലയാളം</option>
+            <option value="or">Odia / ଓଡ଼ିଆ</option>
+            <option value="as">Assamese / অসমীয়া</option>
+            <option value="ur">Urdu / اردو</option>
+            <option value="ks">Kashmiri / کٲشُر</option>
+            <option value="ne">Nepali / नेपाली</option>
+            <option value="si">Sinhala / සිංහල</option>
+            <option value="bho">Bhojpuri</option>
+            <option value="mai">Maithili</option>
+            <option value="doi">Dogri</option>
+            <option value="mni-Mtei">Manipuri</option>
+            <option value="sat">Santali</option>
+
+          </optgroup>
+
+
+          <!-- Asian Languages -->
+
+          <optgroup label="🌏 Asian Languages">
+
+            <option value="ja">Japanese / 日本語</option>
+            <option value="ko">Korean / 한국어</option>
+            <option value="th">Thai / ไทย</option>
+            <option value="vi">Vietnamese / Tiếng Việt</option>
+            <option value="id">Indonesian / Bahasa Indonesia</option>
+            <option value="ms">Malay / Bahasa Melayu</option>
+            <option value="my">Burmese / မြန်မာဘာသာ</option>
+            <option value="km">Khmer / ខ្មែរ</option>
+            <option value="lo">Lao / ລາວ</option>
+            <option value="tl">Filipino / Tagalog</option>
+            <option value="mn">Mongolian / Монгол</option>
+
+          </optgroup>
+
+
+          <!-- Middle East & African -->
+
+          <optgroup label="🌍 Middle East & African">
+
+            <option value="fa">Persian / فارسی</option>
+            <option value="he">Hebrew / עברית</option>
+            <option value="tr">Turkish / Türkçe</option>
+            <option value="sw">Swahili / Kiswahili</option>
+            <option value="am">Amharic / አማርኛ</option>
+            <option value="yo">Yoruba</option>
+            <option value="ig">Igbo</option>
+            <option value="ha">Hausa</option>
+            <option value="zu">Zulu</option>
+            <option value="af">Afrikaans</option>
+
+          </optgroup>
+
+
+          <!-- European Languages -->
+
+          <optgroup label="🌍 European Languages">
+
+            <option value="de">German / Deutsch</option>
+            <option value="it">Italian / Italiano</option>
+            <option value="pt">Portuguese / Português</option>
+            <option value="ru">Russian / Русский</option>
+            <option value="nl">Dutch / Nederlands</option>
+            <option value="pl">Polish / Polski</option>
+            <option value="uk">Ukrainian / Українська</option>
+            <option value="cs">Czech / Čeština</option>
+            <option value="sv">Swedish / Svenska</option>
+            <option value="ro">Romanian / Română</option>
+            <option value="el">Greek / Ελληνικά</option>
+            <option value="hu">Hungarian / Magyar</option>
+            <option value="fi">Finnish / Suomi</option>
+            <option value="da">Danish / Dansk</option>
+            <option value="no">Norwegian / Norsk</option>
+            <option value="sk">Slovak / Slovenčina</option>
+            <option value="bg">Bulgarian / Български</option>
+            <option value="hr">Croatian / Hrvatski</option>
+            <option value="sr">Serbian / Српски</option>
+            <option value="ca">Catalan / Català</option>
+            <option value="lt">Lithuanian / Lietuvių</option>
+            <option value="lv">Latvian / Latviešu</option>
+            <option value="et">Estonian / Eesti</option>
+
+          </optgroup>
+
+
+          <!-- Americas -->
+
+          <optgroup label="🌎 Americas">
+
+            <option value="pt-BR">Portuguese (Brazil)</option>
+            <option value="ht">Haitian Creole</option>
+            <option value="qu">Quechua</option>
+
+          </optgroup>
+
+        </select>
+
+      </div>
+
     </div>
-
-
-    <!-- Main Languages -->
-
-    <button
-      type="button"
-      class="language-option active"
-      data-lang="en"
-      translate="no"
-    >
-      English
-    </button>
-
-    <button
-      type="button"
-      class="language-option"
-      data-lang="hi"
-      translate="no"
-    >
-      Hindi / हिन्दी
-    </button>
-
-    <button
-      type="button"
-      class="language-option"
-      data-lang="zh-CN"
-      translate="no"
-    >
-      Mandarin / 中文
-    </button>
-
-    <button
-      type="button"
-      class="language-option"
-      data-lang="es"
-      translate="no"
-    >
-      Spanish / Español
-    </button>
-
-    <button
-      type="button"
-      class="language-option"
-      data-lang="fr"
-      translate="no"
-    >
-      French / Français
-    </button>
-
-    <button
-      type="button"
-      class="language-option"
-      data-lang="ar"
-      translate="no"
-    >
-      Arabic / عربي
-    </button>
-
-
-    <!-- Divider -->
-
-    <div class="language-divider"></div>
-
-
-    <!-- More Languages -->
-
-    <label
-      class="language-more-label"
-      for="moreLanguages"
-      translate="no"
-    >
-      More Languages
-    </label>
-
-
-    <select
-      id="moreLanguages"
-      class="language-more-select"
-      translate="no"
-    >
-
-      <option value="">
-        -- Select Language --
-      </option>
-
-
-      <!-- Indian Languages -->
-
-      <optgroup label="🇮🇳 Indian Languages">
-
-        <option value="mr">Marathi / मराठी</option>
-        <option value="sa">Sanskrit / संस्कृतम्</option>
-        <option value="ta">Tamil / தமிழ்</option>
-        <option value="te">Telugu / తెలుగు</option>
-        <option value="kn">Kannada / ಕನ್ನಡ</option>
-        <option value="gu">Gujarati / ગુજરાતી</option>
-        <option value="pa">Punjabi / ਪੰਜਾਬੀ</option>
-        <option value="bn">Bengali / বাংলা</option>
-        <option value="ml">Malayalam / മലയാളം</option>
-        <option value="or">Odia / ଓଡ଼ିଆ</option>
-        <option value="as">Assamese / অসমীয়া</option>
-        <option value="ur">Urdu / اردو</option>
-        <option value="ks">Kashmiri / کٲشُر</option>
-        <option value="ne">Nepali / नेपाली</option>
-        <option value="si">Sinhala / සිංහල</option>
-        <option value="bho">Bhojpuri</option>
-        <option value="mai">Maithili</option>
-        <option value="doi">Dogri</option>
-        <option value="mni-Mtei">Manipuri</option>
-        <option value="sat">Santali</option>
-
-      </optgroup>
-
-
-      <!-- Asian Languages -->
-
-      <optgroup label="🌏 Asian Languages">
-
-        <option value="ja">Japanese / 日本語</option>
-        <option value="ko">Korean / 한국어</option>
-        <option value="th">Thai / ไทย</option>
-        <option value="vi">Vietnamese / Tiếng Việt</option>
-        <option value="id">Indonesian / Bahasa Indonesia</option>
-        <option value="ms">Malay / Bahasa Melayu</option>
-        <option value="my">Burmese / မြန်မာဘာသာ</option>
-        <option value="km">Khmer / ខ្មែរ</option>
-        <option value="lo">Lao / ລາວ</option>
-        <option value="tl">Filipino / Tagalog</option>
-        <option value="mn">Mongolian / Монгол</option>
-
-      </optgroup>
-
-
-      <!-- Middle East & African -->
-
-      <optgroup label="🌍 Middle East & African">
-
-        <option value="fa">Persian / فارسی</option>
-        <option value="he">Hebrew / עברית</option>
-        <option value="tr">Turkish / Türkçe</option>
-        <option value="sw">Swahili / Kiswahili</option>
-        <option value="am">Amharic / አማርኛ</option>
-        <option value="yo">Yoruba</option>
-        <option value="ig">Igbo</option>
-        <option value="ha">Hausa</option>
-        <option value="zu">Zulu</option>
-        <option value="af">Afrikaans</option>
-
-      </optgroup>
-
-
-      <!-- European Languages -->
-
-      <optgroup label="🌍 European Languages">
-
-        <option value="de">German / Deutsch</option>
-        <option value="it">Italian / Italiano</option>
-        <option value="pt">Portuguese / Português</option>
-        <option value="ru">Russian / Русский</option>
-        <option value="nl">Dutch / Nederlands</option>
-        <option value="pl">Polish / Polski</option>
-        <option value="uk">Ukrainian / Українська</option>
-        <option value="cs">Czech / Čeština</option>
-        <option value="sv">Swedish / Svenska</option>
-        <option value="ro">Romanian / Română</option>
-        <option value="el">Greek / Ελληνικά</option>
-        <option value="hu">Hungarian / Magyar</option>
-        <option value="fi">Finnish / Suomi</option>
-        <option value="da">Danish / Dansk</option>
-        <option value="no">Norwegian / Norsk</option>
-        <option value="sk">Slovak / Slovenčina</option>
-        <option value="bg">Bulgarian / Български</option>
-        <option value="hr">Croatian / Hrvatski</option>
-        <option value="sr">Serbian / Српски</option>
-        <option value="ca">Catalan / Català</option>
-        <option value="lt">Lithuanian / Lietuvių</option>
-        <option value="lv">Latvian / Latviešu</option>
-        <option value="et">Estonian / Eesti</option>
-
-      </optgroup>
-
-
-      <!-- Americas -->
-
-      <optgroup label="🌎 Americas">
-
-        <option value="pt-BR">Portuguese (Brazil)</option>
-        <option value="ht">Haitian Creole</option>
-        <option value="qu">Quechua</option>
-
-      </optgroup>
-
-    </select>
-
-  </div>
-
-</div>
 
   </div>
 </header>
+
 
 <!-- ==========================================
      HIDDEN GOOGLE TRANSLATE ENGINE
@@ -315,6 +331,7 @@
   id="mkg_gte_hidden"
   aria-hidden="true"
 ></div>
+
 
 <script>
 (function () {
@@ -358,7 +375,7 @@
     );
 
 
-    /* Close menu after clicking a normal link */
+    /* Close menu after clicking normal links */
 
     mainNavigation.querySelectorAll(
       "a"
@@ -368,9 +385,19 @@
         "click",
         function () {
 
+          var parent =
+            this.parentElement;
+
+
+          /*
+           * Do not close immediately for
+           * parent menu links.
+           * They should open their own page.
+           */
+
           if (
-            !this.parentElement.classList.contains(
-              "has-submenu"
+            !parent.classList.contains(
+              "nav-link-wrapper"
             )
           ) {
 
@@ -399,19 +426,19 @@
 
 
   /* ==========================================
-     MOBILE SUBMENU
+     MOBILE SUBMENU ARROWS
      ========================================== */
 
-  var submenuParents =
+  var submenuArrows =
     document.querySelectorAll(
-      ".main-nav .has-submenu > a"
+      ".main-nav .has-submenu .submenu-arrow"
     );
 
 
-  submenuParents.forEach(
-    function (parentLink) {
+  submenuArrows.forEach(
+    function (arrow) {
 
-      parentLink.addEventListener(
+      arrow.addEventListener(
         "click",
         function (event) {
 
@@ -420,12 +447,22 @@
           ) {
 
             event.preventDefault();
+            event.stopPropagation();
+
 
             var parent =
-              this.parentElement;
+              this.closest(".has-submenu");
 
-            parent.classList.toggle(
-              "submenu-open"
+
+            var isOpen =
+              parent.classList.toggle(
+                "submenu-open"
+              );
+
+
+            this.setAttribute(
+              "aria-expanded",
+              isOpen ? "true" : "false"
             );
 
           }
@@ -451,7 +488,9 @@
     document.getElementById("mkgLanguage");
 
   var languageOptions =
-    document.querySelectorAll(".language-option");
+    document.querySelectorAll(
+      ".language-option"
+    );
 
   var moreLanguages =
     document.getElementById("moreLanguages");
@@ -604,6 +643,7 @@
             "open"
           );
 
+
           languageToggle.setAttribute(
             "aria-expanded",
             "false"
@@ -626,7 +666,8 @@
       "change",
       function () {
 
-        var code = this.value;
+        var code =
+          this.value;
 
 
         if (!code) {
@@ -649,6 +690,7 @@
         languageContainer.classList.remove(
           "open"
         );
+
 
         languageToggle.setAttribute(
           "aria-expanded",
