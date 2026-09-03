@@ -1,12 +1,13 @@
 ---
 title: "Donation"
+type: "page"
+layout: "single"
 ---
 
-<section class="support-section">
-  **Scan & Donate*
-  <p>
-    Scan the QR code below to donate instantly via any UPI app.
-  </p>
-  <img src="images/mkg-upi-qr.webp" alt="MKG Digital University UPI QR Code" style="max-width:280px; width:100%; height:auto; margin:20px auto; display:block;">
-  <p><strong>UPI ID:</strong> kediganapati@oksbi</p>
-</section>
+## Scan & Donate
+
+Scan the QR code below to donate instantly via any UPI app.
+
+![MKG Digital University UPI QR Code](mkg-upi-qr.webp)
+
+**UPI ID:** kediganapati@oksbi
