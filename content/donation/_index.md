@@ -4,8 +4,8 @@ title: "Donation"
 
 <center>
 
-![UPI QR Code](/mkg-university/images/mkg-upi-qr.webp)
+<img src="/mkg-university/images/mkg-upi-qr.webp" width="250">
 
-**UPI ID:** `kediganapati@oksbi`
+UPI ID: kediganapati@oksbi
 
 </center>
