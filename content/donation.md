@@ -1,4 +1,5 @@
 ---
 title: "Donation"
-layout: "bare"
 ---
+
+{{< qr-box >}}
