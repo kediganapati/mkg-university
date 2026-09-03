@@ -71,7 +71,7 @@ MKG Digital University is therefore not intended to function as an ordinary reli
 
 ---
 
-# Why MKG Exists
+## Why MKG Exists
 
 MKG Digital University exists for several simple reasons:
 
