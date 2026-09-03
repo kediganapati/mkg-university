@@ -32,25 +32,25 @@ Your contribution will help continue the work of research, writing, and sharing 
 **UPI ID:** `kediganapati@oksbi`
 
 *Scan the QR code or copy the UPI ID and pay via any UPI app.*
-![UPI QR Code – kediganapati@oksbi](/images/upi-qr.webp)
+![UPI QR Code – kediganapati@oksbi](images/mkg-upi-qr.webp)
 
 ### ✦ Choose Your Seva Amount
 
 #### Dharma Sevak — ₹100
 
-[**Donate ₹100**](upi://pay?pa=kediganapati@oksbi&pn=MKG+University&am=100&cu=INR&tn=Dharma+Seva)
+[**Donate ₹100**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=100&cu=INR&tn=Dharma+Seva)
 
 *Small support, big impact.*
 
 #### Dharma Rakshak — ₹500
 
-[**Donate ₹500**](upi://pay?pa=kediganapati@oksbi&pn=MKG+University&am=500&cu=INR&tn=Dharma+Seva)
+[**Donate ₹500**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=500&cu=INR&tn=Dharma+Seva)
 
 *Your contribution creates change.*
 
 #### Dharma Stambha — ₹1000
 
-[**Donate ₹1000**](upi://pay?pa=kediganapati@oksbi&pn=MKG+University&am=1000&cu=INR&tn=Dharma+Seva)
+[**Donate ₹1000**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=1000&cu=INR&tn=Dharma+Seva)
 
 *Be a pillar of this mission.*
 
