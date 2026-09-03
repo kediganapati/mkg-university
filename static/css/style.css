@@ -9,7 +9,9 @@
   --max-width: 960px;
 }
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 body {
   margin: 0;
@@ -19,10 +21,20 @@ body {
   line-height: 1.7;
 }
 
-a { color: var(--saffron-dark); text-decoration: none; }
-a:hover { text-decoration: underline; }
+a {
+  color: var(--saffron-dark);
+  text-decoration: none;
+}
 
-/* Header */
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
 .site-header {
   position: sticky;
   top: 0;
@@ -31,6 +43,7 @@ a:hover { text-decoration: underline; }
   color: #fff;
   border-bottom: 3px solid var(--saffron);
 }
+
 .header-inner {
   max-width: var(--max-width);
   margin: 0 auto;
@@ -38,38 +51,105 @@ a:hover { text-decoration: underline; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
+  gap: 0.6rem;
+  flex-wrap: nowrap;
 }
+
 .brand {
   display: flex;
   align-items: center;
   gap: 0.6rem;
   color: #fff;
+  flex-shrink: 0;
 }
-.brand:hover { text-decoration: none; }
-.brand-text { font-size: 1rem; line-height: 1rem; }
-.brand-text strong { color: var(--saffron); font-size: 1.1rem; }
-.brand-text small { display: block; color: var(--saffron); font-size: 1.1rem; letter-spacing: 0.03em; }
+
+.brand:hover {
+  text-decoration: none;
+}
+
+.brand-text {
+  font-size: 1rem;
+  line-height: 1rem;
+}
+
+.brand-text strong {
+  color: var(--saffron);
+  font-size: 1.1rem;
+}
+
+.brand-text small {
+  display: block;
+  color: var(--saffron);
+  font-size: 1.1rem;
+  letter-spacing: 0.03em;
+}
+
+
+/* =========================================================
+   MAIN NAVIGATION
+   ========================================================= */
+
+.main-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
 
 .main-nav ul {
   list-style: none;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
+  flex-wrap: nowrap;
+  gap: 0.15rem;
   margin: 0;
   padding: 0;
 }
-.main-nav a { 
-  color: #eee; 
-  font-size: 1.05rem; 
-  text-transform: uppercase;
-  letter-spacing: 0.5px; /* optional - thoda spacing acha lagta hai capital text me */
-  padding: 0.4rem 0.5rem;
-}
-.main-nav a:hover { color: var(--saffron); }
 
-/* Submenu (dropdown) styles - naya code */
+.main-nav > ul {
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.main-nav a {
+  color: #eee;
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  padding: 0.25rem 0.3rem;
+  white-space: nowrap;
+}
+
+.main-nav a:hover {
+  color: var(--saffron);
+}
+
+
+/* =========================================================
+   NAVIGATION LINK + SUBMENU ARROW
+   ========================================================= */
+
+.nav-link-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link-wrapper > a {
+  flex: 0 1 auto;
+}
+
+.submenu-arrow {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0 0.15rem;
+  font-size: 0.65rem;
+  line-height: 1;
+}
+
+
+/* =========================================================
+   SUBMENU - DESKTOP
+   ========================================================= */
+
 .main-nav ul li {
   position: relative;
 }
@@ -98,46 +178,79 @@ a:hover { text-decoration: underline; }
   padding: 0.5rem 1rem;
   white-space: nowrap;
   font-size: 0.95rem;
+  text-transform: none;
 }
 
 .main-nav .has-submenu:hover .submenu {
   display: flex;
 }
 
-/* Hero */
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
 .hero {
   text-align: center;
-  background: linear-gradient(180deg, #fff3e2 0%, var(--paper) 100%);
+  background: linear-gradient(
+    180deg,
+    #fff3e2 0%,
+    var(--paper) 100%
+  );
   border-bottom: 1px solid var(--border);
 }
+
 .hero:has(.hero-image) {
   padding: 0;
   background: none;
   border-bottom: none;
 }
+
 .hero:not(:has(.hero-image)) {
   padding: 1.5rem 1.25rem 2rem;
 }
-.hero-om { font-size: 2.5rem; color: var(--saffron); margin: 0; }
-.hero h1 { margin: 0.2rem 0; font-size: 1.9rem; }
-.hero-tagline { color: var(--muted); font-size: 1.05rem; }
-.hero-intro { max-width: 640px; margin: 1rem auto 0; color: var(--ink); }
 
-/* Content */
-/* Content containers ko ek optimal, readable width aur padding dene ke liye */
-.site-main { 
-  max-width: 1000px; 
-  margin: 0 auto; 
-  padding: 2rem 1.5rem 4rem; 
+.hero-om {
+  font-size: 2.5rem;
+  color: var(--saffron);
+  margin: 0;
+}
+
+.hero h1 {
+  margin: 0.2rem 0;
+  font-size: 1.9rem;
+}
+
+.hero-tagline {
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.hero-intro {
+  max-width: 640px;
+  margin: 1rem auto 0;
+  color: var(--ink);
+}
+
+
+/* =========================================================
+   CONTENT
+   ========================================================= */
+
+.site-main {
+  max-width: 1000px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 2rem 1.5rem 4rem !important;
 }
 
 .site-main.has-sidebar {
-  max-width: 1000px;
-  display: grid;
-  grid-template-columns: 1fr 280px;
-  gap: 2.5rem;
-  align-items: start;
-  padding: 2rem 1.5rem 4rem;
+  display: grid !important;
+  grid-template-columns: 1fr 280px !important;
+  max-width: 1250px !important;
+  gap: 2.5rem !important;
+  margin: 0 auto !important;
+  padding: 2rem 1.5rem 4rem !important;
 }
 
 .main-content {
@@ -146,8 +259,12 @@ a:hover { text-decoration: underline; }
   width: 100%;
 }
 
-.single-page {
-  max-width: 100%;
+.single-page,
+article {
+  max-width: 1200px !important;
+  width: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .sidebar {
@@ -155,11 +272,22 @@ a:hover { text-decoration: underline; }
   flex-direction: column;
   gap: 1.2rem;
   position: sticky;
-  top: 5rem; /* Header ke niche se sticky rahega */
+  top: 5rem;
 }
-.content-grid h2, .subjects-grid h2 { text-align: center; margin-bottom: 1.2rem; }
-.subjects-grid { margin-top: 2.5rem; }
-.content-grid { padding-top: 3rem; }
+
+.content-grid h2,
+.subjects-grid h2 {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+
+.subjects-grid {
+  margin-top: 2.5rem;
+}
+
+.content-grid {
+  padding-top: 3rem;
+}
 
 .intro-text {
   font-size: 1.5rem;
@@ -172,7 +300,14 @@ a:hover { text-decoration: underline; }
   padding: 0 1.25rem;
 }
 
-.grid-3 { grid-template-columns: repeat(3, 1fr); }
+
+/* =========================================================
+   SUBJECT GRID
+   ========================================================= */
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
 
 .subject-card {
   display: block;
@@ -182,81 +317,64 @@ a:hover { text-decoration: underline; }
   padding: 1.3rem 1.2rem;
   text-align: center;
   color: var(--ink);
-  transition: box-shadow 0.15s, transform 0.15s;
+  transition:
+    box-shadow 0.15s,
+    transform 0.15s;
 }
+
 .subject-card:hover {
   text-decoration: none;
   box-shadow: 0 4px 14px rgba(255, 119, 0, 0.15);
   transform: translateY(-2px);
 }
-.subject-icon { font-size: 1.8rem; display: block; margin-bottom: 0.4rem; }
-.subject-card h3 { margin: 0 0 0.3rem; color: var(--saffron-dark); font-size: 1.2rem; }
-.subject-card p { margin: 0; color: var(--muted); font-size: 0.85rem; }
 
-/* Hero image */
-.hero-image {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
+.subject-icon {
+  font-size: 1.8rem;
   display: block;
-  margin: 0;
+  margin-bottom: 0.4rem;
 }
 
-/* Sidebar widgets */
-.sidebar { display: flex; flex-direction: column; gap: 1.2rem; }
-.widget {
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 1.1rem 1.2rem;
-}
-.widget h4 {
-  margin: 0 0 0.6rem;
+.subject-card h3 {
+  margin: 0 0 0.3rem;
   color: var(--saffron-dark);
-  font-size: 0.95rem;
-  border-bottom: 2px solid var(--border);
-  padding-bottom: 0.4rem;
-}
-.widget p { margin: 0; font-size: 0.9rem; color: var(--muted); }
-.widget-links { list-style: none; margin: 0; padding: 0; }
-.widget-links li { margin-bottom: 0.45rem; font-size: 0.9rem; }
-.widget-author-photo {
-  width: 100%;
-  max-width: 140px;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 0.8rem;
-}
-.widget-author {
-  text-align: center;
+  font-size: 1.2rem;
 }
 
-@media (max-width: 800px) {
-  .site-main.has-sidebar { 
-    grid-template-columns: 1fr; 
-  }
-  .grid-3 { 
-    grid-template-columns: 1fr; 
-  }
+.subject-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.85rem;
 }
 
-@media (min-width: 801px) and (max-width: 980px) {
-  .grid-3 { 
-    grid-template-columns: 1fr 1fr; 
-  }
+
+/* =========================================================
+   HERO IMAGE
+   ========================================================= */
+
+.hero-image {
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  aspect-ratio: unset !important;
+  object-fit: unset !important;
+  display: block !important;
+  margin: 0 auto !important;
 }
 
-@media (min-width: 801px) and (max-width: 980px) {
-  .grid-3 { 
-    grid-template-columns: 1fr 1fr; 
-  }
-}
+
+/* =========================================================
+   CARD GRID
+   ========================================================= */
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(260px, 1fr)
+  );
   gap: 1.2rem;
 }
+
 .card {
   display: block;
   background: var(--card-bg);
@@ -264,15 +382,29 @@ a:hover { text-decoration: underline; }
   border-radius: 8px;
   padding: 1.1rem 1.2rem;
   color: var(--ink);
-  transition: box-shadow 0.15s, transform 0.15s;
+  transition:
+    box-shadow 0.15s,
+    transform 0.15s;
 }
+
 .card:hover {
   text-decoration: none;
   box-shadow: 0 4px 14px rgba(255, 119, 0, 0.15);
   transform: translateY(-2px);
 }
-.card h3 { margin: 0 0 0.4rem; color: var(--saffron-dark); font-size: 1.05rem; }
-.card p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.92rem; }
+
+.card h3 {
+  margin: 0 0 0.4rem;
+  color: var(--saffron-dark);
+  font-size: 1.05rem;
+}
+
+.card p {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
 .card-tag {
   display: inline-block;
   font-size: 0.72rem;
@@ -282,26 +414,21 @@ a:hover { text-decoration: underline; }
   border-radius: 20px;
 }
 
-/* Single/List pages */
-.page-header { margin-bottom: 1.5rem; border-bottom: 2px solid var(--border); padding-bottom: 1rem; }
-.page-header h1 {
-  margin: 0 0 0.4rem;
-  font-size: 2.5rem;
-  text-align: center;
+
+/* =========================================================
+   FEATURED / CARD IMAGES
+   ========================================================= */
+
+.card img,
+.subject-card img,
+.page-featured-image img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  object-fit: cover !important;
+  display: block !important;
 }
-.page-meta { color: var(--muted); font-size: 0.88rem; }
-.tag {
-  display: inline-block;
-  background: #fff1e0;
-  color: var(--saffron-dark);
-  font-size: 0.75rem;
-  padding: 0.1rem 0.5rem;
-  border-radius: 20px;
-  margin-right: 0.3rem;
-}
-.page-content, .page-intro { font-size: 1.5rem; }
-article { font-size: 1.5rem; }
-.page-content h2, .page-content h3 { color: var(--saffron-dark); }
+
 .page-featured-image {
   width: 100%;
   max-width: 100%;
@@ -311,14 +438,52 @@ article { font-size: 1.5rem; }
   z-index: 1;
 }
 
-.page-featured-image img {
-  width: 100%;
-  height: auto;
-  max-height: 500px;      /* image ki height control karega */
-  object-fit: cover;      /* crop hoga lekin distort nahi hoga */
-  display: block;
-  border-radius: 8px;
+
+/* =========================================================
+   SINGLE / LIST PAGES
+   ========================================================= */
+
+.page-header {
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 1rem;
 }
+
+.page-header h1 {
+  margin: 0 0 0.4rem;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.page-meta {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.tag {
+  display: inline-block;
+  background: #fff1e0;
+  color: var(--saffron-dark);
+  font-size: 0.75rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 20px;
+  margin-right: 0.3rem;
+}
+
+.page-content,
+.page-intro {
+  font-size: 1.5rem;
+}
+
+article {
+  font-size: 1.5rem;
+}
+
+.page-content h2,
+.page-content h3 {
+  color: var(--saffron-dark);
+}
+
 .page-content blockquote {
   border-left: 3px solid var(--saffron);
   margin: 1.2rem 0;
@@ -328,73 +493,142 @@ article { font-size: 1.5rem; }
   background: #fff8ef;
 }
 
-/* Footer */
-.site-footer {
-  background: var(--ink);
-  color: #ccc;
+
+/* =========================================================
+   SIDEBAR WIDGETS
+   ========================================================= */
+
+.widget {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem 1.2rem;
+}
+
+.widget h4 {
+  margin: 0 0 0.6rem;
+  color: var(--saffron-dark);
+  font-size: 0.95rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.4rem;
+}
+
+.widget p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.widget-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.widget-links li {
+  margin-bottom: 0.45rem;
+  font-size: 0.9rem;
+}
+
+.widget-author-photo {
+  width: 100%;
+  max-width: 140px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 0.8rem;
+}
+
+.widget-author {
   text-align: center;
-  padding: 2rem 1.25rem;
+}
+
+
+/* =========================================================
+   BOOKS
+   ========================================================= */
+
+.books-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(180px, 1fr)
+  );
+  gap: 1.5rem;
   margin-top: 2rem;
 }
-.footer-om { color: var(--saffron); letter-spacing: 0.3em; }
-.footer-social a { color: #eee; }
-.footer-social a:hover { color: var(--saffron); }
-.footer-copy { font-size: 0.8rem; color: #998; margin-top: 0.6rem; }
 
-@media (max-width: 640px) {
-  .header-inner { flex-direction: column; align-items: flex-start; }
-  .main-nav ul { gap: 1.2rem; }
-  .hero h1 { font-size: 1.5rem; }
-}
-/* 1. Global site container aur main content ki width badhane ke liye */
-/* 1. Normal Pages (jaise About, Contact) ke liye width 1000px */
-.site-main {
-  max-width: 1000px !important;
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1.5rem !important;
-  padding-right: 1.5rem !important;
+.book-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
 }
 
-/* 2. Blog Posts aur Sidebar wale pages ke liye width 1200px */
-.site-main.has-sidebar {
-  display: grid !important;
-  grid-template-columns: 1fr 280px !important;
-  max-width: 1250px !important;
-  gap: 2.5rem !important;
-  margin: 0 auto !important;
-  padding-left: 1.5rem !important;
-  padding-right: 1.5rem !important;
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
 }
 
-.single-page, article {
-  max-width: 1200px !important;
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-/* Home page aur list pages par featured images ko 16:9 ratio dene ke liye */
-.card img, 
-.subject-card img, 
-.page-featured-image img {
-    width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9 !important;
-    object-fit: cover !important;
-    display: block !important;
+.book-cover {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
 }
 
-.hero-image {
-    width: auto !important;
-    max-width: 100% !important;
-    height: auto !important;
-    aspect-ratio: unset !important;
-    object-fit: unset !important;
-    display: block !important;
-    margin: 0 auto !important;
+.book-info {
+  padding: 0.8rem;
+  text-align: center;
 }
-/* Back to Top Button */
+
+.book-info h3 {
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.book-info h3 a {
+  color: #1e293b;
+  text-decoration: none;
+}
+
+.book-info h3 a:hover {
+  color: #2563eb;
+}
+
+.books-container h1 {
+  text-align: center;
+}
+
+
+/* =========================================================
+   UPI QR CODE
+   ========================================================= */
+
+img[alt="UPI QR Code – kediganapati@oksbi"] {
+  width: 200px !important;
+  max-width: 200px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
+}
+
+
+/* =========================================================
+   BACK TO TOP BUTTON
+   ========================================================= */
+
 #backToTop {
   position: fixed;
   right: 25px;
@@ -403,7 +637,7 @@ article { font-size: 1.5rem; }
   height: 45px;
   border: none;
   border-radius: 50%;
- background: #f28c28;
+  background: #f28c28;
   color: #fff;
   font-size: 22px;
   cursor: pointer;
@@ -413,9 +647,10 @@ article { font-size: 1.5rem; }
   visibility: hidden;
   transform: translateY(10px);
 
-  transition: opacity 0.3s ease,
-              visibility 0.3s ease,
-              transform 0.3s ease;
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease,
+    transform 0.3s ease;
 }
 
 #backToTop.show {
@@ -427,551 +662,21 @@ article { font-size: 1.5rem; }
 #backToTop:hover {
   transform: translateY(-3px);
 }
-.books-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem 1rem;
-}
-
-.book-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 1.5rem;
-    margin-top: 2rem;
-}
-
-.book-card {
-    background: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: flex;
-    flex-direction: column;
-}
-
-.book-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-}
-
-.book-cover {
-    width: 100%;
-    height: 260px;
-    object-fit: cover;
-    display: block;
-}
-
-.book-info {
-    padding: 0.8rem;
-    text-align: center;
-}
-
-.book-info h3 {
-    font-size: 0.95rem;
-    margin: 0;
-}
-
-.book-info h3 a {
-    color: #1e293b;
-    text-decoration: none;
-}
-
-.book-info h3 a:hover {
-    color: #2563eb;
-}
-.books-container h1 {
-    text-align: center;
-}
-/* UPI QR Code */
-
-img[alt="UPI QR Code – kediganapati@oksbi"] {
-  width: 200px !important;
-  max-width: 200px !important;
-  height: auto !important;
-  display: block !important;
-  margin: 20px auto !important;
-}
-/* =========================================================
-   MKG LANGUAGE SWITCHER
-   Compact Header Version
-   ========================================================= */
-
-
-/* Google Fonts */
-
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Lato:wght@400;500&display=swap');
-
-
-/* Main Container */
-
-.mkg-language {
-  position: relative;
-  width: auto;
-  flex-shrink: 0;
-  font-family: "Lato", sans-serif;
-}
-
-
-/* Language Button */
-
-.language-toggle {
-  appearance: none;
-  -webkit-appearance: none;
-
-  display: flex;
-  align-items: center;
-  gap: 6px;
-
-  padding: 8px 12px;
-
-  border: 1px solid rgba(200, 134, 10, 0.65);
-
-  border-radius: 20px;
-
-  background: transparent;
-
-  color: #eee;
-
-  font-family: "Lato", sans-serif;
-
-  font-size: 0.85rem;
-
-  line-height: 1;
-
-  cursor: pointer;
-
-  transition:
-    background 0.2s ease,
-    color 0.2s ease,
-    border-color 0.2s ease,
-    transform 0.2s ease;
-}
-
-
-/* Button Hover */
-
-.language-toggle:hover {
-
-  background: #C8860A;
-
-  border-color: #C8860A;
-
-  color: #fff;
-
-}
-
-
-/* Arrow */
-
-.language-arrow {
-
-  font-size: 11px;
-
-  transition:
-    transform 0.2s ease;
-}
-
-
-/* Rotate Arrow */
-
-.mkg-language.open
-.language-arrow {
-
-  transform: rotate(180deg);
-
-}
 
 
 /* =========================================================
-   DROPDOWN MENU
+   SUPPORT SECTION
    ========================================================= */
 
-.language-menu {
-
-  display: none;
-
-  position: absolute;
-
-  top: calc(100% + 10px);
-
-  right: 0;
-
-  width: 260px;
-
-  max-width: calc(100vw - 30px);
-
-  padding: 14px;
-
-  background: #fffaf3;
-
-  border:
-    1px solid
-    rgba(200, 134, 10, 0.3);
-
-  border-radius: 12px;
-
-  box-shadow:
-    0 10px 30px
-    rgba(43, 35, 32, 0.18);
-
-  z-index: 99999;
-
-}
-
-
-/* Show Menu */
-
-.mkg-language.open
-.language-menu {
-
-  display: block;
-
-}
-
-
-/* =========================================================
-   MENU TITLE
-   ========================================================= */
-
-.language-menu-title {
-
-  font-family:
-    "Cinzel",
-    Georgia,
-    serif;
-
-  font-size: 11px;
-
-  font-weight: 700;
-
-  letter-spacing: 1.5px;
-
-  text-transform: uppercase;
-
-  color: #7A3B0C;
-
-  padding-bottom: 9px;
-
-  margin-bottom: 8px;
-
-  border-bottom:
-    1px solid
-    rgba(200, 134, 10, 0.25);
-
-}
-
-
-/* =========================================================
-   LANGUAGE OPTIONS
-   ========================================================= */
-
-.language-option {
-
-  appearance: none;
-  -webkit-appearance: none;
-
-  display: block;
-
-  width: 100%;
-
-  border: none;
-
-  border-radius: 7px;
-
-  background: transparent;
-
-  color: #4A2506;
-
-  font-family:
-    "Lato",
-    sans-serif;
-
-  font-size: 12px;
-
-  text-align: left;
-
-  padding: 8px 10px;
-
-  margin: 2px 0;
-
-  cursor: pointer;
-
-  transition:
-    background 0.15s ease,
-    color 0.15s ease;
-}
-
-
-/* Hover */
-
-.language-option:hover {
-
-  background:
-    linear-gradient(
-      135deg,
-      #C8860A,
-      #D4580A
-    );
-
-  color: #fff;
-
-}
-
-
-/* Active */
-
-.language-option.active {
-
-  background:
-    linear-gradient(
-      135deg,
-      #7A3B0C,
-      #C8860A
-    );
-
-  color: #fff;
-
-}
-
-
-/* =========================================================
-   DIVIDER
-   ========================================================= */
-
-.language-divider {
-
-  height: 1px;
-
-  background:
-    rgba(200, 134, 10, 0.25);
-
-  margin: 9px 0;
-
-}
-
-
-/* =========================================================
-   MORE LANGUAGES
-   ========================================================= */
-
-.language-more-label {
-
-  display: block;
-
-  font-size: 10px;
-
-  color: #B5651D;
-
-  margin-bottom: 5px;
-
-}
-
-
-/* Select */
-
-.language-more-select {
-
-  appearance: none;
-  -webkit-appearance: none;
-
-  display: block;
-
-  width: 100%;
-
-  padding: 7px 9px;
-
-  border:
-    1px solid
-    rgba(200, 134, 10, 0.4);
-
-  border-radius: 6px;
-
-  background: #fff;
-
-  color: #4A2506;
-
-  font-family:
-    "Lato",
-    sans-serif;
-
-  font-size: 11px;
-
-  cursor: pointer;
-
-  outline: none;
-}
-
-
-/* Select Focus */
-
-.language-more-select:focus {
-
-  border-color: #C8860A;
-
-  box-shadow:
-    0 0 0 2px
-    rgba(200, 134, 10, 0.12);
-
-}
-
-
-/* =========================================================
-   HIDE GOOGLE TRANSLATE ORIGINAL UI
-   ========================================================= */
-
-#mkg_gte_hidden {
-
-  display: none !important;
-
-  position: absolute !important;
-
-  width: 0 !important;
-
-  height: 0 !important;
-
-  overflow: hidden !important;
-
-}
-
-
-#mkg_gte_hidden
-.goog-te-gadget {
-
-  display: none !important;
-
-}
-
-
-.goog-te-gadget {
-
-  display: none !important;
-
-}
-
-
-.goog-te-combo {
-
-  display: none !important;
-
-}
-
-
-.goog-logo-link {
-
-  display: none !important;
-
-}
-
-
-.goog-te-banner-frame {
-
-  display: none !important;
-
-}
-
-
-.goog-te-balloon-frame {
-
-  display: none !important;
-
-}
-
-
-.goog-tooltip {
-
-  display: none !important;
-
-}
-
-
-/* Prevent Google Translate from
-   pushing the page downward */
-
-body {
-
-  top: 0 !important;
-
-}
-
-
-/* =========================================================
-   DESKTOP
-   ========================================================= */
-
-@media (min-width: 801px) {
-
-  .mkg-language {
-
-    margin-left: 0.5rem;
-
-  }
-
-}
-
-
-/* =========================================================
-   TABLET
-   ========================================================= */
-
-@media (max-width: 1000px) {
-
-  .language-toggle {
-
-    font-size: 0.8rem;
-
-    padding: 7px 10px;
-
-  }
-
-}
-
-
-/* =========================================================
-   MOBILE
-   ========================================================= */
-
-@media (max-width: 640px) {
-
-  .mkg-language {
-
-    width: 100%;
-
-  }
-
-
-  .language-toggle {
-
-    width: 100%;
-
-    justify-content: center;
-
-  }
-
-
-  .language-menu {
-
-    left: 0;
-
-    right: auto;
-
-    width: 100%;
-
-    max-width: 100%;
-
-  }
-
-}
 .support-section {
   text-align: center;
   max-width: 700px;
   margin: 10px auto;
-  padding: 0px 20px;
+  padding: 0 20px;
 }
 
 .support-section h2 {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: "Playfair Display", Georgia, serif;
   font-size: 2.2rem;
   color: #2b211c;
   margin-bottom: 16px;
@@ -992,7 +697,9 @@ body {
   font-weight: 600;
   padding: 12px 32px;
   border-radius: 6px;
-  transition: background 0.25s ease, transform 0.2s ease;
+  transition:
+    background 0.25s ease,
+    transform 0.2s ease;
 }
 
 .support-button:hover {
@@ -1000,7 +707,11 @@ body {
   transform: translateY(-2px);
 }
 
-/* Social Share Card */
+
+/* =========================================================
+   SOCIAL SHARE
+   ========================================================= */
+
 .social-share {
   margin-top: 2.5rem;
   background: #4a1418 !important;
@@ -1044,7 +755,9 @@ body {
   text-decoration: none !important;
   border: none;
   cursor: pointer;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .share-btn svg {
@@ -1056,42 +769,449 @@ body {
 
 .share-btn:hover {
   transform: translateY(-4px) rotate(-4deg);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.35);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.35);
 }
 
 .share-btn:hover svg {
   transform: scale(1.15);
 }
 
-.share-btn.facebook   { background: #1877F2 !important; }
-.share-btn.twitter    { background: #000000 !important; }
-.share-btn.whatsapp   { background: #25D366 !important; }
-.share-btn.linkedin   { background: #0A66C2 !important; }
-.share-btn.pinterest  { background: #E60023 !important; }
-.share-btn.reddit     { background: #FF4500 !important; }
-.share-btn.telegram   { background: #229ED9 !important; }
-.share-btn.tumblr     { background: #35465C !important; }
-.share-btn.email      { background: #6b7280 !important; }
-.share-btn.copy-link  { background: #4b5563 !important; }
-
-@media (max-width: 480px) {
-  .social-share h3 { font-size: 1rem; white-space: normal; }
-  .share-btn { width: 36px; height: 36px; }
-  .share-btn svg { width: 16px; height: 16px; }
-  .social-share-buttons { gap: 0.4rem; }
+.share-btn.facebook {
+  background: #1877F2 !important;
 }
+
+.share-btn.twitter {
+  background: #000000 !important;
+}
+
+.share-btn.whatsapp {
+  background: #25D366 !important;
+}
+
+.share-btn.linkedin {
+  background: #0A66C2 !important;
+}
+
+.share-btn.pinterest {
+  background: #E60023 !important;
+}
+
+.share-btn.reddit {
+  background: #FF4500 !important;
+}
+
+.share-btn.telegram {
+  background: #229ED9 !important;
+}
+
+.share-btn.tumblr {
+  background: #35465C !important;
+}
+
+.share-btn.email {
+  background: #6b7280 !important;
+}
+
+.share-btn.copy-link {
+  background: #4b5563 !important;
+}
+
+
 /* =========================================================
-   MOBILE HEADER MENU
+   GOOGLE FONTS
+   ========================================================= */
+
+@import url(
+  "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Lato:wght@400;500&display=swap"
+);
+
+
+/* =========================================================
+   MKG LANGUAGE SWITCHER
+   ========================================================= */
+
+.mkg-language {
+  position: relative;
+  width: auto;
+  flex-shrink: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.language-toggle {
+  appearance: none;
+  -webkit-appearance: none;
+
+  display: flex;
+  align-items: center;
+  gap: 6px;
+
+  padding: 8px 12px;
+
+  border: 1px solid rgba(200, 134, 10, 0.65);
+  border-radius: 20px;
+
+  background: transparent;
+  color: #eee;
+
+  font-family: "Lato", sans-serif;
+  font-size: 0.85rem;
+  line-height: 1;
+
+  cursor: pointer;
+
+  white-space: nowrap;
+
+  transition:
+    background 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.language-toggle:hover {
+  background: #C8860A;
+  border-color: #C8860A;
+  color: #fff;
+}
+
+.language-arrow {
+  font-size: 11px;
+  transition: transform 0.2s ease;
+}
+
+.mkg-language.open .language-arrow {
+  transform: rotate(180deg);
+}
+
+
+/* =========================================================
+   LANGUAGE DROPDOWN
+   ========================================================= */
+
+.language-menu {
+  display: none;
+
+  position: absolute;
+
+  top: calc(100% + 10px);
+  right: 0;
+
+  width: 260px;
+  max-width: calc(100vw - 30px);
+
+  padding: 14px;
+
+  background: #fffaf3;
+
+  border: 1px solid rgba(200, 134, 10, 0.3);
+  border-radius: 12px;
+
+  box-shadow:
+    0 10px 30px
+    rgba(43, 35, 32, 0.18);
+
+  z-index: 99999;
+}
+
+.mkg-language.open .language-menu {
+  display: block;
+}
+
+
+/* =========================================================
+   LANGUAGE MENU TITLE
+   ========================================================= */
+
+.language-menu-title {
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+
+  color: #7A3B0C;
+
+  padding-bottom: 9px;
+  margin-bottom: 8px;
+
+  border-bottom:
+    1px solid
+    rgba(200, 134, 10, 0.25);
+}
+
+
+/* =========================================================
+   LANGUAGE OPTIONS
+   ========================================================= */
+
+.language-option {
+  appearance: none;
+  -webkit-appearance: none;
+
+  display: block;
+  width: 100%;
+
+  border: none;
+  border-radius: 7px;
+
+  background: transparent;
+  color: #4A2506;
+
+  font-family:
+    "Lato",
+    sans-serif;
+
+  font-size: 12px;
+  text-align: left;
+
+  padding: 8px 10px;
+  margin: 2px 0;
+
+  cursor: pointer;
+
+  transition:
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.language-option:hover {
+  background:
+    linear-gradient(
+      135deg,
+      #C8860A,
+      #D4580A
+    );
+
+  color: #fff;
+}
+
+.language-option.active {
+  background:
+    linear-gradient(
+      135deg,
+      #7A3B0C,
+      #C8860A
+    );
+
+  color: #fff;
+}
+
+
+/* =========================================================
+   LANGUAGE DIVIDER
+   ========================================================= */
+
+.language-divider {
+  height: 1px;
+
+  background:
+    rgba(200, 134, 10, 0.25);
+
+  margin: 9px 0;
+}
+
+
+/* =========================================================
+   MORE LANGUAGES
+   ========================================================= */
+
+.language-more-label {
+  display: block;
+  font-size: 10px;
+  color: #B5651D;
+  margin-bottom: 5px;
+}
+
+.language-more-select {
+  appearance: none;
+  -webkit-appearance: none;
+
+  display: block;
+  width: 100%;
+
+  padding: 7px 9px;
+
+  border:
+    1px solid
+    rgba(200, 134, 10, 0.4);
+
+  border-radius: 6px;
+
+  background: #fff;
+  color: #4A2506;
+
+  font-family:
+    "Lato",
+    sans-serif;
+
+  font-size: 11px;
+
+  cursor: pointer;
+  outline: none;
+}
+
+.language-more-select:focus {
+  border-color: #C8860A;
+
+  box-shadow:
+    0 0 0 2px
+    rgba(200, 134, 10, 0.12);
+}
+
+
+/* =========================================================
+   HIDE GOOGLE TRANSLATE ORIGINAL UI
+   ========================================================= */
+
+#mkg_gte_hidden {
+  display: none !important;
+  position: absolute !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+#mkg_gte_hidden .goog-te-gadget {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  display: none !important;
+}
+
+.goog-te-combo {
+  display: none !important;
+}
+
+.goog-logo-link {
+  display: none !important;
+}
+
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+.goog-te-balloon-frame {
+  display: none !important;
+}
+
+.goog-tooltip {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+
+/* =========================================================
+   DESKTOP / LAPTOP HEADER
+   Keep Language in the same row
+   ========================================================= */
+
+@media (min-width: 641px) {
+
+  .header-inner {
+    flex-wrap: nowrap !important;
+  }
+
+  .brand {
+    flex-shrink: 0;
+  }
+
+  .main-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .main-nav > ul {
+    flex-wrap: nowrap !important;
+    gap: 0.15rem !important;
+  }
+
+  .main-nav > ul > li {
+    flex-shrink: 0;
+  }
+
+  .main-nav > ul > li > .nav-link-wrapper > a {
+    font-size: 0.88rem;
+    padding: 0.25rem 0.3rem;
+  }
+
+  .nav-link-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-link-wrapper > a {
+    flex: 0 1 auto;
+  }
+
+  .submenu-arrow {
+    padding-left: 0.15rem;
+    padding-right: 0.15rem;
+    font-size: 0.65rem;
+  }
+
+  .mkg-language {
+    flex-shrink: 0 !important;
+    width: auto !important;
+    margin-left: 0.2rem;
+    white-space: nowrap;
+  }
+
+  .language-toggle {
+    white-space: nowrap;
+  }
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (min-width: 801px) and (max-width: 980px) {
+
+  .grid-3 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .language-toggle {
+    font-size: 0.8rem;
+    padding: 7px 10px;
+  }
+
+}
+
+
+/* =========================================================
+   RESPONSIVE CONTENT
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .site-main.has-sidebar {
+    grid-template-columns: 1fr !important;
+  }
+
+  .grid-3 {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE HEADER
    ========================================================= */
 
 .mobile-menu-toggle {
   display: none;
 }
-
-
-/* =========================================================
-   MOBILE
-   ========================================================= */
 
 @media (max-width: 640px) {
 
@@ -1102,16 +1222,22 @@ body {
 
   .header-inner {
     position: relative;
+
     flex-direction: row !important;
     align-items: center !important;
     justify-content: space-between !important;
+
     flex-wrap: wrap !important;
+
     gap: 0.5rem;
+
     padding: 0.7rem 1rem;
   }
 
 
-  /* MKG Brand */
+  /* ------------------------------------------
+     BRAND
+     ------------------------------------------ */
 
   .brand {
     flex: 1;
@@ -1132,7 +1258,9 @@ body {
   }
 
 
-  /* Hamburger */
+  /* ------------------------------------------
+     HAMBURGER
+     ------------------------------------------ */
 
   .mobile-menu-toggle {
     display: flex;
@@ -1140,12 +1268,17 @@ body {
     align-items: center;
     justify-content: center;
 
+    flex: 0 0 42px;
+
     width: 42px;
     height: 42px;
 
     padding: 0;
 
-    border: 1px solid rgba(255,255,255,0.35);
+    border:
+      1px solid
+      rgba(255, 255, 255, 0.35);
+
     border-radius: 7px;
 
     background: transparent;
@@ -1163,22 +1296,29 @@ body {
   }
 
 
-  /* Main Navigation */
+  /* ------------------------------------------
+     MOBILE MAIN NAVIGATION
+     ------------------------------------------ */
 
   .main-nav {
     display: none;
+
     width: 100%;
+
     order: 3;
+
+    flex: 0 0 100%;
   }
 
   .main-nav.mobile-open {
     display: block;
   }
 
-
   .main-nav > ul {
     display: flex !important;
+
     flex-direction: column;
+
     gap: 0 !important;
 
     width: 100%;
@@ -1186,23 +1326,36 @@ body {
     margin: 0;
     padding: 0.5rem 0;
 
-    border-top: 1px solid rgba(255,255,255,0.15);
+    border-top:
+      1px solid
+      rgba(255, 255, 255, 0.15);
   }
-
 
   .main-nav > ul > li {
     width: 100%;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+
+    border-bottom:
+      1px solid
+      rgba(255, 255, 255, 0.1);
   }
 
 
-  .main-nav > ul > li > a {
+  /* ------------------------------------------
+     MOBILE LINK WRAPPER
+     ------------------------------------------ */
+
+  .nav-link-wrapper {
+    width: 100%;
+
     display: flex;
 
     align-items: center;
-    justify-content: space-between;
+  }
 
-    width: 100%;
+  .nav-link-wrapper > a {
+    flex: 1;
+
+    width: auto;
 
     padding: 0.7rem 0.3rem;
 
@@ -1210,7 +1363,35 @@ body {
   }
 
 
-  /* Mobile Submenu */
+  /* ------------------------------------------
+     MOBILE SUBMENU ARROW
+     ------------------------------------------ */
+
+  .submenu-arrow {
+    flex: 0 0 auto;
+
+    width: 40px;
+    height: 40px;
+
+    padding: 0;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    margin-left: auto;
+
+    font-size: 0.8rem;
+
+    transition:
+      transform 0.2s ease;
+  }
+
+
+  /* ------------------------------------------
+     MOBILE SUBMENU
+     ------------------------------------------ */
 
   .main-nav .submenu {
     display: none;
@@ -1227,47 +1408,43 @@ body {
     flex-direction: column;
   }
 
-
   .main-nav .submenu li {
     width: 100%;
   }
 
-
   .main-nav .submenu a {
+    display: block;
+
+    width: 100%;
+
     padding: 0.6rem 1.2rem;
 
     font-size: 0.88rem;
 
     text-transform: none;
 
-    border-top: 1px solid rgba(255,255,255,0.07);
+    border-top:
+      1px solid
+      rgba(255, 255, 255, 0.07);
   }
 
 
-  /* Open submenu */
+  /* ------------------------------------------
+     OPEN SUBMENU
+     ------------------------------------------ */
 
   .main-nav .has-submenu.submenu-open .submenu {
     display: flex;
   }
 
-
-  /* Disable desktop hover dropdown on mobile */
-
   .main-nav .has-submenu:hover .submenu {
     display: none;
   }
 
-  .main-nav .has-submenu.submenu-open:hover .submenu {
+  .main-nav
+  .has-submenu.submenu-open:hover
+  .submenu {
     display: flex;
-  }
-
-
-  /* Submenu arrow */
-
-  .submenu-arrow {
-    margin-left: auto;
-    font-size: 0.8rem;
-    transition: transform 0.2s ease;
   }
 
   .main-nav
@@ -1277,16 +1454,37 @@ body {
   }
 
 
-  /* Language button */
+  /* ------------------------------------------
+     MOBILE LANGUAGE
+     ------------------------------------------ */
 
   .mkg-language {
+    order: 2;
+
     width: auto !important;
+
+    flex: 0 0 auto;
+
     flex-shrink: 0;
+
+    margin-left: 5px;
   }
 
   .language-toggle {
     width: auto !important;
+
+    min-width: 42px;
+
+    height: 42px;
+
+    padding: 0 8px;
+
     justify-content: center;
+  }
+
+  /* Mobile par sirf 🌐 icon */
+  .language-toggle > span:nth-child(2) {
+    display: none;
   }
 
   .language-menu {
@@ -1294,63 +1492,46 @@ body {
     right: 0 !important;
 
     width: 260px !important;
-    max-width: calc(100vw - 20px) !important;
+
+    max-width:
+      calc(100vw - 20px) !important;
+  }
+
+
+  /* ------------------------------------------
+     MOBILE HERO
+     ------------------------------------------ */
+
+  .hero h1 {
+    font-size: 1.5rem;
   }
 
 }
-/* ==========================================
-   NAVIGATION LINK + SUBMENU ARROW
-   ========================================== */
-
-.nav-link-wrapper {
-  display: flex;
-  align-items: center;
-}
-
-.nav-link-wrapper > a {
-  flex: 1;
-}
-
-.submenu-arrow {
-  background: none;
-  border: none;
-  color: inherit;
-  cursor: pointer;
-  padding: 0 0.4rem;
-  font-size: 0.8rem;
-  line-height: 1;
-}
 
 
-/* ==========================================
-   MOBILE SUBMENU
-   ========================================== */
+/* =========================================================
+   SMALL MOBILE SOCIAL SHARE
+   ========================================================= */
 
-@media (max-width: 640px) {
+@media (max-width: 480px) {
 
-  .nav-link-wrapper {
-    width: 100%;
-    display: flex;
-    align-items: center;
+  .social-share h3 {
+    font-size: 1rem;
+    white-space: normal;
   }
 
-  .nav-link-wrapper > a {
-    flex: 1;
-    width: auto;
+  .share-btn {
+    width: 36px;
+    height: 36px;
   }
 
-  .submenu-arrow {
-    flex: 0 0 auto;
-    width: 40px;
-    height: 40px;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  .share-btn svg {
+    width: 16px;
+    height: 16px;
   }
 
-  .main-nav .has-submenu.submenu-open .submenu {
-    display: flex;
+  .social-share-buttons {
+    gap: 0.4rem;
   }
 
 }
