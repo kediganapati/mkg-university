@@ -1535,3 +1535,33 @@ body {
   }
 
 }
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.site-footer {
+  background: var(--ink);
+  color: #ccc;
+  text-align: center;
+  padding: 2rem 1.25rem;
+  margin-top: 2rem;
+}
+
+.footer-om {
+  color: var(--saffron);
+  letter-spacing: 0.3em;
+}
+
+.footer-social a {
+  color: #eee;
+}
+
+.footer-social a:hover {
+  color: var(--saffron);
+}
+
+.footer-copy {
+  font-size: 0.8rem;
+  color: #998;
+  margin-top: 0.6rem;
+}
