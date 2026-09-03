@@ -1,5 +1,0 @@
----
-title: "Donation"
----
----
-{{< qr-box >}}
