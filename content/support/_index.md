@@ -41,19 +41,13 @@ UPI ID: kediganapati@oksbi
 
 ### ✦ Choose Your Seva Amount
 
-#### Dharma Sevak — ₹100
-
 [**Donate ₹100**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=100&cu=INR&tn=Dharma+Seva)
 
 *Small support, big impact.*
 
-#### Dharma Rakshak — ₹500
-
 [**Donate ₹500**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=500&cu=INR&tn=Dharma+Seva)
 
 *Your contribution creates change.*
-
-#### Dharma Stambha — ₹1000
 
 [**Donate ₹1000**](upi://pay?pa=kediganapati@oksbi&pn=MKG+Digital+University&am=1000&cu=INR&tn=Dharma+Seva)
 
