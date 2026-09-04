@@ -22,16 +22,16 @@ Explore the six disciplines of Science.
 <p>Study of Jyotish, planetary influences, horoscopes, and traditional astrology.</p>
 </a>
 
-<a class="subject-card" href="/science/biology/">
-<span class="subject-icon">🧬</span>
-<h3>Biology</h3>
-<p>Study of life, living organisms, their structure, functions, evolution, and interactions.</p>
+<a class="subject-card" href="/subjects/vastu/">
+<span class="subject-icon">🏛️</span>
+<h3>Vastu</h3>
+<p>Study of Vastu principles, directions, spatial arrangement, and architecture.</p>
 </a>
 
-<a class="subject-card" href="/science/chemistry/">
-<span class="subject-icon">⚗️</span>
-<h3>Chemistry</h3>
-<p>Study of matter, its properties, composition, structure, transformations, and interactions.</p>
+<a class="subject-card" href="/subjects/ayurveda/">
+<span class="subject-icon">🌿</span>
+<h3>Ayurveda</h3>
+<p>Study of Ayurveda, traditional Indian medicine, health, well-being, and the principles of balance between body, mind, and life.</p>
 </a>
 
 <a class="subject-card" href="/science/mathematics/">
