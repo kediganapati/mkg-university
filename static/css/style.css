@@ -553,13 +553,14 @@ article {
   padding: 2rem 1rem;
 }
 
+.books-section-title {
+  text-align: center;
+  margin: 40px 0 25px;
+}
 .book-grid {
   display: grid;
-  grid-template-columns: repeat(
-    auto-fill,
-    minmax(180px, 1fr)
-  );
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1.2rem;
   margin-top: 2rem;
 }
 
@@ -583,8 +584,8 @@ article {
 
 .book-cover {
   width: 100%;
-  height: 260px;
-  object-fit: cover;
+  height: 160px;
+  object-fit: contain;
   display: block;
 }
 

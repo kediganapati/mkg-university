@@ -7,22 +7,67 @@
         {{ .Content }}
     </div>
 
-    <!-- Books Grid -->
-    <div class="book-grid">
-        {{ range .Params.books }}
-            <div class="book-card">
-                {{ if .cover }}
-                    <a href="{{ .link }}" target="_blank">
-                        <img src="{{ .cover | relURL }}" alt="{{ .title }}" class="book-cover">
-                    </a>
-                {{ end }}
-                <div class="book-info">
-                    <h3>
-                        <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-                    </h3>
+    <!-- Kedi Ganapati Books -->
+    {{ if .Params.kedi_books }}
+        <h2 class="books-section-title">Books by Kedi Ganapati</h2>
+
+        <div class="book-grid">
+            {{ range .Params.kedi_books }}
+                <div class="book-card">
+                    {{ if .cover }}
+                        <a href="{{ .link }}" target="_blank" rel="noopener">
+                            <img src="{{ .cover | relURL }}" alt="{{ .title }}" class="book-cover">
+                        </a>
+                    {{ end }}
+
+                    <div class="book-info">
+                        <h3>
+                            <a href="{{ .link }}" target="_blank" rel="noopener">
+                                {{ .title }}
+                            </a>
+                        </h3>
+                    </div>
                 </div>
-            </div>
-        {{ end }}
+            {{ end }}
+        </div>
+    {{ end }}
+
+    <!-- Books by Other Authors -->
+    {{ if .Params.other_books }}
+        <h2 class="books-section-title">Books by Other Authors</h2>
+
+        <div class="book-grid">
+            {{ range .Params.other_books }}
+                <div class="book-card">
+                    {{ if .cover }}
+                        <a href="{{ .link }}" target="_blank" rel="noopener">
+                            <img src="{{ .cover | relURL }}" alt="{{ .title }}" class="book-cover">
+                        </a>
+                    {{ end }}
+
+                    <div class="book-info">
+                        <h3>
+                            <a href="{{ .link }}" target="_blank" rel="noopener">
+                                {{ .title }}
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    {{ end }}
+
+    <!-- Disclaimer -->
+    <div class="books-disclaimer">
+        <h3>Disclaimer</h3>
+        <p>
+            The books listed in this section are works by their respective authors
+            and publishers. MKG Digital University only provides external links
+            to publicly available sources and does not claim authorship or ownership
+            of these works. All copyrights and intellectual property rights belong
+            to their respective authors, publishers, or rights holders.
+        </p>
     </div>
+
 </div>
 {{ end }}
