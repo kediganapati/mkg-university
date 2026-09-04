@@ -118,7 +118,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <p>Study of the Constitution, courts, law, justice, and legal principles.</p>
 </a>
 
-<a class="subject-card" href="/mkg-university/subjects/sociology/">
+<a class="subject-card" href="/subjects/sociology/">
 <span class="subject-icon">🧑‍🤝‍🧑</span>
 <h3>Sociology</h3>
 <p>Study of customs, rituals, traditions, festivals, and social behaviour.</p>
@@ -142,17 +142,18 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <p>Study of numbers, quantities, patterns, structures, logic, measurement, and mathematical reasoning.</p>
 </a>
 
-<a class="subject-card" href="/subjects/chemistry/">
-<span class="subject-icon">⚗️</span>
-<h3>Chemistry</h3>
-<p>Study of matter, its properties, composition, structure, transformations, and interactions.</p>
+<a class="subject-card" href="/subjects/vastu/">
+<span class="subject-icon">🏛️</span>
+<h3>Vastu</h3>
+<p>Study of Vastu principles, directions, spatial arrangement, and architecture.</p>
 </a>
 
-<a class="subject-card" href="/subjects/biology/">
-<span class="subject-icon">🧬</span>
-<h3>Biology</h3>
-<p>Study of life, living organisms, their structure, functions, evolution, and interactions.</p>
+<a class="subject-card" href="/subjects/ayurveda/">
+<span class="subject-icon">🌿</span>
+<h3>Ayurveda</h3>
+<p>Study of Ayurveda, traditional Indian medicine, health, well-being, and the principles of balance between body, mind, and life.</p>
 </a>
+
 
 </div>
 </section>
