@@ -170,6 +170,7 @@ I, Kedi Ganapati, am on a mission to learn subjects related to Sanatan Dharma an
 I was not born with wisdom, nor am I an expert in all 24 subjects. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning it.
 
 If you are an expert in a relevant subject, you are welcome to teach me. I may not have even opened the first page yet. 
+
 Learn one subject, become knowledgeable. Learn related subjects deeply, become a master.
 
 All 24 subjects are necessary for my mission, but not for everyone. Learn related subjects for health and wealth. Learning everything may harm your health and wealth. Choose wisely.
