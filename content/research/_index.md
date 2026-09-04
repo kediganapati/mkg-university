@@ -154,8 +154,8 @@ Karma-Based Occupational Classification, Gotra Taxonomy, and the Critique of Cas
 
 <h2 style="text-align: center;">Research Note</h2>
 
-All research papers presented above are independently researched and authored by Kedi Ganapati, based on his own study, observations, reasoning, interpretations, and personal experience.
+I, Kedi Ganapati, wrote all the research papers presented above independently, based on my own study, observations, reasoning, interpretations, and personal experience, without co-authorship or direct research contributions from other authors or researchers.
 
-Where required, certain Marathi terms, expressions, and concepts have been translated or rendered into English for clarity and accessibility. The ideas, frameworks, interpretations, and theoretical structures presented in these papers were independently developed by the author.
+My English is not very good, and I do not like scientific language. To maintain the research paper format, I sometimes replace simple English words with scientific terms—even words I cannot pronounce properly. 
 
-These research papers were written without co-authorship or direct research contribution from other authors or researchers. The views, interpretations, and conclusions expressed in each paper are solely those of Kedi Ganapati.
+If you find any difficult words in my papers, please accept my apology for the inconvenience.
