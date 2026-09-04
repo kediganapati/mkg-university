@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Economics on MKG Digital University of Sanatan Dharma</title>
-		<link>https://www.mkgdigitaluniversity.com/categories/economics/</link>
+		<link>http://localhost:1313/categories/economics/</link>
 		<description>Recent content in Economics on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="https://www.mkgdigitaluniversity.com/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/economics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Trend &amp; Selection Fameworks</title>
-				<link>https://www.mkgdigitaluniversity.com/society/economics/trend-and-selection-a-behavioral-framework/</link>
+				<link>http://localhost:1313/society/economics/trend-and-selection-a-behavioral-framework/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/society/economics/trend-and-selection-a-behavioral-framework/</guid>
+				<guid>http://localhost:1313/society/economics/trend-and-selection-a-behavioral-framework/</guid>
 				<description>&lt;h2 id=&#34;the-first-job--general-finance-company&#34;&gt;The First Job — General Finance Company&lt;/h2&gt;&#xA;&lt;p&gt;It was Gudi Padwa in March 2007. I went for a job interview. The company was called General Finance Company; the owner’s name was Anand. The entire interview was in Hindi. I got selected on the spot and was told to join the next day.&lt;/p&gt;&#xA;&lt;p&gt;Until then, in every English interview, whenever I wanted to say “yes,” only “ya” came out of my mouth. So, when Anand Sir asked questions in Hindi and I answered in Hindi, every time I had to agree, “ya” slipped out automatically. I laughed inside.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Constitution — MKG Digital University of Sanatan Dharma</title>
   <meta name="description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta name="theme-color" content="#ff7700">
-  <link rel="icon" href="https://www.mkgdigitaluniversity.com/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="https://www.mkgdigitaluniversity.com/css/style.css">
+ <link rel="icon" href="http://localhost:1313/images/mkg-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="http://localhost:1313/css/style.css">
   <meta property="og:title" content="Constitution — MKG Digital University of Sanatan Dharma">
   <meta property="og:description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta property="og:type" content="website">
@@ -29,16 +29,38 @@
 
     
 
-    <nav class="main-nav">
+    <button
+      type="button"
+      class="mobile-menu-toggle"
+      id="mobileMenuToggle"
+      aria-expanded="false"
+      aria-controls="mainNavigation"
+      aria-label="Open Menu"
+    >
+      ☰
+    </button>
+
+
+    
+
+    <nav class="main-nav" id="mainNavigation">
+
       <ul>
 
         
 
         <li class="">
 
-          <a href="/">
-            Home
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/">
+              Home
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -48,9 +70,27 @@
 
         <li class="has-submenu">
 
-          <a href="/about/">
-            About
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/about/">
+              About
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -76,9 +116,27 @@
 
         <li class="has-submenu">
 
-          <a href="/faculty/">
-            Faculty
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/faculty/">
+              Faculty
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -120,9 +178,27 @@
 
         <li class="has-submenu">
 
-          <a href="/subjects/">
-            Subjects
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/subjects/">
+              Subjects
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -156,9 +232,16 @@
 
         <li class="">
 
-          <a href="/support/">
-            Support
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/support/">
+              Support
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -168,9 +251,16 @@
 
         <li class="">
 
-          <a href="/contact/">
-            Contact
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/contact/">
+              Contact
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -179,6 +269,7 @@
         
 
       </ul>
+
     </nav>
 
 
@@ -301,85 +392,26 @@
 
           <optgroup label="🇮🇳 Indian Languages">
 
-            <option value="mr">
-              Marathi / मराठी
-            </option>
-
-            <option value="sa">
-              Sanskrit / संस्कृतम्
-            </option>
-
-            <option value="ta">
-              Tamil / தமிழ்
-            </option>
-
-            <option value="te">
-              Telugu / తెలుగు
-            </option>
-
-            <option value="kn">
-              Kannada / ಕನ್ನಡ
-            </option>
-
-            <option value="gu">
-              Gujarati / ગુજરાતી
-            </option>
-
-            <option value="pa">
-              Punjabi / ਪੰਜਾਬੀ
-            </option>
-
-            <option value="bn">
-              Bengali / বাংলা
-            </option>
-
-            <option value="ml">
-              Malayalam / മലയാളം
-            </option>
-
-            <option value="or">
-              Odia / ଓଡ଼ିଆ
-            </option>
-
-            <option value="as">
-              Assamese / অসমীয়া
-            </option>
-
-            <option value="ur">
-              Urdu / اردو
-            </option>
-
-            <option value="ks">
-              Kashmiri / کٲشُر
-            </option>
-
-            <option value="ne">
-              Nepali / नेपाली
-            </option>
-
-            <option value="si">
-              Sinhala / සිංහල
-            </option>
-
-            <option value="bho">
-              Bhojpuri
-            </option>
-
-            <option value="mai">
-              Maithili
-            </option>
-
-            <option value="doi">
-              Dogri
-            </option>
-
-            <option value="mni-Mtei">
-              Manipuri
-            </option>
-
-            <option value="sat">
-              Santali
-            </option>
+            <option value="mr">Marathi / मराठी</option>
+            <option value="sa">Sanskrit / संस्कृतम्</option>
+            <option value="ta">Tamil / தமிழ்</option>
+            <option value="te">Telugu / తెలుగు</option>
+            <option value="kn">Kannada / ಕನ್ನಡ</option>
+            <option value="gu">Gujarati / ગુજરાતી</option>
+            <option value="pa">Punjabi / ਪੰਜਾਬੀ</option>
+            <option value="bn">Bengali / বাংলা</option>
+            <option value="ml">Malayalam / മലയാളം</option>
+            <option value="or">Odia / ଓଡ଼ିଆ</option>
+            <option value="as">Assamese / অসমীয়া</option>
+            <option value="ur">Urdu / اردو</option>
+            <option value="ks">Kashmiri / کٲشُر</option>
+            <option value="ne">Nepali / नेपाली</option>
+            <option value="si">Sinhala / සිංහල</option>
+            <option value="bho">Bhojpuri</option>
+            <option value="mai">Maithili</option>
+            <option value="doi">Dogri</option>
+            <option value="mni-Mtei">Manipuri</option>
+            <option value="sat">Santali</option>
 
           </optgroup>
 
@@ -388,49 +420,17 @@
 
           <optgroup label="🌏 Asian Languages">
 
-            <option value="ja">
-              Japanese / 日本語
-            </option>
-
-            <option value="ko">
-              Korean / 한국어
-            </option>
-
-            <option value="th">
-              Thai / ไทย
-            </option>
-
-            <option value="vi">
-              Vietnamese / Tiếng Việt
-            </option>
-
-            <option value="id">
-              Indonesian / Bahasa Indonesia
-            </option>
-
-            <option value="ms">
-              Malay / Bahasa Melayu
-            </option>
-
-            <option value="my">
-              Burmese / မြန်မာဘာသာ
-            </option>
-
-            <option value="km">
-              Khmer / ខ្មែរ
-            </option>
-
-            <option value="lo">
-              Lao / ລາວ
-            </option>
-
-            <option value="tl">
-              Filipino / Tagalog
-            </option>
-
-            <option value="mn">
-              Mongolian / Монгол
-            </option>
+            <option value="ja">Japanese / 日本語</option>
+            <option value="ko">Korean / 한국어</option>
+            <option value="th">Thai / ไทย</option>
+            <option value="vi">Vietnamese / Tiếng Việt</option>
+            <option value="id">Indonesian / Bahasa Indonesia</option>
+            <option value="ms">Malay / Bahasa Melayu</option>
+            <option value="my">Burmese / မြန်မာဘာသာ</option>
+            <option value="km">Khmer / ខ្មែរ</option>
+            <option value="lo">Lao / ລາວ</option>
+            <option value="tl">Filipino / Tagalog</option>
+            <option value="mn">Mongolian / Монгол</option>
 
           </optgroup>
 
@@ -439,45 +439,16 @@
 
           <optgroup label="🌍 Middle East & African">
 
-            <option value="fa">
-              Persian / فارسی
-            </option>
-
-            <option value="he">
-              Hebrew / עברית
-            </option>
-
-            <option value="tr">
-              Turkish / Türkçe
-            </option>
-
-            <option value="sw">
-              Swahili / Kiswahili
-            </option>
-
-            <option value="am">
-              Amharic / አማርኛ
-            </option>
-
-            <option value="yo">
-              Yoruba
-            </option>
-
-            <option value="ig">
-              Igbo
-            </option>
-
-            <option value="ha">
-              Hausa
-            </option>
-
-            <option value="zu">
-              Zulu
-            </option>
-
-            <option value="af">
-              Afrikaans
-            </option>
+            <option value="fa">Persian / فارسی</option>
+            <option value="he">Hebrew / עברית</option>
+            <option value="tr">Turkish / Türkçe</option>
+            <option value="sw">Swahili / Kiswahili</option>
+            <option value="am">Amharic / አማርኛ</option>
+            <option value="yo">Yoruba</option>
+            <option value="ig">Igbo</option>
+            <option value="ha">Hausa</option>
+            <option value="zu">Zulu</option>
+            <option value="af">Afrikaans</option>
 
           </optgroup>
 
@@ -486,97 +457,29 @@
 
           <optgroup label="🌍 European Languages">
 
-            <option value="de">
-              German / Deutsch
-            </option>
-
-            <option value="it">
-              Italian / Italiano
-            </option>
-
-            <option value="pt">
-              Portuguese / Português
-            </option>
-
-            <option value="ru">
-              Russian / Русский
-            </option>
-
-            <option value="nl">
-              Dutch / Nederlands
-            </option>
-
-            <option value="pl">
-              Polish / Polski
-            </option>
-
-            <option value="uk">
-              Ukrainian / Українська
-            </option>
-
-            <option value="cs">
-              Czech / Čeština
-            </option>
-
-            <option value="sv">
-              Swedish / Svenska
-            </option>
-
-            <option value="ro">
-              Romanian / Română
-            </option>
-
-            <option value="el">
-              Greek / Ελληνικά
-            </option>
-
-            <option value="hu">
-              Hungarian / Magyar
-            </option>
-
-            <option value="fi">
-              Finnish / Suomi
-            </option>
-
-            <option value="da">
-              Danish / Dansk
-            </option>
-
-            <option value="no">
-              Norwegian / Norsk
-            </option>
-
-            <option value="sk">
-              Slovak / Slovenčina
-            </option>
-
-            <option value="bg">
-              Bulgarian / Български
-            </option>
-
-            <option value="hr">
-              Croatian / Hrvatski
-            </option>
-
-            <option value="sr">
-              Serbian / Српски
-            </option>
-
-            <option value="ca">
-              Catalan / Català
-            </option>
-
-            <option value="lt">
-              Lithuanian / Lietuvių
-            </option>
-
-            <option value="lv">
-              Latvian / Latviešu
-            </option>
-
-            <option value="et">
-              Estonian / Eesti
-            </option>
+            <option value="de">German / Deutsch</option>
+            <option value="it">Italian / Italiano</option>
+            <option value="pt">Portuguese / Português</option>
+            <option value="ru">Russian / Русский</option>
+            <option value="nl">Dutch / Nederlands</option>
+            <option value="pl">Polish / Polski</option>
+            <option value="uk">Ukrainian / Українська</option>
+            <option value="cs">Czech / Čeština</option>
+            <option value="sv">Swedish / Svenska</option>
+            <option value="ro">Romanian / Română</option>
+            <option value="el">Greek / Ελληνικά</option>
+            <option value="hu">Hungarian / Magyar</option>
+            <option value="fi">Finnish / Suomi</option>
+            <option value="da">Danish / Dansk</option>
+            <option value="no">Norwegian / Norsk</option>
+            <option value="sk">Slovak / Slovenčina</option>
+            <option value="bg">Bulgarian / Български</option>
+            <option value="hr">Croatian / Hrvatski</option>
+            <option value="sr">Serbian / Српски</option>
+            <option value="ca">Catalan / Català</option>
+            <option value="lt">Lithuanian / Lietuvių</option>
+            <option value="lv">Latvian / Latviešu</option>
+            <option value="et">Estonian / Eesti</option>
 
           </optgroup>
 
@@ -585,17 +488,9 @@
 
           <optgroup label="🌎 Americas">
 
-            <option value="pt-BR">
-              Portuguese (Brazil)
-            </option>
-
-            <option value="ht">
-              Haitian Creole
-            </option>
-
-            <option value="qu">
-              Quechua
-            </option>
+            <option value="pt-BR">Portuguese (Brazil)</option>
+            <option value="ht">Haitian Creole</option>
+            <option value="qu">Quechua</option>
 
           </optgroup>
 
@@ -626,6 +521,136 @@
   
 
 
+  var mobileMenuToggle =
+    document.getElementById("mobileMenuToggle");
+
+  var mainNavigation =
+    document.getElementById("mainNavigation");
+
+
+  if (mobileMenuToggle && mainNavigation) {
+
+    mobileMenuToggle.addEventListener(
+      "click",
+      function (event) {
+
+        event.stopPropagation();
+
+        var isOpen =
+          mainNavigation.classList.toggle("mobile-open");
+
+        mobileMenuToggle.setAttribute(
+          "aria-expanded",
+          isOpen ? "true" : "false"
+        );
+
+        mobileMenuToggle.setAttribute(
+          "aria-label",
+          isOpen ? "Close Menu" : "Open Menu"
+        );
+
+      }
+    );
+
+
+     
+
+    mainNavigation.querySelectorAll(
+      "a"
+    ).forEach(function (link) {
+
+      link.addEventListener(
+        "click",
+        function () {
+
+          var parent =
+            this.parentElement;
+
+
+          
+
+
+          if (
+            !parent.classList.contains(
+              "nav-link-wrapper"
+            )
+          ) {
+
+            mainNavigation.classList.remove(
+              "mobile-open"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-expanded",
+              "false"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-label",
+              "Open Menu"
+            );
+
+          }
+
+        }
+      );
+
+    });
+
+  }
+
+
+  
+
+
+  var submenuArrows =
+    document.querySelectorAll(
+      ".main-nav .has-submenu .submenu-arrow"
+    );
+
+
+  submenuArrows.forEach(
+    function (arrow) {
+
+      arrow.addEventListener(
+        "click",
+        function (event) {
+
+          if (
+            window.innerWidth <= 640
+          ) {
+
+            event.preventDefault();
+            event.stopPropagation();
+
+
+            var parent =
+              this.closest(".has-submenu");
+
+
+            var isOpen =
+              parent.classList.toggle(
+                "submenu-open"
+              );
+
+
+            this.setAttribute(
+              "aria-expanded",
+              isOpen ? "true" : "false"
+            );
+
+          }
+
+        }
+      );
+
+    }
+  );
+
+
+  
+
+
   var languageToggle =
     document.getElementById("languageToggle");
 
@@ -636,7 +661,9 @@
     document.getElementById("mkgLanguage");
 
   var languageOptions =
-    document.querySelectorAll(".language-option");
+    document.querySelectorAll(
+      ".language-option"
+    );
 
   var moreLanguages =
     document.getElementById("moreLanguages");
@@ -706,9 +733,6 @@
     }
 
 
-    
-
-
     var googleSelect =
       document.querySelector(".goog-te-combo");
 
@@ -722,10 +746,8 @@
       );
 
       return;
+
     }
-
-
-    
 
 
     var googleValue =
@@ -764,9 +786,6 @@
             this.getAttribute("data-lang");
 
 
-          
-
-
           languageOptions.forEach(
             function (item) {
 
@@ -779,26 +798,20 @@
           this.classList.add("active");
 
 
-          
-
-
           if (moreLanguages) {
+
             moreLanguages.value = "";
+
           }
-
-
-          
 
 
           doTranslate(code);
 
 
-          
-
-
           languageContainer.classList.remove(
             "open"
           );
+
 
           languageToggle.setAttribute(
             "aria-expanded",
@@ -821,15 +834,13 @@
       "change",
       function () {
 
-        var code = this.value;
+        var code =
+          this.value;
 
 
         if (!code) {
           return;
         }
-
-
-        
 
 
         languageOptions.forEach(
@@ -841,18 +852,13 @@
         );
 
 
-        
-
-
         doTranslate(code);
-
-
-        
 
 
         languageContainer.classList.remove(
           "open"
         );
+
 
         languageToggle.setAttribute(
           "aria-expanded",
@@ -880,9 +886,6 @@
       if (!hidden) {
         return;
       }
-
-
-      
 
 
       new google.translate.TranslateElement(
@@ -923,6 +926,7 @@
 
 })();
 </script>
+
   
 
   <div class="site-main">
@@ -978,8 +982,9 @@
   <p>
     Help build 24 subjects, 64 categories, and 1,000+ articles — free for the world.
   </p>
-  <a href="/support/" class="support-button">Give a Donation</a>
+ <a href="/donation/" class="support-button">Give a Donation</a>
 </section>
+
 
 
   <footer class="site-footer">

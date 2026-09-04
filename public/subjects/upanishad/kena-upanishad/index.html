@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kena Upanishad — MKG Digital University of Sanatan Dharma</title>
   <meta name="description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta name="theme-color" content="#ff7700">
-  <link rel="icon" href="https://www.mkgdigitaluniversity.com/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="https://www.mkgdigitaluniversity.com/css/style.css">
+ <link rel="icon" href="http://localhost:1313/images/mkg-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="http://localhost:1313/css/style.css">
   <meta property="og:title" content="Kena Upanishad — MKG Digital University of Sanatan Dharma">
   <meta property="og:description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta property="og:type" content="website">
@@ -29,16 +29,38 @@
 
     
 
-    <nav class="main-nav">
+    <button
+      type="button"
+      class="mobile-menu-toggle"
+      id="mobileMenuToggle"
+      aria-expanded="false"
+      aria-controls="mainNavigation"
+      aria-label="Open Menu"
+    >
+      ☰
+    </button>
+
+
+    
+
+    <nav class="main-nav" id="mainNavigation">
+
       <ul>
 
         
 
         <li class="">
 
-          <a href="/">
-            Home
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/">
+              Home
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -48,9 +70,27 @@
 
         <li class="has-submenu">
 
-          <a href="/about/">
-            About
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/about/">
+              About
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -76,9 +116,27 @@
 
         <li class="has-submenu">
 
-          <a href="/faculty/">
-            Faculty
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/faculty/">
+              Faculty
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -120,9 +178,27 @@
 
         <li class="has-submenu">
 
-          <a href="/subjects/">
-            Subjects
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/subjects/">
+              Subjects
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -156,9 +232,16 @@
 
         <li class="">
 
-          <a href="/support/">
-            Support
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/support/">
+              Support
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -168,9 +251,16 @@
 
         <li class="">
 
-          <a href="/contact/">
-            Contact
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/contact/">
+              Contact
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -179,6 +269,7 @@
         
 
       </ul>
+
     </nav>
 
 
@@ -301,85 +392,26 @@
 
           <optgroup label="🇮🇳 Indian Languages">
 
-            <option value="mr">
-              Marathi / मराठी
-            </option>
-
-            <option value="sa">
-              Sanskrit / संस्कृतम्
-            </option>
-
-            <option value="ta">
-              Tamil / தமிழ்
-            </option>
-
-            <option value="te">
-              Telugu / తెలుగు
-            </option>
-
-            <option value="kn">
-              Kannada / ಕನ್ನಡ
-            </option>
-
-            <option value="gu">
-              Gujarati / ગુજરાતી
-            </option>
-
-            <option value="pa">
-              Punjabi / ਪੰਜਾਬੀ
-            </option>
-
-            <option value="bn">
-              Bengali / বাংলা
-            </option>
-
-            <option value="ml">
-              Malayalam / മലയാളം
-            </option>
-
-            <option value="or">
-              Odia / ଓଡ଼ିଆ
-            </option>
-
-            <option value="as">
-              Assamese / অসমীয়া
-            </option>
-
-            <option value="ur">
-              Urdu / اردو
-            </option>
-
-            <option value="ks">
-              Kashmiri / کٲشُر
-            </option>
-
-            <option value="ne">
-              Nepali / नेपाली
-            </option>
-
-            <option value="si">
-              Sinhala / සිංහල
-            </option>
-
-            <option value="bho">
-              Bhojpuri
-            </option>
-
-            <option value="mai">
-              Maithili
-            </option>
-
-            <option value="doi">
-              Dogri
-            </option>
-
-            <option value="mni-Mtei">
-              Manipuri
-            </option>
-
-            <option value="sat">
-              Santali
-            </option>
+            <option value="mr">Marathi / मराठी</option>
+            <option value="sa">Sanskrit / संस्कृतम्</option>
+            <option value="ta">Tamil / தமிழ்</option>
+            <option value="te">Telugu / తెలుగు</option>
+            <option value="kn">Kannada / ಕನ್ನಡ</option>
+            <option value="gu">Gujarati / ગુજરાતી</option>
+            <option value="pa">Punjabi / ਪੰਜਾਬੀ</option>
+            <option value="bn">Bengali / বাংলা</option>
+            <option value="ml">Malayalam / മലയാളം</option>
+            <option value="or">Odia / ଓଡ଼ିଆ</option>
+            <option value="as">Assamese / অসমীয়া</option>
+            <option value="ur">Urdu / اردو</option>
+            <option value="ks">Kashmiri / کٲشُر</option>
+            <option value="ne">Nepali / नेपाली</option>
+            <option value="si">Sinhala / සිංහල</option>
+            <option value="bho">Bhojpuri</option>
+            <option value="mai">Maithili</option>
+            <option value="doi">Dogri</option>
+            <option value="mni-Mtei">Manipuri</option>
+            <option value="sat">Santali</option>
 
           </optgroup>
 
@@ -388,49 +420,17 @@
 
           <optgroup label="🌏 Asian Languages">
 
-            <option value="ja">
-              Japanese / 日本語
-            </option>
-
-            <option value="ko">
-              Korean / 한국어
-            </option>
-
-            <option value="th">
-              Thai / ไทย
-            </option>
-
-            <option value="vi">
-              Vietnamese / Tiếng Việt
-            </option>
-
-            <option value="id">
-              Indonesian / Bahasa Indonesia
-            </option>
-
-            <option value="ms">
-              Malay / Bahasa Melayu
-            </option>
-
-            <option value="my">
-              Burmese / မြန်မာဘာသာ
-            </option>
-
-            <option value="km">
-              Khmer / ខ្មែរ
-            </option>
-
-            <option value="lo">
-              Lao / ລາວ
-            </option>
-
-            <option value="tl">
-              Filipino / Tagalog
-            </option>
-
-            <option value="mn">
-              Mongolian / Монгол
-            </option>
+            <option value="ja">Japanese / 日本語</option>
+            <option value="ko">Korean / 한국어</option>
+            <option value="th">Thai / ไทย</option>
+            <option value="vi">Vietnamese / Tiếng Việt</option>
+            <option value="id">Indonesian / Bahasa Indonesia</option>
+            <option value="ms">Malay / Bahasa Melayu</option>
+            <option value="my">Burmese / မြန်မာဘာသာ</option>
+            <option value="km">Khmer / ខ្មែរ</option>
+            <option value="lo">Lao / ລາວ</option>
+            <option value="tl">Filipino / Tagalog</option>
+            <option value="mn">Mongolian / Монгол</option>
 
           </optgroup>
 
@@ -439,45 +439,16 @@
 
           <optgroup label="🌍 Middle East & African">
 
-            <option value="fa">
-              Persian / فارسی
-            </option>
-
-            <option value="he">
-              Hebrew / עברית
-            </option>
-
-            <option value="tr">
-              Turkish / Türkçe
-            </option>
-
-            <option value="sw">
-              Swahili / Kiswahili
-            </option>
-
-            <option value="am">
-              Amharic / አማርኛ
-            </option>
-
-            <option value="yo">
-              Yoruba
-            </option>
-
-            <option value="ig">
-              Igbo
-            </option>
-
-            <option value="ha">
-              Hausa
-            </option>
-
-            <option value="zu">
-              Zulu
-            </option>
-
-            <option value="af">
-              Afrikaans
-            </option>
+            <option value="fa">Persian / فارسی</option>
+            <option value="he">Hebrew / עברית</option>
+            <option value="tr">Turkish / Türkçe</option>
+            <option value="sw">Swahili / Kiswahili</option>
+            <option value="am">Amharic / አማርኛ</option>
+            <option value="yo">Yoruba</option>
+            <option value="ig">Igbo</option>
+            <option value="ha">Hausa</option>
+            <option value="zu">Zulu</option>
+            <option value="af">Afrikaans</option>
 
           </optgroup>
 
@@ -486,97 +457,29 @@
 
           <optgroup label="🌍 European Languages">
 
-            <option value="de">
-              German / Deutsch
-            </option>
-
-            <option value="it">
-              Italian / Italiano
-            </option>
-
-            <option value="pt">
-              Portuguese / Português
-            </option>
-
-            <option value="ru">
-              Russian / Русский
-            </option>
-
-            <option value="nl">
-              Dutch / Nederlands
-            </option>
-
-            <option value="pl">
-              Polish / Polski
-            </option>
-
-            <option value="uk">
-              Ukrainian / Українська
-            </option>
-
-            <option value="cs">
-              Czech / Čeština
-            </option>
-
-            <option value="sv">
-              Swedish / Svenska
-            </option>
-
-            <option value="ro">
-              Romanian / Română
-            </option>
-
-            <option value="el">
-              Greek / Ελληνικά
-            </option>
-
-            <option value="hu">
-              Hungarian / Magyar
-            </option>
-
-            <option value="fi">
-              Finnish / Suomi
-            </option>
-
-            <option value="da">
-              Danish / Dansk
-            </option>
-
-            <option value="no">
-              Norwegian / Norsk
-            </option>
-
-            <option value="sk">
-              Slovak / Slovenčina
-            </option>
-
-            <option value="bg">
-              Bulgarian / Български
-            </option>
-
-            <option value="hr">
-              Croatian / Hrvatski
-            </option>
-
-            <option value="sr">
-              Serbian / Српски
-            </option>
-
-            <option value="ca">
-              Catalan / Català
-            </option>
-
-            <option value="lt">
-              Lithuanian / Lietuvių
-            </option>
-
-            <option value="lv">
-              Latvian / Latviešu
-            </option>
-
-            <option value="et">
-              Estonian / Eesti
-            </option>
+            <option value="de">German / Deutsch</option>
+            <option value="it">Italian / Italiano</option>
+            <option value="pt">Portuguese / Português</option>
+            <option value="ru">Russian / Русский</option>
+            <option value="nl">Dutch / Nederlands</option>
+            <option value="pl">Polish / Polski</option>
+            <option value="uk">Ukrainian / Українська</option>
+            <option value="cs">Czech / Čeština</option>
+            <option value="sv">Swedish / Svenska</option>
+            <option value="ro">Romanian / Română</option>
+            <option value="el">Greek / Ελληνικά</option>
+            <option value="hu">Hungarian / Magyar</option>
+            <option value="fi">Finnish / Suomi</option>
+            <option value="da">Danish / Dansk</option>
+            <option value="no">Norwegian / Norsk</option>
+            <option value="sk">Slovak / Slovenčina</option>
+            <option value="bg">Bulgarian / Български</option>
+            <option value="hr">Croatian / Hrvatski</option>
+            <option value="sr">Serbian / Српски</option>
+            <option value="ca">Catalan / Català</option>
+            <option value="lt">Lithuanian / Lietuvių</option>
+            <option value="lv">Latvian / Latviešu</option>
+            <option value="et">Estonian / Eesti</option>
 
           </optgroup>
 
@@ -585,17 +488,9 @@
 
           <optgroup label="🌎 Americas">
 
-            <option value="pt-BR">
-              Portuguese (Brazil)
-            </option>
-
-            <option value="ht">
-              Haitian Creole
-            </option>
-
-            <option value="qu">
-              Quechua
-            </option>
+            <option value="pt-BR">Portuguese (Brazil)</option>
+            <option value="ht">Haitian Creole</option>
+            <option value="qu">Quechua</option>
 
           </optgroup>
 
@@ -626,6 +521,136 @@
   
 
 
+  var mobileMenuToggle =
+    document.getElementById("mobileMenuToggle");
+
+  var mainNavigation =
+    document.getElementById("mainNavigation");
+
+
+  if (mobileMenuToggle && mainNavigation) {
+
+    mobileMenuToggle.addEventListener(
+      "click",
+      function (event) {
+
+        event.stopPropagation();
+
+        var isOpen =
+          mainNavigation.classList.toggle("mobile-open");
+
+        mobileMenuToggle.setAttribute(
+          "aria-expanded",
+          isOpen ? "true" : "false"
+        );
+
+        mobileMenuToggle.setAttribute(
+          "aria-label",
+          isOpen ? "Close Menu" : "Open Menu"
+        );
+
+      }
+    );
+
+
+     
+
+    mainNavigation.querySelectorAll(
+      "a"
+    ).forEach(function (link) {
+
+      link.addEventListener(
+        "click",
+        function () {
+
+          var parent =
+            this.parentElement;
+
+
+          
+
+
+          if (
+            !parent.classList.contains(
+              "nav-link-wrapper"
+            )
+          ) {
+
+            mainNavigation.classList.remove(
+              "mobile-open"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-expanded",
+              "false"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-label",
+              "Open Menu"
+            );
+
+          }
+
+        }
+      );
+
+    });
+
+  }
+
+
+  
+
+
+  var submenuArrows =
+    document.querySelectorAll(
+      ".main-nav .has-submenu .submenu-arrow"
+    );
+
+
+  submenuArrows.forEach(
+    function (arrow) {
+
+      arrow.addEventListener(
+        "click",
+        function (event) {
+
+          if (
+            window.innerWidth <= 640
+          ) {
+
+            event.preventDefault();
+            event.stopPropagation();
+
+
+            var parent =
+              this.closest(".has-submenu");
+
+
+            var isOpen =
+              parent.classList.toggle(
+                "submenu-open"
+              );
+
+
+            this.setAttribute(
+              "aria-expanded",
+              isOpen ? "true" : "false"
+            );
+
+          }
+
+        }
+      );
+
+    }
+  );
+
+
+  
+
+
   var languageToggle =
     document.getElementById("languageToggle");
 
@@ -636,7 +661,9 @@
     document.getElementById("mkgLanguage");
 
   var languageOptions =
-    document.querySelectorAll(".language-option");
+    document.querySelectorAll(
+      ".language-option"
+    );
 
   var moreLanguages =
     document.getElementById("moreLanguages");
@@ -706,9 +733,6 @@
     }
 
 
-    
-
-
     var googleSelect =
       document.querySelector(".goog-te-combo");
 
@@ -722,10 +746,8 @@
       );
 
       return;
+
     }
-
-
-    
 
 
     var googleValue =
@@ -764,9 +786,6 @@
             this.getAttribute("data-lang");
 
 
-          
-
-
           languageOptions.forEach(
             function (item) {
 
@@ -779,26 +798,20 @@
           this.classList.add("active");
 
 
-          
-
-
           if (moreLanguages) {
+
             moreLanguages.value = "";
+
           }
-
-
-          
 
 
           doTranslate(code);
 
 
-          
-
-
           languageContainer.classList.remove(
             "open"
           );
+
 
           languageToggle.setAttribute(
             "aria-expanded",
@@ -821,15 +834,13 @@
       "change",
       function () {
 
-        var code = this.value;
+        var code =
+          this.value;
 
 
         if (!code) {
           return;
         }
-
-
-        
 
 
         languageOptions.forEach(
@@ -841,18 +852,13 @@
         );
 
 
-        
-
-
         doTranslate(code);
-
-
-        
 
 
         languageContainer.classList.remove(
           "open"
         );
+
 
         languageToggle.setAttribute(
           "aria-expanded",
@@ -880,9 +886,6 @@
       if (!hidden) {
         return;
       }
-
-
-      
 
 
       new google.translate.TranslateElement(
@@ -923,6 +926,7 @@
 
 })();
 </script>
+
   
 
   <div class="site-main">
@@ -936,7 +940,7 @@
 
       
       <div class="page-featured-image">
-       <img src="https://www.mkgdigitaluniversity.com/images/kena_upanishad.webp" alt="Kena Upanishad">
+       <img src="http://localhost:1313/images/kena_upanishad.webp" alt="Kena Upanishad">
       </div>
       
 
@@ -1343,69 +1347,69 @@
   <div class="social-share-buttons">
 
     
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
        target="_blank" rel="noopener noreferrer"
        class="share-btn facebook" aria-label="Share on Facebook">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.4h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.4v7A10 10 0 0 0 22 12Z"/></svg>
     </a>
 
     
-    <a href="https://twitter.com/intent/tweet?text=Kena&#43;Upanishad&url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
+    <a href="https://twitter.com/intent/tweet?text=Kena&#43;Upanishad&url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
        target="_blank" rel="noopener noreferrer"
        class="share-btn twitter" aria-label="Share on X">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M18.9 2H22l-7.6 8.7L23.3 22h-6.9l-5.4-6.6L4.8 22H1.7l8.1-9.3L1 2h7l4.9 6L18.9 2Zm-1.2 18h1.9L7.4 4h-2l12.3 16Z"/></svg>
     </a>
 
     
-    <a href="https://wa.me/?text=Kena&#43;Upanishad%20https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
+    <a href="https://wa.me/?text=Kena&#43;Upanishad%20http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
        target="_blank" rel="noopener noreferrer"
        class="share-btn whatsapp" aria-label="Share on WhatsApp">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2Zm5.8 14.3c-.2.7-1.4 1.4-2 1.5-.5.1-1.1.1-1.8-.1-.4-.1-1-.3-1.6-.6-2.9-1.2-4.7-4.1-4.9-4.3-.1-.2-1.2-1.6-1.2-3s.8-2.1 1.1-2.4c.3-.3.6-.3.8-.3h.6c.2 0 .4 0 .6.5.2.5.7 1.8.8 1.9.1.2.1.3 0 .5-.1.2-.2.3-.3.5-.2.2-.3.3-.5.5-.2.2-.3.4-.1.7.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.7-.1.2-.2.8-.9 1-1.2.2-.3.4-.2.7-.1.3.1 1.7.8 2 1 .3.1.5.2.6.3.1.2.1.9-.1 1.6Z"/></svg>
     </a>
 
     
-    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
        target="_blank" rel="noopener noreferrer"
        class="share-btn linkedin" aria-label="Share on LinkedIn">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M20.5 2h-17A1.5 1.5 0 0 0 2 3.5v17A1.5 1.5 0 0 0 3.5 22h17a1.5 1.5 0 0 0 1.5-1.5v-17A1.5 1.5 0 0 0 20.5 2ZM8 19H5V9h3v10ZM6.5 7.7A1.7 1.7 0 1 1 6.5 4.3a1.7 1.7 0 0 1 0 3.4ZM19 19h-3v-5.3c0-1.3 0-3-1.8-3s-2.1 1.4-2.1 2.9V19h-3V9h2.9v1.4h.1c.4-.8 1.4-1.7 3-1.7 3.2 0 3.8 2.1 3.8 4.8V19Z"/></svg>
     </a>
 
     
-    <a href="mailto:?subject=Kena&#43;Upanishad&body=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
+    <a href="mailto:?subject=Kena&#43;Upanishad&body=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F"
        class="share-btn email" aria-label="Share by Email">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z"/></svg>
     </a>
 
     
     <button type="button" class="share-btn copy-link" aria-label="Copy article link"
-      onclick="navigator.clipboard.writeText('https:\/\/www.mkgdigitaluniversity.com\/subjects\/upanishad\/kena-upanishad\/').then(() => { this.querySelector('.copy-label').textContent = 'Copied!'; setTimeout(() => this.querySelector('.copy-label').textContent = '', 1500); })">
+      onclick="navigator.clipboard.writeText('http:\/\/localhost:1313\/subjects\/upanishad\/kena-upanishad\/').then(() => { this.querySelector('.copy-label').textContent = 'Copied!'; setTimeout(() => this.querySelector('.copy-label').textContent = '', 1500); })">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1Zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2Zm0 16H8V7h11v14Z"/></svg>
       <span class="copy-label" style="font-size:0.65rem; display:block;"></span>
     </button>
 
         
-    <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&description=Kena&#43;Upanishad"
+    <a href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&description=Kena&#43;Upanishad"
        target="_blank" rel="noopener noreferrer"
        class="share-btn pinterest" aria-label="Share on Pinterest">
       <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M12 2C6.5 2 2 6.5 2 12c0 4.2 2.6 7.8 6.3 9.3-.1-.8-.2-2 0-2.9.2-.8 1.3-5.6 1.3-5.6s-.3-.7-.3-1.6c0-1.5.9-2.7 2-2.7.9 0 1.4.7 1.4 1.6 0 1-.6 2.4-1 3.7-.3 1.1.5 2 1.6 2 1.9 0 3.2-2.4 3.2-5.3 0-2.2-1.5-3.8-4.2-3.8-3.1 0-5 2.3-5 4.8 0 .9.3 1.5.7 2 .2.2.2.3.1.6l-.2 1c-.1.3-.3.4-.6.2-1.5-.6-2.2-2.3-2.2-4.1 0-3 2.5-6.7 7.6-6.7 4.1 0 6.8 3 6.8 6.1 0 4.2-2.3 7.3-5.8 7.3-1.2 0-2.2-.6-2.6-1.4l-.7 2.8c-.3 1-.9 2.1-1.4 2.9 1 .3 2.1.5 3.2.5 5.5 0 10-4.5 10-10S17.5 2 12 2Z"/></svg>
     </a>
 
     
-    <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&title=Kena&#43;Upanishad"
+    <a href="https://www.reddit.com/submit?url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&title=Kena&#43;Upanishad"
        target="_blank" rel="noopener noreferrer"
        class="share-btn reddit" aria-label="Share on Reddit">
       <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M22 12c0-1.1-.9-2-2-2-.5 0-1 .2-1.3.5-1.3-.9-3.1-1.5-5.1-1.6l.9-4 2.8.6c0 .8.7 1.5 1.5 1.5.8 0 1.5-.7 1.5-1.5s-.7-1.5-1.5-1.5c-.6 0-1.1.3-1.3.8l-3.1-.7c-.2 0-.3 0-.4.2l-1 4.6c-2 .1-3.8.7-5.1 1.6-.3-.3-.8-.5-1.3-.5-1.1 0-2 .9-2 2 0 .8.5 1.5 1.1 1.8-.1.3-.1.6-.1.9 0 2.8 3.2 5 7.2 5s7.2-2.2 7.2-5c0-.3 0-.6-.1-.9.7-.3 1.1-1 1.1-1.8Zm-13.5 1.5c0-.8.7-1.5 1.5-1.5s1.5.7 1.5 1.5-.7 1.5-1.5 1.5-1.5-.7-1.5-1.5Zm7.1 3.4c-.9.9-2.6.9-2.6.9s-1.8 0-2.6-.9c-.1-.1-.1-.3 0-.5.1-.1.3-.1.5 0 .6.6 2 .6 2.1.6.1 0 1.6 0 2.1-.6.1-.1.3-.1.5 0 .1.2.1.4 0 .5Zm-.2-1.9c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5-.6 1.5-1.5 1.5Z"/></svg>
     </a>
 
     
-    <a href="https://t.me/share/url?url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&text=Kena&#43;Upanishad"
+    <a href="https://t.me/share/url?url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&text=Kena&#43;Upanishad"
        target="_blank" rel="noopener noreferrer"
        class="share-btn telegram" aria-label="Share on Telegram">
       <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M22 4 2 11.5l6 2.3 2.3 6.9 3.6-4.3 5 3.6L22 4ZM9.2 14.2 8 18l-.9-4.3 10.4-8.1-8.3 8.6Z"/></svg>
     </a>
 
     
-    <a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.mkgdigitaluniversity.com%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&name=Kena&#43;Upanishad"
+    <a href="https://www.tumblr.com/share/link?url=http%3A%2F%2Flocalhost%3A1313%2Fsubjects%2Fupanishad%2Fkena-upanishad%2F&name=Kena&#43;Upanishad"
        target="_blank" rel="noopener noreferrer"
        class="share-btn tumblr" aria-label="Share on Tumblr">
       <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M15.5 21c-3.2 0-5.5-1.8-5.5-5.4V10H8V7.5c2.4-.6 3.4-2.6 3.5-4.5h2.6v4h3.4v3H14v5.1c0 1.4.7 1.9 1.8 1.9h1.6v3.2c-.5.2-1.4.7-1.9.7Z"/></svg>
@@ -1426,8 +1430,8 @@
       <h4>Founder Kedi Ganapati</h4>
 
       
-        <img class="widget-author-photo" src="https://www.mkgdigitaluniversity.com/images/kedi-ganapati.webp" alt="Founder Kedi Ganapati">
-        <p>Every word and every post on this website has been written solely by one author, based on his own understanding and wisdom. If you find any grammatical mistakes, please accept my apologies for the inconvenience. Learn about your dharma, laugh at my drama - Kedi</p>
+        <img class="widget-author-photo" src="http://localhost:1313/images/kedi-ganapati.webp" alt="Founder Kedi Ganapati">
+        <p>Every word and every post on this website has been written solely by one author, based on his own understanding and wisdom. If you find any grammatical mistakes, casual, unfiltered, or weird language, please accept my apologies for the inconvenience. Learn about your Dharma, laugh at my drama. — Kedi</p>
 
       
     </div>
@@ -1446,8 +1450,9 @@
   <p>
     Help build 24 subjects, 64 categories, and 1,000+ articles — free for the world.
   </p>
-  <a href="/support/" class="support-button">Give a Donation</a>
+ <a href="/donation/" class="support-button">Give a Donation</a>
 </section>
+
 
 
   <footer class="site-footer">

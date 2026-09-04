@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Philosophy on MKG Digital University of Sanatan Dharma</title>
-		<link>https://www.mkgdigitaluniversity.com/dharma/philosophy/</link>
+		<link>http://localhost:1313/dharma/philosophy/</link>
 		<description>Recent content in Philosophy on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="https://www.mkgdigitaluniversity.com/dharma/philosophy/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/dharma/philosophy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>18 Gems of Samudra Manthan</title>
-				<link>https://www.mkgdigitaluniversity.com/dharma/philosophy/18-gems-of-samudra-manthan/</link>
+				<link>http://localhost:1313/dharma/philosophy/18-gems-of-samudra-manthan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/dharma/philosophy/18-gems-of-samudra-manthan/</guid>
+				<guid>http://localhost:1313/dharma/philosophy/18-gems-of-samudra-manthan/</guid>
 				<description>&lt;h2 id=&#34;5400-km-ridezero-knowledge&#34;&gt;5400 KM Ride…Zero Knowledge&lt;/h2&gt;&#xA;&lt;p&gt;Kedi: &amp;ldquo;I did a 5400-kilometre bike journey to visit 5 big temples, but I didn&amp;rsquo;t get any knowledge about religion. Have I gained any knowledge that I am ignoring?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Ganesh: &amp;ldquo;Which knowledge did you want to gain?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Kedi: &amp;ldquo;Any knowledge that is related to Sanatan Dharma?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Ganesh: &amp;ldquo;Then you are not even worthy of gaining any knowledge.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Kedi: &amp;ldquo;Why am I not worthy of gaining knowledge?&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 	</channel>

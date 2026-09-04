@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.165.0">
+	<meta name="generator" content="Hugo 0.165.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MKG Digital University of Sanatan Dharma</title>
   <meta name="description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta name="theme-color" content="#ff7700">
-  <link rel="icon" href="https://www.mkgdigitaluniversity.com/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="https://www.mkgdigitaluniversity.com/css/style.css">
+ <link rel="icon" href="http://localhost:1313/images/mkg-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="http://localhost:1313/css/style.css">
   <meta property="og:title" content="MKG Digital University of Sanatan Dharma">
   <meta property="og:description" content="Free MKG Digital University of Sanatan Dharma — Original research by Kedi Ganapati.">
   <meta property="og:type" content="website">
@@ -30,16 +30,38 @@
 
     
 
-    <nav class="main-nav">
+    <button
+      type="button"
+      class="mobile-menu-toggle"
+      id="mobileMenuToggle"
+      aria-expanded="false"
+      aria-controls="mainNavigation"
+      aria-label="Open Menu"
+    >
+      ☰
+    </button>
+
+
+    
+
+    <nav class="main-nav" id="mainNavigation">
+
       <ul>
 
         
 
         <li class="">
 
-          <a href="/">
-            Home
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/">
+              Home
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -49,9 +71,27 @@
 
         <li class="has-submenu">
 
-          <a href="/about/">
-            About
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/about/">
+              About
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -77,9 +117,27 @@
 
         <li class="has-submenu">
 
-          <a href="/faculty/">
-            Faculty
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/faculty/">
+              Faculty
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -121,9 +179,27 @@
 
         <li class="has-submenu">
 
-          <a href="/subjects/">
-            Subjects
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/subjects/">
+              Subjects
+            </a>
+
+            
+
+            <button
+              type="button"
+              class="submenu-arrow"
+              aria-label="Open submenu"
+              aria-expanded="false"
+            >
+              ▾
+            </button>
+
+            
+
+          </div>
+
 
           
 
@@ -157,9 +233,16 @@
 
         <li class="">
 
-          <a href="/support/">
-            Support
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/support/">
+              Support
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -169,9 +252,16 @@
 
         <li class="">
 
-          <a href="/contact/">
-            Contact
-          </a>
+          <div class="nav-link-wrapper">
+
+            <a href="/contact/">
+              Contact
+            </a>
+
+            
+
+          </div>
+
 
           
 
@@ -180,6 +270,7 @@
         
 
       </ul>
+
     </nav>
 
 
@@ -302,85 +393,26 @@
 
           <optgroup label="🇮🇳 Indian Languages">
 
-            <option value="mr">
-              Marathi / मराठी
-            </option>
-
-            <option value="sa">
-              Sanskrit / संस्कृतम्
-            </option>
-
-            <option value="ta">
-              Tamil / தமிழ்
-            </option>
-
-            <option value="te">
-              Telugu / తెలుగు
-            </option>
-
-            <option value="kn">
-              Kannada / ಕನ್ನಡ
-            </option>
-
-            <option value="gu">
-              Gujarati / ગુજરાતી
-            </option>
-
-            <option value="pa">
-              Punjabi / ਪੰਜਾਬੀ
-            </option>
-
-            <option value="bn">
-              Bengali / বাংলা
-            </option>
-
-            <option value="ml">
-              Malayalam / മലയാളം
-            </option>
-
-            <option value="or">
-              Odia / ଓଡ଼ିଆ
-            </option>
-
-            <option value="as">
-              Assamese / অসমীয়া
-            </option>
-
-            <option value="ur">
-              Urdu / اردو
-            </option>
-
-            <option value="ks">
-              Kashmiri / کٲشُر
-            </option>
-
-            <option value="ne">
-              Nepali / नेपाली
-            </option>
-
-            <option value="si">
-              Sinhala / සිංහල
-            </option>
-
-            <option value="bho">
-              Bhojpuri
-            </option>
-
-            <option value="mai">
-              Maithili
-            </option>
-
-            <option value="doi">
-              Dogri
-            </option>
-
-            <option value="mni-Mtei">
-              Manipuri
-            </option>
-
-            <option value="sat">
-              Santali
-            </option>
+            <option value="mr">Marathi / मराठी</option>
+            <option value="sa">Sanskrit / संस्कृतम्</option>
+            <option value="ta">Tamil / தமிழ்</option>
+            <option value="te">Telugu / తెలుగు</option>
+            <option value="kn">Kannada / ಕನ್ನಡ</option>
+            <option value="gu">Gujarati / ગુજરાતી</option>
+            <option value="pa">Punjabi / ਪੰਜਾਬੀ</option>
+            <option value="bn">Bengali / বাংলা</option>
+            <option value="ml">Malayalam / മലയാളം</option>
+            <option value="or">Odia / ଓଡ଼ିଆ</option>
+            <option value="as">Assamese / অসমীয়া</option>
+            <option value="ur">Urdu / اردو</option>
+            <option value="ks">Kashmiri / کٲشُر</option>
+            <option value="ne">Nepali / नेपाली</option>
+            <option value="si">Sinhala / සිංහල</option>
+            <option value="bho">Bhojpuri</option>
+            <option value="mai">Maithili</option>
+            <option value="doi">Dogri</option>
+            <option value="mni-Mtei">Manipuri</option>
+            <option value="sat">Santali</option>
 
           </optgroup>
 
@@ -389,49 +421,17 @@
 
           <optgroup label="🌏 Asian Languages">
 
-            <option value="ja">
-              Japanese / 日本語
-            </option>
-
-            <option value="ko">
-              Korean / 한국어
-            </option>
-
-            <option value="th">
-              Thai / ไทย
-            </option>
-
-            <option value="vi">
-              Vietnamese / Tiếng Việt
-            </option>
-
-            <option value="id">
-              Indonesian / Bahasa Indonesia
-            </option>
-
-            <option value="ms">
-              Malay / Bahasa Melayu
-            </option>
-
-            <option value="my">
-              Burmese / မြန်မာဘာသာ
-            </option>
-
-            <option value="km">
-              Khmer / ខ្មែរ
-            </option>
-
-            <option value="lo">
-              Lao / ລາວ
-            </option>
-
-            <option value="tl">
-              Filipino / Tagalog
-            </option>
-
-            <option value="mn">
-              Mongolian / Монгол
-            </option>
+            <option value="ja">Japanese / 日本語</option>
+            <option value="ko">Korean / 한국어</option>
+            <option value="th">Thai / ไทย</option>
+            <option value="vi">Vietnamese / Tiếng Việt</option>
+            <option value="id">Indonesian / Bahasa Indonesia</option>
+            <option value="ms">Malay / Bahasa Melayu</option>
+            <option value="my">Burmese / မြန်မာဘာသာ</option>
+            <option value="km">Khmer / ខ្មែរ</option>
+            <option value="lo">Lao / ລາວ</option>
+            <option value="tl">Filipino / Tagalog</option>
+            <option value="mn">Mongolian / Монгол</option>
 
           </optgroup>
 
@@ -440,45 +440,16 @@
 
           <optgroup label="🌍 Middle East & African">
 
-            <option value="fa">
-              Persian / فارسی
-            </option>
-
-            <option value="he">
-              Hebrew / עברית
-            </option>
-
-            <option value="tr">
-              Turkish / Türkçe
-            </option>
-
-            <option value="sw">
-              Swahili / Kiswahili
-            </option>
-
-            <option value="am">
-              Amharic / አማርኛ
-            </option>
-
-            <option value="yo">
-              Yoruba
-            </option>
-
-            <option value="ig">
-              Igbo
-            </option>
-
-            <option value="ha">
-              Hausa
-            </option>
-
-            <option value="zu">
-              Zulu
-            </option>
-
-            <option value="af">
-              Afrikaans
-            </option>
+            <option value="fa">Persian / فارسی</option>
+            <option value="he">Hebrew / עברית</option>
+            <option value="tr">Turkish / Türkçe</option>
+            <option value="sw">Swahili / Kiswahili</option>
+            <option value="am">Amharic / አማርኛ</option>
+            <option value="yo">Yoruba</option>
+            <option value="ig">Igbo</option>
+            <option value="ha">Hausa</option>
+            <option value="zu">Zulu</option>
+            <option value="af">Afrikaans</option>
 
           </optgroup>
 
@@ -487,97 +458,29 @@
 
           <optgroup label="🌍 European Languages">
 
-            <option value="de">
-              German / Deutsch
-            </option>
-
-            <option value="it">
-              Italian / Italiano
-            </option>
-
-            <option value="pt">
-              Portuguese / Português
-            </option>
-
-            <option value="ru">
-              Russian / Русский
-            </option>
-
-            <option value="nl">
-              Dutch / Nederlands
-            </option>
-
-            <option value="pl">
-              Polish / Polski
-            </option>
-
-            <option value="uk">
-              Ukrainian / Українська
-            </option>
-
-            <option value="cs">
-              Czech / Čeština
-            </option>
-
-            <option value="sv">
-              Swedish / Svenska
-            </option>
-
-            <option value="ro">
-              Romanian / Română
-            </option>
-
-            <option value="el">
-              Greek / Ελληνικά
-            </option>
-
-            <option value="hu">
-              Hungarian / Magyar
-            </option>
-
-            <option value="fi">
-              Finnish / Suomi
-            </option>
-
-            <option value="da">
-              Danish / Dansk
-            </option>
-
-            <option value="no">
-              Norwegian / Norsk
-            </option>
-
-            <option value="sk">
-              Slovak / Slovenčina
-            </option>
-
-            <option value="bg">
-              Bulgarian / Български
-            </option>
-
-            <option value="hr">
-              Croatian / Hrvatski
-            </option>
-
-            <option value="sr">
-              Serbian / Српски
-            </option>
-
-            <option value="ca">
-              Catalan / Català
-            </option>
-
-            <option value="lt">
-              Lithuanian / Lietuvių
-            </option>
-
-            <option value="lv">
-              Latvian / Latviešu
-            </option>
-
-            <option value="et">
-              Estonian / Eesti
-            </option>
+            <option value="de">German / Deutsch</option>
+            <option value="it">Italian / Italiano</option>
+            <option value="pt">Portuguese / Português</option>
+            <option value="ru">Russian / Русский</option>
+            <option value="nl">Dutch / Nederlands</option>
+            <option value="pl">Polish / Polski</option>
+            <option value="uk">Ukrainian / Українська</option>
+            <option value="cs">Czech / Čeština</option>
+            <option value="sv">Swedish / Svenska</option>
+            <option value="ro">Romanian / Română</option>
+            <option value="el">Greek / Ελληνικά</option>
+            <option value="hu">Hungarian / Magyar</option>
+            <option value="fi">Finnish / Suomi</option>
+            <option value="da">Danish / Dansk</option>
+            <option value="no">Norwegian / Norsk</option>
+            <option value="sk">Slovak / Slovenčina</option>
+            <option value="bg">Bulgarian / Български</option>
+            <option value="hr">Croatian / Hrvatski</option>
+            <option value="sr">Serbian / Српски</option>
+            <option value="ca">Catalan / Català</option>
+            <option value="lt">Lithuanian / Lietuvių</option>
+            <option value="lv">Latvian / Latviešu</option>
+            <option value="et">Estonian / Eesti</option>
 
           </optgroup>
 
@@ -586,17 +489,9 @@
 
           <optgroup label="🌎 Americas">
 
-            <option value="pt-BR">
-              Portuguese (Brazil)
-            </option>
-
-            <option value="ht">
-              Haitian Creole
-            </option>
-
-            <option value="qu">
-              Quechua
-            </option>
+            <option value="pt-BR">Portuguese (Brazil)</option>
+            <option value="ht">Haitian Creole</option>
+            <option value="qu">Quechua</option>
 
           </optgroup>
 
@@ -627,6 +522,136 @@
   
 
 
+  var mobileMenuToggle =
+    document.getElementById("mobileMenuToggle");
+
+  var mainNavigation =
+    document.getElementById("mainNavigation");
+
+
+  if (mobileMenuToggle && mainNavigation) {
+
+    mobileMenuToggle.addEventListener(
+      "click",
+      function (event) {
+
+        event.stopPropagation();
+
+        var isOpen =
+          mainNavigation.classList.toggle("mobile-open");
+
+        mobileMenuToggle.setAttribute(
+          "aria-expanded",
+          isOpen ? "true" : "false"
+        );
+
+        mobileMenuToggle.setAttribute(
+          "aria-label",
+          isOpen ? "Close Menu" : "Open Menu"
+        );
+
+      }
+    );
+
+
+     
+
+    mainNavigation.querySelectorAll(
+      "a"
+    ).forEach(function (link) {
+
+      link.addEventListener(
+        "click",
+        function () {
+
+          var parent =
+            this.parentElement;
+
+
+          
+
+
+          if (
+            !parent.classList.contains(
+              "nav-link-wrapper"
+            )
+          ) {
+
+            mainNavigation.classList.remove(
+              "mobile-open"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-expanded",
+              "false"
+            );
+
+            mobileMenuToggle.setAttribute(
+              "aria-label",
+              "Open Menu"
+            );
+
+          }
+
+        }
+      );
+
+    });
+
+  }
+
+
+  
+
+
+  var submenuArrows =
+    document.querySelectorAll(
+      ".main-nav .has-submenu .submenu-arrow"
+    );
+
+
+  submenuArrows.forEach(
+    function (arrow) {
+
+      arrow.addEventListener(
+        "click",
+        function (event) {
+
+          if (
+            window.innerWidth <= 640
+          ) {
+
+            event.preventDefault();
+            event.stopPropagation();
+
+
+            var parent =
+              this.closest(".has-submenu");
+
+
+            var isOpen =
+              parent.classList.toggle(
+                "submenu-open"
+              );
+
+
+            this.setAttribute(
+              "aria-expanded",
+              isOpen ? "true" : "false"
+            );
+
+          }
+
+        }
+      );
+
+    }
+  );
+
+
+  
+
+
   var languageToggle =
     document.getElementById("languageToggle");
 
@@ -637,7 +662,9 @@
     document.getElementById("mkgLanguage");
 
   var languageOptions =
-    document.querySelectorAll(".language-option");
+    document.querySelectorAll(
+      ".language-option"
+    );
 
   var moreLanguages =
     document.getElementById("moreLanguages");
@@ -707,9 +734,6 @@
     }
 
 
-    
-
-
     var googleSelect =
       document.querySelector(".goog-te-combo");
 
@@ -723,10 +747,8 @@
       );
 
       return;
+
     }
-
-
-    
 
 
     var googleValue =
@@ -765,9 +787,6 @@
             this.getAttribute("data-lang");
 
 
-          
-
-
           languageOptions.forEach(
             function (item) {
 
@@ -780,26 +799,20 @@
           this.classList.add("active");
 
 
-          
-
-
           if (moreLanguages) {
+
             moreLanguages.value = "";
+
           }
-
-
-          
 
 
           doTranslate(code);
 
 
-          
-
-
           languageContainer.classList.remove(
             "open"
           );
+
 
           languageToggle.setAttribute(
             "aria-expanded",
@@ -822,15 +835,13 @@
       "change",
       function () {
 
-        var code = this.value;
+        var code =
+          this.value;
 
 
         if (!code) {
           return;
         }
-
-
-        
 
 
         languageOptions.forEach(
@@ -842,18 +853,13 @@
         );
 
 
-        
-
-
         doTranslate(code);
-
-
-        
 
 
         languageContainer.classList.remove(
           "open"
         );
+
 
         languageToggle.setAttribute(
           "aria-expanded",
@@ -881,9 +887,6 @@
       if (!hidden) {
         return;
       }
-
-
-      
 
 
       new google.translate.TranslateElement(
@@ -924,10 +927,11 @@
 
 })();
 </script>
+
   
 <section class="hero">
   
-    <img class="hero-image" src="https://www.mkgdigitaluniversity.com/images/mkg-digital-university-hero-image.webp" alt="MKG Digital University of Sanatan Dharma">
+    <img class="hero-image" src="http://localhost:1313/images/mkg-digital-university-hero-image.webp" alt="MKG Digital University of Sanatan Dharma">
   
 </section>
 
@@ -938,8 +942,7 @@
 
 <section class="intro-text">
   <h2 style="text-align: center;">Welcome to MKG</h2>
-<h2 style="text-align: center;">One University - One Author - One Framework</h2>
-<p>I, Kedi Ganapati, founded MKG Digital University as a free digital university to revive the original principles of Sanatan Dharma and explore human existence.</p>
+<p style="text-align: center; font-size: 24px;"><strong>One University - One Author - One Developer</strong></p>
 <p>🏛️ MKG Digital University of Sanatan Dharma — a self-research digital platform offering 100% free learning in Sanatan Dharma, Hindu Philosophy, Cosmology, Dharma Shastra, Psychology, Sociology, and Indian Knowledge Systems (IKS).</p>
 <p>Explore scripture-backed insights from the Gita, Ramayana, Mahabharata, Tripitaka, and Upanishads — with original interpretations by Kedi Ganapati.</p>
 <blockquote>
@@ -950,42 +953,43 @@
 </section>
 
 
+
 <section class="subjects-grid">
   <h2>Explore by Subject</h2>
 
   <div class="card-grid grid-3">
     
-     <a class="subject-card" href="/dharma/">
+      <a class="subject-card" href="/dharma/">
         <span class="subject-icon">🕉️</span>
         <h3>Dharma</h3>
         <p>Explore scriptures, and the timeless knowledge of Dharma.</p>
       </a>
     
-     <a class="subject-card" href="/science/">
+      <a class="subject-card" href="/science/">
         <span class="subject-icon">🌌</span>
         <h3>Science</h3>
         <p>Explore the universe, matter, life, mathematics, and the laws of reality.</p>
       </a>
     
-     <a class="subject-card" href="/society/">
+      <a class="subject-card" href="/society/">
         <span class="subject-icon">⚖️</span>
         <h3>Society</h3>
         <p>Explore human behaviour, society, law, economics, governance, and human</p>
       </a>
     
-     <a class="subject-card" href="/subjects/">
+      <a class="subject-card" href="/subjects/">
         <span class="subject-icon">📖</span>
         <h3>Subjects</h3>
         <p>Free, structured learning material.</p>
       </a>
     
-     <a class="subject-card" href="/research/">
+      <a class="subject-card" href="/research/">
         <span class="subject-icon">🔬</span>
         <h3>Research</h3>
         <p>Original research papers by Kedi Ganapati.</p>
       </a>
     
-     <a class="subject-card" href="/books/">
+      <a class="subject-card" href="/books/">
         <span class="subject-icon">📚</span>
         <h3>Books</h3>
         <p>Books written by Kedi Ganapati.</p>
@@ -994,13 +998,16 @@
   </div>
 </section>
 
+
 <section class="content-grid" style="padding-top: 3rem;">
   <h2>Featured Posts</h2>
+
   <div class="card-grid grid-3">
     
     
+
     
-    
+
       <a class="card" href="/science/astronomy/sanatan-time-cycle/">
 
         
@@ -1017,11 +1024,10 @@
 
         <h3>Sanatan Time Cycle</h3>
 
-        
-
       </a>
+
     
-    
+
       <a class="card" href="/science/astronomy/diwali-the-origin-of-big-bang-kedi-ganapati/">
 
         
@@ -1038,11 +1044,10 @@
 
         <h3>Diwali: The Origin of Big Bang</h3>
 
-        
-
       </a>
+
     
-    
+
       <a class="card" href="/society/psychology/108-elements-of-human-mind/">
 
         
@@ -1059,15 +1064,10 @@
 
         <h3>108 Elements of Human Mind</h3>
 
-        
-          <span class="card-tag">
-            Psychology
-          </span>
-        
-
       </a>
+
     
-    
+
       <a class="card" href="/dharma/philosophy/18-gems-of-samudra-manthan/">
 
         
@@ -1084,15 +1084,10 @@
 
         <h3>18 Gems of Samudra Manthan</h3>
 
-        
-          <span class="card-tag">
-            Philosophy
-          </span>
-        
-
       </a>
+
     
-    
+
       <a class="card" href="/dharma/purana/kedi-purana/glutton-kiran-to-sage-kedi/">
 
         
@@ -1109,15 +1104,10 @@
 
         <h3>Glutton Kiran to Sage Kedi</h3>
 
-        
-          <span class="card-tag">
-            Kedi Purana
-          </span>
-        
-
       </a>
+
     
-    
+
       <a class="card" href="/society/economics/trend-and-selection-a-behavioral-framework/">
 
         
@@ -1134,16 +1124,43 @@
 
         <h3>Trend &amp; Selection Fameworks</h3>
 
-        
-          <span class="card-tag">
-            Economics
-          </span>
-        
-
       </a>
+
     
   </div>
 </section>
+
+
+<section class="founder-section">
+
+  <div class="founder-image">
+    <img
+      src="/images/kedi-ganapati.webp"
+      alt="Kedi Ganapati — Founder of MKG Digital University"
+    >
+  </div>
+
+  <div class="founder-content">
+
+    <h2>Founder • Author • Developer</h2>
+
+    <h3>Kedi Ganapati</h3>
+
+    <p class="founder-role">
+      Founder — MKG Digital University of Sanatan Dharma
+    </p>
+
+    <p>
+      I, Kedi Ganapati, founded MKG Digital University as a free digital university dedicated to reviving the original principles of Sanatan Dharma and exploring human existence.</p>
+
+    <a class="founder-button" href="/kedi/">
+      Read Founder’s Story →
+    </a>
+
+  </div>
+
+</section>
+
 
 
   </div>
@@ -1154,8 +1171,9 @@
   <p>
     Help build 24 subjects, 64 categories, and 1,000+ articles — free for the world.
   </p>
-  <a href="/support/" class="support-button">Give a Donation</a>
+ <a href="/donation/" class="support-button">Give a Donation</a>
 </section>
+
 
 
   <footer class="site-footer">

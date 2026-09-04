@@ -10,6 +10,7 @@
 </section>
 {{ end }}
 
+
 {{ define "main" }}
 
 {{ with .Content }}
@@ -18,12 +19,13 @@
 </section>
 {{ end }}
 
+
 <section class="subjects-grid">
   <h2>Explore by Subject</h2>
 
   <div class="card-grid grid-3">
     {{ range .Site.Params.subjects }}
-     <a class="subject-card" href="{{ .url | relURL }}">
+      <a class="subject-card" href="{{ .url | relURL }}">
         <span class="subject-icon">{{ .icon }}</span>
         <h3>{{ .title }}</h3>
         <p>{{ .description }}</p>
@@ -32,13 +34,16 @@
   </div>
 </section>
 
+
 <section class="content-grid" style="padding-top: 3rem;">
   <h2>Featured Posts</h2>
+
   <div class="card-grid grid-3">
     {{ $popularPosts := where .Site.RegularPages "Params.popular" true }}
     {{ $posts := cond (gt (len $popularPosts) 0) $popularPosts .Site.RegularPages.ByDate.Reverse }}
+
     {{ range first 6 $posts }}
-    
+
       <a class="card" href="{{ .RelPermalink }}">
 
         {{ $img := .Params.image | default .Params.cover | default .Params.featured_image | default .Params.thumbnail }}
@@ -56,8 +61,41 @@
         <h3>{{ .Title }}</h3>
 
       </a>
+
     {{ end }}
   </div>
 </section>
+
+
+<section class="founder-section">
+
+  <div class="founder-image">
+    <img
+      src="{{ "images/kedi-ganapati.webp" | relURL }}"
+      alt="Kedi Ganapati — Founder of MKG Digital University"
+    >
+  </div>
+
+  <div class="founder-content">
+
+    <h2>Founder • Author • Developer</h2>
+
+    <h3>Kedi Ganapati</h3>
+
+    <p class="founder-role">
+      Founder — MKG Digital University of Sanatan Dharma
+    </p>
+
+    <p>
+      I, Kedi Ganapati, founded MKG Digital University as a free digital university dedicated to reviving the original principles of Sanatan Dharma and exploring human existence.</p>
+
+    <a class="founder-button" href="{{ "/kedi/" | relURL }}">
+      Read Founder’s Story →
+    </a>
+
+  </div>
+
+</section>
+
 
 {{ end }}

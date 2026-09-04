@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Judiciary on MKG Digital University of Sanatan Dharma</title>
-		<link>https://www.mkgdigitaluniversity.com/society/judiciary/</link>
+		<link>http://localhost:1313/society/judiciary/</link>
 		<description>Recent content in Judiciary on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="https://www.mkgdigitaluniversity.com/society/judiciary/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/society/judiciary/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Indian Constitution Origin According to Sanatan Dharma</title>
-				<link>https://www.mkgdigitaluniversity.com/society/judiciary/indian-constitution-origin-according-to-sanatan-dharma/</link>
+				<link>http://localhost:1313/society/judiciary/indian-constitution-origin-according-to-sanatan-dharma/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/society/judiciary/indian-constitution-origin-according-to-sanatan-dharma/</guid>
+				<guid>http://localhost:1313/society/judiciary/indian-constitution-origin-according-to-sanatan-dharma/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin-of-the-constitution&#34;&gt;Origin of the Constitution&lt;/h2&gt;&#xA;&lt;p&gt;Parmeshwar First Ganapati created a monarchical constitution for nation-building.&lt;/p&gt;&#xA;&lt;p&gt;Incarnations of Bhagwan Shankar, Dattatreya, Parashurama, Ram, Krishna, Buddha, and Kalki established Sanatan Dharma and the constitution.&lt;/p&gt;&#xA;&lt;p&gt;In Sanatan philosophy, there exists a concept of opposing forces — one that upholds Dharmic order, and another that promotes materialism and division.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-constitutions&#34;&gt;Types of Constitutions&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;2.1 Monarchy vs Democracy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Feature&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Monarchy&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Democracy&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Power Distribution&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;100% ruling ministers&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;75% ruling, 25% opposition&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Opposition Rights&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;None&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Can interfere in legislature and executive&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;National Planning&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Smooth, uninterrupted&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Disrupted by opposition, risk of treason&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Citizen Unity&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Promotes patriotism&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Can foster inequality, casteism&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Ministerial Accountability&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Immediate punishment for treason/corruption&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Often unpunished&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;National Objective&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Nation-first&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Personal or party gain, corruption&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;pillars-of-the-monarchy-constitution&#34;&gt;Pillars of the Monarchy Constitution&lt;/h2&gt;&#xA;&lt;p&gt;Three Pillars: &lt;strong&gt;Economics, Parliament, Judiciary.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

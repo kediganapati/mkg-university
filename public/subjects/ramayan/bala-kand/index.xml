@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bala Kand Chapter 1 on MKG Digital University of Sanatan Dharma</title>
-		<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/</link>
+		<link>http://localhost:1313/subjects/ramayan/bala-kand/</link>
 		<description>Recent content in Bala Kand Chapter 1 on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,48 +10,286 @@
 		
 		
 		
-			<atom:link href="https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/subjects/ramayan/bala-kand/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ramayan — Bala Kanda — Sarga 01</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_01/</link>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_01/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_01/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_01/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तपः स्वाध्याय निरताम् तपस्वी वाग्विदाम् वरम् |&#xA;नारदम् परिपप्रच्छ वाल्मीकिः मुनि पुंगवम् || १-१-१&lt;/p&gt;&#xA;&lt;p&gt;Valmiki, devoted to austerity and self-study, asked Narada, the foremost among sages and the best among those skilled in speech.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;कः नु अस्मिन् सांप्रतम् लोके गुणवान् कः च वीर्यवान् |&#xA;धर्मज्ञः च कृतज्ञः च सत्य वाक्यो धृढ व्रतः || १-१-२&lt;/p&gt;&#xA;&lt;p&gt;Who in this world at the present time is endowed with virtues and strength? Who knows righteousness, who is grateful, who speaks the truth, and who is firm in his vows?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 01</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_11/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_11/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तपः स्वाध्याय निरताम् तपस्वी वाग्विदाम् वरम् |&#xA;नारदम् परिपप्रच्छ वाल्मीकिः मुनि पुंगवम् || १-१-१&lt;/p&gt;&#xA;&lt;p&gt;Valmiki, devoted to austerity and self-study, asked Narada, the foremost among sages and the best among those skilled in speech.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;कः नु अस्मिन् सांप्रतम् लोके गुणवान् कः च वीर्यवान् |&#xA;धर्मज्ञः च कृतज्ञः च सत्य वाक्यो धृढ व्रतः || १-१-२&lt;/p&gt;&#xA;&lt;p&gt;Who in this world at the present time is endowed with virtues and strength? Who knows righteousness, who is grateful, who speaks the truth, and who is firm in his vows?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 01</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_31/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_31/</guid>
 				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तपः स्वाध्याय निरताम् तपस्वी वाग्विदाम् वरम् |&#xA;नारदम् परिपप्रच्छ वाल्मीकिः मुनि पुंगवम् || १-१-१&lt;/p&gt;&#xA;&lt;p&gt;Valmiki, devoted to austerity and self-study, asked Narada, the foremost among sages and the best among those skilled in speech.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;कः नु अस्मिन् सांप्रतम् लोके गुणवान् कः च वीर्यवान् |&#xA;धर्मज्ञः च कृतज्ञः च सत्य वाक्यो धृढ व्रतः || १-१-२&lt;/p&gt;&#xA;&lt;p&gt;Who in this world at the present time is endowed with virtues and strength? Who knows righteousness, who is grateful, who speaks the truth, and who is firm in his vows?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ramayan — Bala Kanda — Sarga 02</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_02/</link>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_02/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_02/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_02/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;नारदस्य तु तद्वाक्यम् श्रुत्वा वाक्य विशारदः |&#xA;पूजयामास धर्मात्मा सह शिष्यो महामुनिः ||&lt;/p&gt;&#xA;&lt;p&gt;On hearing the words of Narada, the great sage Valmiki, righteous in conduct and skilled in speech, honoured him together with his disciples.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;यथावत् पूजितः तेन देवर्षिः नारदः तथा |&#xA;आपृच्छैव अभ्यनुज्ञातः स जगाम विहायसम् ||&lt;/p&gt;&#xA;&lt;p&gt;Thus properly honoured by Valmiki, the divine sage Narada, having taken leave and received permission, departed through the sky.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 02</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_22/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_22/</guid>
 				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;नारदस्य तु तद्वाक्यम् श्रुत्वा वाक्य विशारदः |&#xA;पूजयामास धर्मात्मा सह शिष्यो महामुनिः ||&lt;/p&gt;&#xA;&lt;p&gt;On hearing the words of Narada, the great sage Valmiki, righteous in conduct and skilled in speech, honoured him together with his disciples.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;यथावत् पूजितः तेन देवर्षिः नारदः तथा |&#xA;आपृच्छैव अभ्यनुज्ञातः स जगाम विहायसम् ||&lt;/p&gt;&#xA;&lt;p&gt;Thus properly honoured by Valmiki, the divine sage Narada, having taken leave and received permission, departed through the sky.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ramayan — Bala Kanda — Sarga 03</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_03/</link>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_03/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_03/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_03/</guid>
 				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Ramayan — Bala Kanda — Sarga 04</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_04/</link>
+				<title>Ramayan — Bala Kanda — Sarga 03</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_13/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_04/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_13/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 03</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_14/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_14/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 03</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_24/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_24/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 03</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_34/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_34/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 04</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_04/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_04/</guid>
 				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;श्रुत्वा वस्तु समग्रम् तत् धर्मार्थ सहितम् हितम् |&#xA;व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः || १-३-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard that complete account, containing Dharma, Artha, and what is beneficial, the sage again sought in detail the events concerning that wise Rama.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;उपस्पृश्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः |&#xA;प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् || १-३-२&lt;/p&gt;&#xA;&lt;p&gt;Having properly touched the water and stood with folded hands, the sage sat upon sacred darbha grass with its tips facing east and, through his spiritual insight, sought the course of the events.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ramayan — Bala Kanda — Sarga 05</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_05/</link>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_05/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_05/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_05/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-05&#34;&gt;Bala Kanda — Sarga 05&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;सर्वा पूर्वम् इयम् येषाम् आसीत् कृत्स्ना वसुंधरा |&#xA;प्रजपतिम् उपादाय नृपाणम् जय शालिनाम् ||&lt;/p&gt;&#xA;&lt;p&gt;Formerly, this entire earth belonged to those victorious kings, beginning with Prajapati.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;येषाम् स सगरो नाम सागरो येन खानितः |&#xA;षष्टिः पुत्र सहस्राणि यम् यान्तम् पर्यवारयन् ||&lt;/p&gt;&#xA;&lt;p&gt;Among them was King Sagara, after whom the ocean was named, and whom sixty thousand sons accompanied when he set out.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ramayan — Bala Kanda — Sarga 06</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_06/</link>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_06/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/ramayan/bala-kand/bala-kanda_06/</guid>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_06/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-06&#34;&gt;Bala Kanda — Sarga 06&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्यां पुर्यामयोध्यायां वेदवित्सर्वसंग्रहः |&#xA;दीर्घदर्शी महातेजाः पौरजानपदप्रियः || १-६-१&lt;/p&gt;&#xA;&lt;p&gt;In that city of Ayodhya lived one who was learned in the Vedas, possessed of every resource, far-seeing, greatly radiant, and beloved by both the citizens and the people of the countryside.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;इक्ष्वाकूणामतिरथो यज्वा धर्मपरो वशी |&#xA;महर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुतः || १-६-२&lt;/p&gt;&#xA;&lt;p&gt;Among the descendants of Ikshvaku, he was an excellent chariot-warrior, a performer of sacrifices, devoted to Dharma, self-controlled, like a great sage, and a royal sage renowned in the three worlds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 06</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_07/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_07/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-06&#34;&gt;Bala Kanda — Sarga 06&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्यां पुर्यामयोध्यायां वेदवित्सर्वसंग्रहः |&#xA;दीर्घदर्शी महातेजाः पौरजानपदप्रियः || १-६-१&lt;/p&gt;&#xA;&lt;p&gt;In that city of Ayodhya lived one who was learned in the Vedas, possessed of every resource, far-seeing, greatly radiant, and beloved by both the citizens and the people of the countryside.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;इक्ष्वाकूणामतिरथो यज्वा धर्मपरो वशी |&#xA;महर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुतः || १-६-२&lt;/p&gt;&#xA;&lt;p&gt;Among the descendants of Ikshvaku, he was an excellent chariot-warrior, a performer of sacrifices, devoted to Dharma, self-controlled, like a great sage, and a royal sage renowned in the three worlds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 06</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_27/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_27/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-06&#34;&gt;Bala Kanda — Sarga 06&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्यां पुर्यामयोध्यायां वेदवित्सर्वसंग्रहः |&#xA;दीर्घदर्शी महातेजाः पौरजानपदप्रियः || १-६-१&lt;/p&gt;&#xA;&lt;p&gt;In that city of Ayodhya lived one who was learned in the Vedas, possessed of every resource, far-seeing, greatly radiant, and beloved by both the citizens and the people of the countryside.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;इक्ष्वाकूणामतिरथो यज्वा धर्मपरो वशी |&#xA;महर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुतः || १-६-२&lt;/p&gt;&#xA;&lt;p&gt;Among the descendants of Ikshvaku, he was an excellent chariot-warrior, a performer of sacrifices, devoted to Dharma, self-controlled, like a great sage, and a royal sage renowned in the three worlds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 08</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_08/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_08/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्य त्वेवम्प्रभावस्य धर्मज्ञस्य महात्मनः |&#xA;सुतार्थं तप्यमानस्य नासीद्वंशकरः सुतः || १-८-१&lt;/p&gt;&#xA;&lt;p&gt;That great-souled king, who possessed such qualities and was a knower of Dharma, had no son to continue his lineage, though he longed intensely for one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मनः |&#xA;सुतार्थं वाजिमेधेन किमर्थं न यजाम्यहम् || १-८-२&lt;/p&gt;&#xA;&lt;p&gt;As the great-souled king reflected upon this matter, the following thought arose in his mind: “Why should I not perform the Ashvamedha sacrifice for the sake of obtaining a son?”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 08</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_18/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_18/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्य त्वेवम्प्रभावस्य धर्मज्ञस्य महात्मनः |&#xA;सुतार्थं तप्यमानस्य नासीद्वंशकरः सुतः || १-८-१&lt;/p&gt;&#xA;&lt;p&gt;That great-souled king, who possessed such qualities and was a knower of Dharma, had no son to continue his lineage, though he longed intensely for one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मनः |&#xA;सुतार्थं वाजिमेधेन किमर्थं न यजाम्यहम् || १-८-२&lt;/p&gt;&#xA;&lt;p&gt;As the great-souled king reflected upon this matter, the following thought arose in his mind: “Why should I not perform the Ashvamedha sacrifice for the sake of obtaining a son?”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 08</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_28/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_28/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्य त्वेवम्प्रभावस्य धर्मज्ञस्य महात्मनः |&#xA;सुतार्थं तप्यमानस्य नासीद्वंशकरः सुतः || १-८-१&lt;/p&gt;&#xA;&lt;p&gt;That great-souled king, who possessed such qualities and was a knower of Dharma, had no son to continue his lineage, though he longed intensely for one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मनः |&#xA;सुतार्थं वाजिमेधेन किमर्थं न यजाम्यहम् || १-८-२&lt;/p&gt;&#xA;&lt;p&gt;As the great-souled king reflected upon this matter, the following thought arose in his mind: “Why should I not perform the Ashvamedha sacrifice for the sake of obtaining a son?”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 08</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_38/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_38/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तस्य त्वेवम्प्रभावस्य धर्मज्ञस्य महात्मनः |&#xA;सुतार्थं तप्यमानस्य नासीद्वंशकरः सुतः || १-८-१&lt;/p&gt;&#xA;&lt;p&gt;That great-souled king, who possessed such qualities and was a knower of Dharma, had no son to continue his lineage, though he longed intensely for one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मनः |&#xA;सुतार्थं वाजिमेधेन किमर्थं न यजाम्यहम् || १-८-२&lt;/p&gt;&#xA;&lt;p&gt;As the great-souled king reflected upon this matter, the following thought arose in his mind: “Why should I not perform the Ashvamedha sacrifice for the sake of obtaining a son?”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 09</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_09/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_09/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;एतत् श्रुत्वा रहः सूतो राजानम् इदम् अब्रवीत् |&#xA;श्रूयताम् तत् पुरा वृत्तम् पुराणे च मया श्रुतम् || १-९-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard this, Sumantra, the charioteer, spoke to the king privately:&lt;/p&gt;&#xA;&lt;p&gt;“Listen to an ancient account that I have heard from the Purana.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ऋत्विग्भिः उपदिष्टोऽयम् पुरा वृत्तो मया श्रुतः |&#xA;सनत्कुमारो भगवान् पूर्वम् कथितवान् कथाम् || १-९-२&lt;/p&gt;&#xA;&lt;p&gt;ऋषीणाम् सन्निधौ राजन् तव पुत्राअगमम् प्रति |&lt;/p&gt;&#xA;&lt;p&gt;“O King, I have heard this ancient account as it was related by the priests. The divine Sanatkumara formerly narrated this story in the presence of sages concerning the coming of your sons.”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 09</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_10/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_10/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-09&#34;&gt;Bala Kanda — Sarga 09&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;एतत् श्रुत्वा रहः सूतो राजानम् इदम् अब्रवीत् |&#xA;श्रूयताम् तत् पुरा वृत्तम् पुराणे च मया श्रुतम् || १-९-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard this, Sumantra, the charioteer, spoke to the king privately:&lt;/p&gt;&#xA;&lt;p&gt;“Listen to an ancient account that I have heard from the Purana.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ऋत्विग्भिः उपदिष्टोऽयम् पुरा वृत्तो मया श्रुतः |&#xA;सनत्कुमारो भगवान् पूर्वम् कथितवान् कथाम् || १-९-२&lt;/p&gt;&#xA;&lt;p&gt;ऋषीणाम् सन्निधौ राजन् तव पुत्राअगमम् प्रति |&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 09</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_29/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_29/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-09&#34;&gt;Bala Kanda — Sarga 09&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;एतत् श्रुत्वा रहः सूतो राजानम् इदम् अब्रवीत् |&#xA;श्रूयताम् तत् पुरा वृत्तम् पुराणे च मया श्रुतम् || १-९-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard this, Sumantra, the charioteer, spoke to the king privately:&lt;/p&gt;&#xA;&lt;p&gt;“Listen to an ancient account that I have heard from the Purana.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ऋत्विग्भिः उपदिष्टोऽयम् पुरा वृत्तो मया श्रुतः |&#xA;सनत्कुमारो भगवान् पूर्वम् कथितवान् कथाम् || १-९-२&lt;/p&gt;&#xA;&lt;p&gt;ऋषीणाम् सन्निधौ राजन् तव पुत्राअगमम् प्रति |&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 09</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_30/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_30/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;bala-kanda--sarga-09&#34;&gt;Bala Kanda — Sarga 09&lt;/h1&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;एतत् श्रुत्वा रहः सूतो राजानम् इदम् अब्रवीत् |&#xA;श्रूयताम् तत् पुरा वृत्तम् पुराणे च मया श्रुतम् || १-९-१&lt;/p&gt;&#xA;&lt;p&gt;Having heard this, Sumantra, the charioteer, spoke to the king privately:&lt;/p&gt;&#xA;&lt;p&gt;“Listen to an ancient account that I have heard from the Purana.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ऋत्विग्भिः उपदिष्टोऽयम् पुरा वृत्तो मया श्रुतः |&#xA;सनत्कुमारो भगवान् पूर्वम् कथितवान् कथाम् || १-९-२&lt;/p&gt;&#xA;&lt;p&gt;ऋषीणाम् सन्निधौ राजन् तव पुत्राअगमम् प्रति |&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 12</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_12/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_12/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;ततः काले बहु तिथे कस्मिन् चित् सुमनोहरे |&#xA;वसन्ते समनुप्राप्ते राज्ञो यष्टुम् मनोऽभवत् || १-१२-१&lt;/p&gt;&#xA;&lt;p&gt;After some time had passed, when the pleasant season of spring had arrived, King Dasharatha desired to perform the Vedic sacrifice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ततः प्रणम्य शिरसा तम् विप्रम् देव वर्णिनम् |&#xA;यज्ञाय वरयामास संतान अर्थम् कुलस्य च || १-१२-२&lt;/p&gt;&#xA;&lt;p&gt;Then, bowing his head before that Brahmana sage Rishyasringa, whose splendour was like that of a deity, King Dasharatha requested him to conduct the sacrifice for the sake of obtaining progeny and continuing his royal lineage.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 15</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_15/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_15/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम् ।&#xA;लब्धसंज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत् ॥&lt;/p&gt;&#xA;&lt;p&gt;Then the wise and learned Rishyasringa, knowing the Vedas, reflected for a while and, having determined what was to be done, spoke to King Dasharatha.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;इष्टिं तेऽहं करिष्यामि पुत्रीयां पुत्रकारणात् ।&#xA;अथर्वशिरसि प्रोक्तैर्मन्त्रैः सिद्धां विधानतः ॥&lt;/p&gt;&#xA;&lt;p&gt;For the sake of obtaining sons, I shall perform the Putrakāmeṣṭi sacrifice for you, according to the prescribed procedure, with the mantras taught in the Atharva Veda.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 16</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_16/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_16/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;दशरथोऽथ हृष्टात्मा श्रुत्वा तद्वचनं मुनेः ।&#xA;ऋष्यशृङ्गं पुरस्कृत्य ययौ यष्टुं महायशाः ॥&lt;/p&gt;&#xA;&lt;p&gt;Then King Dasharatha, delighted at heart after hearing the words of the sage, proceeded to perform the great sacrifice, placing Rishyasringa at the forefront.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;स तु राजानमामन्त्र्य ऋष्यशृङ्गं पुरस्कृत्य च ।&#xA;सुमन्त्रं च महात्मानं मन्त्रिणं चेदमब्रवीत् ॥&lt;/p&gt;&#xA;&lt;p&gt;After taking leave of the king and placing Rishyasringa at the forefront, the great sage Sumantra said these words to the minister:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 17</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_17/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_17/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य महात्मनः ।&#xA;उवाच देवताः सर्वाः स्वयंभूर्भगवानिदम् ॥&lt;/p&gt;&#xA;&lt;p&gt;When Vishnu had attained the sonship of the great-souled King Dasharatha, Brahma, the self-created Lord, spoke these words to all the gods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;सत्यसंधस्य वीरस्य सर्वेषां नो हितैषिणः ।&#xA;विष्णोः सहायान् बलिनः सृजध्वं कामरूपिणः ॥&lt;/p&gt;&#xA;&lt;p&gt;Create mighty companions for Vishnu, the truthful and heroic one, who desires the welfare of us all, and who are capable of assuming forms according to their will.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 17</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_37/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_37/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य महात्मनः ।&#xA;उवाच देवताः सर्वाः स्वयंभूर्भगवानिदम् ॥&lt;/p&gt;&#xA;&lt;p&gt;When Vishnu had attained the sonship of the great-souled King Dasharatha, Brahma, the self-created Lord, spoke these words to all the gods.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;सत्यसंधस्य वीरस्य सर्वेषां नो हितैषिणः ।&#xA;विष्णोः सहायान् बलिनः सृजध्वं कामरूपिणः ॥&lt;/p&gt;&#xA;&lt;p&gt;Create mighty companions for Vishnu, the truthful and heroic one, who desires the welfare of us all, and who are capable of assuming forms according to their will.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 19</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_19/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_19/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तच्छ्रुत्वा राजसिंहस्य वाक्यमद्भुतविस्तरम् ।&#xA;हृष्टरोमा महातेजा विश्वामित्रोऽभ्यभाषत ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard these wonderful and detailed words of King Dasharatha, the lion among kings, the greatly radiant Vishvamitra, with his hair standing on end with joy, spoke.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;सदृशं राजशार्दूल तवैतद्भुवि नान्यथा ।&#xA;महावंशप्रसूतस्य वसिष्ठव्यपदेशिनः ॥&lt;/p&gt;&#xA;&lt;p&gt;O tiger among kings, these words are befitting of you and no one else, for you are born in a great lineage and instructed by Vashishtha.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 19</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_39/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_39/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तच्छ्रुत्वा राजसिंहस्य वाक्यमद्भुतविस्तरम् ।&#xA;हृष्टरोमा महातेजा विश्वामित्रोऽभ्यभाषत ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard these wonderful and detailed words of King Dasharatha, the lion among kings, the greatly radiant Vishvamitra, with his hair standing on end with joy, spoke.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;सदृशं राजशार्दूल तवैतद्भुवि नान्यथा ।&#xA;महावंशप्रसूतस्य वसिष्ठव्यपदेशिनः ॥&lt;/p&gt;&#xA;&lt;p&gt;O tiger among kings, these words are befitting of you and no one else, for you are born in a great lineage and instructed by Vashishtha.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 20</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_20/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_20/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम् ।&#xA;मुहूर्तमिव निःसंज्ञः संज्ञावानिदमब्रवीत् ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard the words of Vishvamitra, the tiger among kings, Dasharatha became as if unconscious for a moment. Regaining his awareness, he spoke these words.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;ऊनषोडशवर्षो मे रामो राजीवलोचनः ।&#xA;न युद्धयोग्यतामस्य पश्यामि सह राक्षसैः ॥&lt;/p&gt;&#xA;&lt;p&gt;My lotus-eyed Rama is less than sixteen years old. I do not see him as fit to fight with the Rakshasas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-3&#34;&gt;Verse 3&lt;/h2&gt;&#xA;&lt;p&gt;इयमक्षौहिणी पूर्णा यस्याहं पतिरीश्वरः ।&#xA;अनया सहितो गत्वा योद्धाहं तैर्निशाचरैः ॥&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 21</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_21/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_21/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;तच्छ्रुत्वा वचनं तस्य स्नेहपर्याकुलाक्षरम् ।&#xA;समन्युः कौशिको वाक्यं प्रत्युवाच महीपतिम् ॥&lt;/p&gt;&#xA;&lt;p&gt;Hearing the king&amp;rsquo;s words, which were filled with affection for his son, Vishvamitra, the son of Kusha, became angry and spoke to the lord of the earth.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;पूर्वमर्थं प्रतिश्रुत्य प्रतिज्ञां हातुमिच्छसि ।&#xA;राघवाणामयुक्तोऽयं कुलस्यास्य विपर्ययः ॥&lt;/p&gt;&#xA;&lt;p&gt;Having previously promised to fulfill my purpose, you now wish to abandon your promise. Such conduct is not proper for this lineage of the Raghus.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 23</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_23/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_23/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;प्रभातायां तु शर्वर्यां विश्वामित्रो महामुनिः ।&#xA;अभ्यभाषत काकुत्स्थौ शयानौ पर्णसंस्तरे ॥&lt;/p&gt;&#xA;&lt;p&gt;When the night had passed and dawn appeared, the great sage Vishvamitra spoke to the two descendants of Kakutstha, Rama and Lakshmana, who were sleeping on a bed of leaves.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।&#xA;उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;O Rama, Kausalya is blessed to have you as her son. The eastern dawn is appearing. Arise, O tiger among men; the morning duties to the gods are to be performed.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 25</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_25/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_25/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;अथ तस्याप्रमेयस्य मुनेर्वचनमुत्तमम् ।&#xA;श्रुत्वा पुरुषशार्दूलः प्रत्युवाच शुभां गिरम् ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard the excellent words of that sage of immeasurable power, Rama, the tiger among men, replied with auspicious words.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;अल्पवीर्या यदा यक्षी श्रूयते मुनिपुङ्गव ।&#xA;कथं नागसहस्रस्य धारयत्यबला बलम् ॥&lt;/p&gt;&#xA;&lt;p&gt;O foremost of sages, it is said that a Yakshi possesses little strength. How can this woman, being weak, possess the strength of a thousand elephants?&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-3&#34;&gt;Verse 3&lt;/h2&gt;&#xA;&lt;p&gt;इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः ।&#xA;हर्षयञ्छ्लक्ष्णया वाचा सलक्ष्मणमरिन्दमम् ॥&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 26</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_26/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_26/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;मुनेर्वचनमक्लीबं श्रुत्वा नरवरात्मजः ।&#xA;राघवः प्राञ्जलिर्भूत्वा प्रत्युवाच दृढव्रतः ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard the firm and fearless words of the sage, Rama, the son of the best of men and firm in his vows, joined his palms and replied.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;पितुर्वचननिर्देशात् पितुर्वचनगौरवात् ।&#xA;वचनं कौशिकस्येति कर्तव्यमविशङ्कया ॥&lt;/p&gt;&#xA;&lt;p&gt;By the command of my father and out of reverence for my father&amp;rsquo;s word, I shall regard the command of Kaushika as something that must be carried out without hesitation.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 32</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_32/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_32/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;## Verse 1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;ब्रह्मयोनिर्महानासीद् कुशो नाम महातपाः ।&lt;/p&gt;&#xA;&lt;p&gt;अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः ॥&lt;/p&gt;&#xA;&lt;p&gt;There was a great ascetic named Kusha, born from Brahma, who knew the duties of vows and righteousness and who honoured virtuous people.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;## Verse 2&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।&lt;/p&gt;&#xA;&lt;p&gt;वैदर्भ्यां जनयामास चतुरः सदृशान् सुतान् ॥&lt;/p&gt;&#xA;&lt;p&gt;That great-souled Kusha begot four mighty and illustrious sons from a noble woman of the Vidarbha lineage.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;## Verse 3&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;कुशाम्बं कुशनाभं च आसूर्तरजसं वसुम् ।&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 33</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_33/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_33/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;## Verse 1&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;तस्य तद् वचनं श्रुत्वा कुशनाभस्य धीमतः ।&lt;/p&gt;&#xA;&lt;p&gt;शिरोभिः चरणौ स्पृष्ट्वा कन्या शतम् अभाषत ॥&lt;/p&gt;&#xA;&lt;p&gt;Having heard the words of the wise Kushanabha, the hundred maidens touched his feet with their heads and spoke to him.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;## Verse 2&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;वायुः सर्वात्मको राजन् प्रधर्षयितुम् इच्छति ।&lt;/p&gt;&#xA;&lt;p&gt;अशुभं मार्गम् आस्थाय न धर्मं प्रत्यवेक्षते ॥&lt;/p&gt;&#xA;&lt;p&gt;“O King, the all-pervading Vayu desired to dishonour us. Resorting to an improper course, he paid no regard to righteousness.”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 35</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_35/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_35/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;उपास्य रात्रि शेषं तु शोणाकूले महर्षिभिः ।&lt;/p&gt;&#xA;&lt;p&gt;निशायां सुप्रभातायां विश्वामित्रोऽभ्यभाषत ॥&lt;/p&gt;&#xA;&lt;p&gt;Having spent the remaining part of the night on the bank of the river Sona with the great sages, Vishvamitra spoke when dawn had arrived.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;सुप्रभाता निशा राम पूर्वा संध्या प्रवर्तते ।&lt;/p&gt;&#xA;&lt;p&gt;उत्तिष्ठोत्तिष्ठ भद्रं ते गमनायाभिरोचय ॥&lt;/p&gt;&#xA;&lt;p&gt;“O Rama, the night has passed and dawn has appeared. The eastern twilight has begun. Arise, arise. May you be blessed. Prepare yourself for the journey.”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 36</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_36/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_36/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ ।&lt;/p&gt;&#xA;&lt;p&gt;प्रतिनन्द्य कथां वीरावूचतुर्मुनिपुङ्गवम् ॥&lt;/p&gt;&#xA;&lt;p&gt;When the sage had finished speaking, the two heroic brothers, Rama and Lakshmana, praised the story and addressed the foremost of sages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;धर्मयुक्तमिदं ब्रह्मन् कथितं परमं त्वया ।&lt;/p&gt;&#xA;&lt;p&gt;दुहितुः शैलराजस्य ज्येष्ठाय वक्तुमर्हसि ।&lt;/p&gt;&#xA;&lt;p&gt;विस्तरं विस्तरज्ञोऽसि दिव्यमानुषसंभवम् ॥&lt;/p&gt;&#xA;&lt;p&gt;“O Brahman, you have narrated this excellent account in accordance with righteousness. You are well versed in its details; therefore, please tell us in detail about the divine and earthly origin of the elder daughter of the king of mountains.”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ramayan — Bala Kanda — Sarga 40</title>
+				<link>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_40/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/subjects/ramayan/bala-kand/bala-kanda_40/</guid>
+				<description>&lt;h2 id=&#34;verse-1&#34;&gt;Verse 1&lt;/h2&gt;&#xA;&lt;p&gt;विश्वामित्रवचः श्रुत्वा राघवः सह लक्ष्मणः ।&lt;/p&gt;&#xA;&lt;p&gt;उवाच मधुरं वाक्यं विश्वामित्रं महामुनिम् ॥&lt;/p&gt;&#xA;&lt;p&gt;Hearing the words of Vishvamitra, Rama, together with Lakshmana, spoke these sweet words to the great sage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-2&#34;&gt;Verse 2&lt;/h2&gt;&#xA;&lt;p&gt;भगवन् श्रोतुमिच्छामि गङ्गावतरणं पुनः ।&lt;/p&gt;&#xA;&lt;p&gt;भगीरथस्य च चरितं विस्तरेण महामुने ॥&lt;/p&gt;&#xA;&lt;p&gt;“O Bhagavan, O great sage, I wish to hear once again about the descent of Ganga and the story of Bhagiratha in detail.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;verse-3&#34;&gt;Verse 3&lt;/h2&gt;&#xA;&lt;p&gt;तस्य तद्वचनं श्रुत्वा विश्वामित्रो महामुनिः ।&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

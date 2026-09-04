@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dharma &amp; Spirituality on MKG Digital University of Sanatan Dharma</title>
-		<link>https://www.mkgdigitaluniversity.com/categories/dharma--spirituality/</link>
+		<link>http://localhost:1313/categories/dharma--spirituality/</link>
 		<description>Recent content in Dharma &amp; Spirituality on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,19 +10,19 @@
 		
 		
 		
-			<atom:link href="https://www.mkgdigitaluniversity.com/categories/dharma--spirituality/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/dharma--spirituality/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>8 Layers of Horoscope</title>
-				<link>https://www.mkgdigitaluniversity.com/science/astrology/8-layers-of-reading-a-horoscope/</link>
+				<link>http://localhost:1313/science/astrology/8-layers-of-reading-a-horoscope/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/science/astrology/8-layers-of-reading-a-horoscope/</guid>
+				<guid>http://localhost:1313/science/astrology/8-layers-of-reading-a-horoscope/</guid>
 				<description>&lt;h2 id=&#34;layer-1-the-ascendant-lord-and-the-natives-nature&#34;&gt;Layer 1: The Ascendant Lord and the Native&amp;rsquo;s Nature&lt;/h2&gt;&#xA;&lt;p&gt;The first step is to examine the Ascendant (Lagna) Lord, its house placement, and its Nakshatra. This provides an important foundation for understanding the native&amp;rsquo;s basic nature, temperament, personality, and behavioral tendencies.&lt;/p&gt;&#xA;&lt;p&gt;Without first understanding the person, it can be difficult to interpret planets and houses correctly. The same planet or house may produce different results depending on the native&amp;rsquo;s overall nature and circumstances.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>8 Layers of Horoscope</title>
-				<link>https://www.mkgdigitaluniversity.com/subjects/astrology/8-layers-of-reading-a-horoscope/</link>
+				<link>http://localhost:1313/subjects/astrology/8-layers-of-reading-a-horoscope/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://www.mkgdigitaluniversity.com/subjects/astrology/8-layers-of-reading-a-horoscope/</guid>
+				<guid>http://localhost:1313/subjects/astrology/8-layers-of-reading-a-horoscope/</guid>
 				<description>&lt;h2 id=&#34;layer-1-the-ascendant-lord-and-the-natives-nature&#34;&gt;Layer 1: The Ascendant Lord and the Native&amp;rsquo;s Nature&lt;/h2&gt;&#xA;&lt;p&gt;The first step is to examine the Ascendant (Lagna) Lord, its house placement, and its Nakshatra. This provides an important foundation for understanding the native&amp;rsquo;s basic nature, temperament, personality, and behavioral tendencies.&lt;/p&gt;&#xA;&lt;p&gt;Without first understanding the person, it can be difficult to interpret planets and houses correctly. The same planet or house may produce different results depending on the native&amp;rsquo;s overall nature and circumstances.&lt;/p&gt;</description>
 			</item>
 	</channel>
