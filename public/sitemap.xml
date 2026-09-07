@@ -117,8 +117,6 @@
   </url><url>
     <loc>http://localhost:1313/dharma/philosophy/18-gems-of-samudra-manthan/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
-  </url><url>
     <loc>http://localhost:1313/subjects/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/spirituality/3-satan-kali-koka-vikoka/</loc>
@@ -492,6 +490,8 @@
     <loc>http://localhost:1313/subjects/ramayan/baal-kand/bala-kanda_75/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/ramayan/baal-kand/bala-kanda_76/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/society/constitution/sanatan-dharma-constitution/</loc>
   </url><url>

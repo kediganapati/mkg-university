@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="books-container">
+    <h1>{{ .Title }}</h1>
+
+    <div class="page-content">
+        {{ .Content }}
+    </div>
+
+    <div class="book-grid">
+        {{ range .Params.papers }}
+            <div class="book-card">
+
+                {{ if .image }}
+                    <a href="{{ .link }}" target="_blank" rel="noopener">
+                        <img src="{{ .image | relURL }}" alt="{{ .title }}" class="book-cover">
+                    </a>
+                {{ end }}
+
+                <div class="book-info">
+                    <h3>
+                        <a href="{{ .link }}" target="_blank" rel="noopener">
+                            {{ .title }}
+                        </a>
+                    </h3>
+                </div>
+
+            </div>
+        {{ end }}
+    </div>
+
+</div>
+{{ end }}

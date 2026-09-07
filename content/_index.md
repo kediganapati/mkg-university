@@ -10,6 +10,8 @@ title: "MKG Digital University of Sanatan Dharma"
 
 <p style="text-align: center; font-size: 24px;"><strong>One University - One Author - One Developer</strong></p>
 
+I, Kedi Ganapati, founded MKG Digital University as a free digital university dedicated to reviving the original principles of Sanatan Dharma and human existence.
+
 🏛️ MKG Digital University of Sanatan Dharma — a self-research digital platform offering 100% free learning in Sanatan Dharma, Hindu Philosophy, Cosmology, Dharma Shastra, Psychology, Sociology, and Indian Knowledge Systems (IKS).
 
 Explore scripture-backed insights from the Gita, Ramayana, Mahabharata, Tripitaka, and Upanishads — with original interpretations by Kedi Ganapati.
