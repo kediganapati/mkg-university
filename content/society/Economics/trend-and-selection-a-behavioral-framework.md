@@ -1,5 +1,5 @@
 ---
-title: "Trend & Selection Fameworks"
+title: "Trend & Selection Framework"
 categories: ["Economics"]
 image: "images/Trend-and-Section-Economic-behaviour.webp"
 author: "Kedi Ganapati"

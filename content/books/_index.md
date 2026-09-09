@@ -14,12 +14,20 @@ kedi_books:
     cover: "images/36PrinciplesofSanatanDharma.webp"
     link: "https://store.pothi.com/book/ebook-kedi-ganapati-36-principles-sanatan-dharma/"
 
+  - title: "Trend & Selection Free eBook"
+    cover: "images/trend-&-selection-image.jpeg"
+    link: "https://doi.org/10.5281/zenodo.22668036"
+
 
 other_books:
   - title: "Bhagvad Gita"
     cover: "images/gita-ebook-image.jpeg"
     link: "https://www.mkgdigitaluniversity.com/books/Bhagvad-Gita-eBook.pdf"
 
+  - title: "Mandukya Upanishad"
+    cover: "images/mandukya-upanishad-ebook-image.jpeg"
+    link: "https://www.mkgdigitaluniversity.com/books/Mandukya Upanishad"
+
 ---
 
-A collection of books and PDFs related to Sanatan Dharma, philosophy, spirituality, science, society, and human knowledge.
+Explore a growing digital collection of books, scriptures, and original works connected with Sanatan Dharma, philosophy, science, society, and human knowledge.

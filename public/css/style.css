@@ -547,21 +547,25 @@ article {
    BOOKS
    ========================================================= */
 
+ .site-main:has(.books-container) {
+  padding-top: 0 !important;
+}
 .books-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: 0 1rem;
 }
 
 .books-section-title {
   text-align: center;
-  margin: 40px 0 25px;
+  margin: 0 0 25px;
 }
 .book-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 1.2rem;
   margin-top: 2rem;
+  margin-bottom: 40px;
 }
 
 .book-card {

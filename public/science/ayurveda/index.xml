@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ayurveda on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:53048/science/ayurveda/</link>
+		<link>http://localhost:1313/science/ayurveda/</link>
 		<description>Recent content in Ayurveda on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="http://localhost:53048/science/ayurveda/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/science/ayurveda/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
