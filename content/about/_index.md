@@ -1,5 +1,5 @@
 ---
-title: "About MKG Digital University"
+title: "About"
 draft: false
 type: "page"
 layout: "page"
@@ -9,65 +9,67 @@ url: "/about/"
 image: "images/hero.jpg"
 ---
 
-<br>
-<br>
+<center>
 
-**MKG stands for Mission Kedi Ganapati — not an organization, but a sacred awakening dedicated to the revival of Sanatan Dharma.**
+## MKG Digital University of Sanatan Dharma
 
-A journey dedicated to rediscovering eternal wisdom, awakening consciousness, and reconnecting humanity with its spiritual roots.
+</center>
+
+MKG stands for Mission Kedi Ganapati — a sacred awakening dedicated to the revival of Sanatan Dharma across the world.
+
 
 ---
 
 
-## The Story of MKG
+## The Story of MKG Digital University
 
 MKG Digital University was born from the unusual and deeply personal journey of Kedi Ganapati — a journey of job-hopping, bike riding, spiritual seeking, wandering, relationships, struggle, failure, blunders, self-discovery, and inner awakening.
 
-I was Kiran Khot until 2016. At that time, I was already researching Dharma and economics and wanted to write new scriptures covering different subjects of Sanatan Dharma. To research human sexuality, I became a freelance massage therapist and started my own erotic massage business, Lickspa.
+I was Kiran Khot until 2016. At that time, I was already researching Dharma and economics and wanted to write new scriptures covering different subjects of Sanatan Dharma, but I did not have the required knowledge. I was not a sadhu. To research human sexuality, I became a freelance massage therapist and started my own erotic massage business, Lickspa.
 
-I wanted to create a website for Lickspa but could not find a web designer willing to build it, so I started learning website designing myself. Then I thought: if I can create a website for my business, I can create an educational website too.
+I wanted to create a website for Lickspa but could not find a web designer willing to build it, so I started learning website designing myself. Then I thought: if I could create a website for my own business, I could create an educational website too. That thought eventually led to an idea — a website dedicated to Sanatan Dharma, where people from around the world could come to one platform to learn about its vast body of knowledge.
 
-That thought eventually led to an idea: I wanted to establish a website dedicated to Sanatan Dharma, where people from around the world could come to one platform to learn about its vast body of knowledge.
+That idea also introduced me to my own identity and life goal. I realised that my name should not be Kiran; I should be Kedi. In 2017, I officially changed my name from Kiran to Kedi through the Gazette and took the first step toward MKG.
 
-That idea introduced me to my own identity and life goal. I realized that my name should not be Kiran; I should be Kedi. In 2017, I officially changed my name from Kiran to Kedi through the Gazette, and took the first step toward MKG.
+From 2016 to 2026, I started deeply learning about Sanatan Dharma, and the learning process is still continuing. I became a Vaishnav sanyasi, explored Tantra and the Aghori path, studied Jyotish, and became a devotee of Parmeshwar Ganapati. 
 
-From 2016 to 2026, I started deeply learning about Sanatan Dharma, and the learning process is still continuing. On MKG Digital University, you will find both existing scriptures of Sanatan Dharma and new scriptures of Sanatan Dharma, presented from the original perspective of Kedi Ganapati.
+I travelled across India on my bike to research Sanatan Dharma because I could afford mainly the petrol cost. I did not have money to buy scriptures, so I searched for free PDFs online and studied them. During my travels, I slept at petrol pumps and often ate one cheap roadside meal a day. I was not getting any single penny from home, and I had to do many freelance jobs to earn money for research and home expenses.
 
-As the mission grew, my own identity gradually became secondary; the mission of creating a university for Sanatan Dharma became the priority — and **Mission Kedi Ganapati** was born.
+I wanted to understand Sanatan Dharma through study, research, and practical experience before writing about it. I had no team and no sponsor. I continued learning, travelling, researching, experiencing, and writing until I felt I was ready to write about Sanatan Dharma.
 
-MKG Digital University is a commitment to revive the eternal light of Sanatan Dharma in its purest and most original form. It is a journey of spiritual renaissance — an effort to restore forgotten wisdom, awaken dormant consciousness, and reconnect humanity with its eternal roots.
+As the mission grew, my own identity gradually became secondary; the mission of creating a university for Sanatan Dharma became the priority — and Mission Kedi Ganapati was born.
 
+In April 2020, I started writing my book. It took five years to complete, and in 2025 the book was published by Motilal Banarsidass. The completion and publication of the book became an important step toward creating MKG Digital University.
 
----
+In 2025, I created a testing website for the Digital University and named it KediGanapati.com. The first policy of the university was that all content would be written only by me, Kedi Ganapati, after studying and researching the subject myself and gaining practical experience wherever possible.
 
-## The Mission
+I designed and developed the WordPress website myself, but WordPress hosting required renewal every year. In 2025, I lost all my money and had to close my ICICI bank account due to insufficient funds, so I could not afford paid hosting. In 2026, I learned how to build a website using GitHub. I purchased the official domain mkgdigitaluniversity.com, built the university website using Hugo, and pushed it to GitHub Pages.
 
-MKG Digital University does not seek recognition merely as an NGO, institution, or formal organization.
+Before making MKG Digital University live, I took the old content from my books and blog and rewrote it in research-paper style. I published 24 preprint research papers on Zenodo. Today, MKG Digital University has 24 research papers, 6 faculties, 24 subjects, and more than 100 articles.
 
-It is envisioned as a spiritual awakening for the age of Kaliyuga.
+The 24 subjects have been divided into 64 categories, and more than 1,000 articles are still to be written. The existing work is only the beginning of the larger content planned for MKG Digital University.
 
-The mission seeks to encourage:
+MKG Digital University presents existing scriptures of Sanatan Dharma as well as new scriptures of Sanatan Dharma, from the original perspective of Kedi Ganapati. It is a commitment to revive the eternal light of Sanatan Dharma in its purest and most original form — a journey of spiritual renaissance, an effort to restore forgotten wisdom, awaken dormant consciousness, and reconnect humanity with its eternal roots.
 
-- Truth over confusion
-- Discipline over disorder
-- Wisdom over blind belief
-- Self-realization over imitation
-- Consciousness over ignorance
-- Harmony between the individual, society, nature, and the cosmos
-
-MKG stands as an independent platform for questioning, learning, researching, reflecting, and rediscovering the deeper dimensions of Sanatan Dharma.
+From 2016 to 2026, what started as an idea for a Sanatan Dharma website became MKG Digital University of Sanatan Dharma. I became knowledgeable in Sanatan Dharma, spirituality, sociology, sexology, astrology, and psychology, but I am still a student of mathematics, architecture, physics, astronomy, and Ayurveda. The learning process is still continuing, and the work of building the university is still continuing.
 
 ---
 
 ## The Vision
 
-MKG Digital University has one central vision:
+Re-establish Sanatan Dharma across the world and help humanity rediscover its eternal, universal knowledge and the true existence of human beings.
 
-> **To contribute to the re-establishment of Sanatan Dharma across the world and help humanity rediscover its eternal and universal knowledge.**
+---
 
-The ultimate purpose of spiritual knowledge is not merely religious identity. It is to help individuals understand existence, consciousness, karma, life, death, and liberation.
+## The Mission
 
-MKG Digital University is therefore not intended to function as an ordinary religious blog. It is an evolving digital learning platform dedicated to independent research, spiritual inquiry, and the revival of the original principles of Sanatan Dharma.
+MKG Digital University has three central missions:
+
+1. Revives the original principles of Sanatan Dharma
+
+2. Unifies all Sanatan knowledge — scriptures, philosophy, science, and society — onto one free platform
+
+3. Makes this knowledge accessible to every seeker, in every language, across the world
 
 ---
 
@@ -86,7 +88,7 @@ MKG Digital University exists for several simple reasons:
 
 ## What You Will Find
 
-## ✦ You Will Find
+## You Will Find
 
 - Sanatan Dharma and the ideology of God
 - Philosophy, spirituality, and psychology
@@ -100,7 +102,7 @@ MKG Digital University exists for several simple reasons:
 - Articles, PDFs, research papers, and infographics
 - An evolving collection of independent research and spiritual exploration
 
-## ✗ You Will Not Find
+## You Will Not Find
 
 - Copied or repurposed content presented as original work
 - Plagiarism
@@ -131,7 +133,7 @@ The platform aims to examine difficult subjects with honesty, independent thinki
 
 ---
 
-## 🏛️ Official Government Registration
+## Official Government Registration
 
  MKG Digital University of Sanatan Dharma
 
@@ -165,99 +167,28 @@ The present focus is on developing and publishing learning material, research, a
 Any future academic recognition, examination system, or certification process will be pursued only in accordance with applicable laws, regulations, and approval requirements.
 
 ---
-
 ## MKG University Policies
 
-**Research & Editorial Policy**
+**Research & Editorial:**
+All content is written solely by founder Kedi Ganapati — his independent research and evolving understanding. Proofreading may involve AI or professional proofreaders, but the research, writing, and interpretation remain entirely his own.
 
-You may find quotations from scriptures and other historical texts on this platform.
+**Originality & Attribution:**
+Scriptural quotations appear alongside original work. Sources are credited wherever identified. MKG does not tolerate plagiarism or misrepresentation of others' work as one's own.
 
-However, the explanations, interpretations, frameworks, theories, and original ideas published under the name of MKG University are based primarily on the independent research, personal experience, intellectual inquiry, and evolving understanding of Kedi Ganapati.
+**Knowledge Evolution:**
+Nothing here is final. As research and clarity grow, earlier content may be revised or re-expressed. A revised quotation usually means better words — not a different truth.
 
-The purpose is not to claim that knowledge has stopped evolving.
-
-The purpose is to contribute a new perspective to an ongoing human conversation that has continued for thousands of years.
-
----
-
-**Originality & Attribution Policy**
-
-When quotations are taken from scriptures, authors, books, research papers, or other publications, MKG aims to provide appropriate attribution wherever the source is identified and available.
-
-Original quotations, interpretations, and ideas created by Kedi Ganapati are published as original work.
-
-MKG Digital University does not support plagiarism or the misrepresentation of another person's work as original research.
+**Multi Language:**
+No language is superior — truth speaks in many tongues. Kedi Ganapati's own journey began in Marathi. Your language isn't a barrier. It's your bridge to wisdom. That's why MKG creates content in every language possible.
 
 ---
 
-**Knowledge Evolution Policy**
-
-Please do not consider every idea published on MKG University as final or permanent.
-
-Knowledge evolves.
-
-Research evolves.
-
-Language evolves.
-
-Understanding evolves.
-
-As the founder gains more experience, research, vocabulary, and clarity, earlier content may be revised, expanded, corrected, or expressed in better language.
-
-> If you read a quotation today and later find it revised, it may mean that MKG has found better words — not necessarily different thoughts.
-
----
-
-**Language Policy**
-
-You may find Sanskrit and Pali shlokas on this platform.
-
-Their presence does not mean that MKG Digital University considers Sanskrit or Pali to be the exclusive languages of Sanatan Dharma.
-
-These languages hold enormous historical, philosophical, and cultural importance. However, spiritual understanding is not limited to one language.
-
-Sanatan Dharma has been understood, expressed, and transmitted through countless languages, communities, regions, and traditions.
-
-MKG Digital University therefore welcomes learning through:
-
-- Marathi
-- Hindi
-- Sanskrit
-- Pali
-- English
-- Regional Indian languages
-- And every other language through which people seek truth and wisdom
-
->MKG does not promote one language as superior. MKG promotes the search for Sanatan Dharma.
-
----
-
-## Beyond Language Barriers
-
-The central idea of MKG is simple:
-
-> Understand spiritual knowledge in the language through which your mind and heart can understand it best.
-
-The platform recognizes that divine figures, saints, philosophers, teachers, and spiritual seekers have communicated through the languages of their own regions and communities.
-
-Therefore, you do not need to abandon your mother tongue to begin understanding Sanatan Dharma.
-
-MKG itself exists because its founder, Kedi Ganapati, began studying and understanding Sanatan Dharma through his mother tongue, Marathi.
-
-Your language is not a barrier.
-
-Your language can become your bridge to wisdom.
-
----
-
-## A Note on Ego and Swag 😎
+## Ego and Swag 
 
 > While writing MKG content, the founder's ego got eliminated and the swag increased. After reading MKG content, your ego may also reduce and your swag may increase.— Kedi Ganapati
 >
 
-
 > **Ego:** "I did it, so give me respect."
-
 
 > **Swag:** "I did it. Now do it better if you can."
 
@@ -267,9 +198,9 @@ The purpose is confidence, courage, originality, and the willingness to challeng
 
 ---
 
-## Join MKG
+## Join 
 
-## Digital University of Sanatan Dharma
+## MKG Digital University of Sanatan Dharma
 
 Every individual has a unique path.
 
@@ -300,19 +231,15 @@ Different paths.
 
 ---
 
-## Author's Note
+## A Note from the Founder
 
-This project began as an independent personal mission and has continued through the time, energy, earnings, and dedication of its founder.
+This project began as an independent personal mission — carried forward by the time, energy, earnings, and dedication of its founder alone.
 
-MKG Digital University offers free digital learning to everyone, but the knowledge presented here represents years of reading, observation, research, personal experience, experimentation, failure, and continuous learning.
+MKG Digital University offers free digital learning to everyone. But what you read here isn't just content — it's the result of years of reading, observation, research, personal experience, experimentation, and failure.
 
-The journey behind this work spans approximately 18–20 years of personal learning and research.
+The learning behind this work spans nearly 18–20 years. Since the mission formally began in 2016, a significant share of the founder's personal earnings has gone into research, writing, publishing, and building this platform.
 
-Since the beginning of this mission in 2016, a significant portion of the founder's personal earnings has been invested in research, writing, publishing, technology, and the development of this platform.
-
-As of June 2026, MKG Digital University has continued without financial support from family, society, or external institutions.
-
-The mission is supported through the personal work and freelance efforts of its founder, Kedi Ganapati.
+As of June 2026, MKG Digital University has run without funding from family, society, or any external institution — sustained entirely through the personal work and freelance efforts of its founder, Kedi Ganapati.
 
 > Every article you read represents time, energy, experience, and another step toward keeping this mission alive.
 

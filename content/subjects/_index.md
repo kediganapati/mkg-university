@@ -11,7 +11,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <div class="card-grid grid-3">
 
 <a class="subject-card" href="/subjects/gita/">
-<span class="subject-icon">☸️</span>
+<span class="subject-icon">🕉️</span>
 <h3>Gita</h3>
 <p>Study of the Bhagavad Gita, its teachings, philosophy, and practical wisdom.</p>
 </a>
@@ -167,7 +167,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 **Note**: 
 I, Kedi Ganapati, am on a mission to learn subjects related to Sanatan Dharma and human existence and establish an open Digital University of Sanatan Dharma.
 
-I was not born with wisdom, nor am I an expert in all 24 subjects. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning it.
+I was not born with wisdom, nor am I an expert in all 24 subjects. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning and writing about it.
 
 If you are an expert in a relevant subject, you are welcome to teach me. I may not have even opened the first page yet. 
 

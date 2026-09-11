@@ -4,7 +4,7 @@ draft: false
 ---
 
 <div style="text-align: center;">
-MKG Faculty is divided into three sections: Dharma, Science, and Society.
+The faculty of MKG Digital University is divided into six sections.
 </div>
 
 <section class="subjects-grid">
@@ -25,6 +25,24 @@ MKG Faculty is divided into three sections: Dharma, Science, and Society.
 <span class="subject-icon">👥</span>
 <h3>Society</h3>
 <p>Explore human behaviour, society, law, economics, governance, and human</p>
+</a>
+
+<a class="subject-card" href="/subjects/">
+<span class="subject-icon">📖</span>
+<h3>Subjects</h3>
+<p>Free, structured learning material.</p>
+</a>
+
+<a class="subject-card" href="/research/">
+<span class="subject-icon">🔬</span>
+<h3>Research</h3>
+<p>Original research papers by Kedi Ganapati.</p>
+</a>
+
+<a class="subject-card" href="/books/">
+<span class="subject-icon">📚</span>
+<h3>Books</h3>
+<p>Books written by Kedi Ganapati.</p>
 </a>
 </div>
 </section>
