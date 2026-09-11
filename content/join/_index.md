@@ -34,7 +34,7 @@ We may all move toward the same ultimate reality, but our journeys are different
 
 Different struggles. Different experiences. Different teachers. Different languages. Different paths.
 
-## Join MKG for Two Reasons — as a Dharma Seeker or a Dharma Warrior
+## Join MKG — Seeker or Warrior
 
 **Dharma Seeker:** Get the overall knowledge of Sanatan Dharma, completely free, on one single platform.
 
@@ -85,3 +85,13 @@ In fact, MKG Digital University actively encourages you to use its content in yo
 Whether you come as a Seeker searching for clarity, or a Warrior ready to carry this knowledge forward — there is a place for you here.
 
 Explore any of the 6 faculties and 24 subjects to begin your journey as a Seeker. Found a subject close to your heart? Share it, translate it, or spread it in your own community — and you're already a Warrior.
+
+---
+
+## Join MKG: Seeker, Distributor, Committee Member or Critic
+
+You can join MKG Digital University as a seeker to learn, as a distributor to spread MKG wisdom across the world, as a committee member to help build and operate MKG, or as a critic to identify mistakes and suggest corrections.
+
+**You do not have to agree with everything. You can also help MKG improve by questioning it.**
+
+---
