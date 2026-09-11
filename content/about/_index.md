@@ -114,25 +114,6 @@ MKG Digital University exists for several simple reasons:
 
 ---
 
-## What MKG University Does Differently
-
-1. MKG does not teach you only how to earn money.
-It also asks a more important question: How should money and wisdom be used to live a meaningful and happy life?
-
-2. MKG does not sell certificates as the ultimate achievement.
-Its larger purpose is to encourage the development of personality, character, wisdom, and independent thinking.
-
-3. MKG does not force you to repeat other people's thoughts.
-It encourages you to develop the ability to understand, question, and express your own thoughts.
-
-4. MKG does not believe learning should end after a course.
-Learning continues throughout life. Knowledge should continue evolving until the last breath.
-
-5. MKG does not avoid difficult questions simply to protect its image.
-The platform aims to examine difficult subjects with honesty, independent thinking, and intellectual courage.
-
----
-
 ## Official Government Registration
 
  MKG Digital University of Sanatan Dharma
@@ -166,7 +147,9 @@ The present focus is on developing and publishing learning material, research, a
 
 Any future academic recognition, examination system, or certification process will be pursued only in accordance with applicable laws, regulations, and approval requirements.
 
+
 ---
+
 ## MKG University Policies
 
 **Research & Editorial:**
@@ -185,8 +168,7 @@ No language is superior — truth speaks in many tongues. Kedi Ganapati's own jo
 
 ## Ego and Swag 
 
-> While writing MKG content, the founder's ego got eliminated and the swag increased. After reading MKG content, your ego may also reduce and your swag may increase.— Kedi Ganapati
->
+> While writing MKG content, reduced ego and built swag. After reading MKG content, your ego may also reduce and your swag may increase.
 
 > **Ego:** "I did it, so give me respect."
 
@@ -195,39 +177,6 @@ No language is superior — truth speaks in many tongues. Kedi Ganapati's own jo
 The purpose is not arrogance.
 
 The purpose is confidence, courage, originality, and the willingness to challenge yourself.
-
----
-
-## Join 
-
-## MKG Digital University of Sanatan Dharma
-
-Every individual has a unique path.
-
-Do not walk blindly in someone else's footsteps.
-
-The purpose of MKG Digital University is to provide knowledge that may help you:
-
-- Discover your own direction
-- Develop your own perspective
-- Strengthen your independent thinking
-- Understand your existence more deeply
-- Question without fear
-- Search for truth beyond imitation
-
-We may all move toward the same ultimate reality, but our journeys are different.
-
-Different struggles.
-
-Different experiences.
-
-Different teachers.
-
-Different languages.
-
-Different paths.
-
-> Join MKG Digital University to explore your own path with greater clarity and live more consciously in your true existence.
 
 ---
 
@@ -262,6 +211,5 @@ The mission is not finished.
 It has only begun.
 
 Welcome to MKG Digital University of Sanatan Dharma.
- 
 
  ## Learn. Question. Research. Discover. Awaken.
