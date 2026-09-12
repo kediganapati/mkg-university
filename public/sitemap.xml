@@ -105,8 +105,6 @@
     <loc>http://localhost:1313/science/astronomy/diwali-the-origin-of-big-bang-kedi-ganapati/</loc>
     <lastmod>2026-08-29T13:32:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kedi/</loc>
-  </url><url>
     <loc>http://localhost:1313/society/psychology/108-elements-of-human-mind/</loc>
   </url><url>
     <loc>http://localhost:1313/science/astronomy/12-celestial-bodies-in-hiranyagarbha/</loc>
@@ -137,9 +135,13 @@
   </url><url>
     <loc>http://localhost:1313/subjects/astronomy/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/avadhuta-gita/</loc>
+  </url><url>
     <loc>http://localhost:1313/dharma/avadhuta-gita/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/avadhuta-gita/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/avadhuta-gita/avadhuta_gita_chapter_1/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/ramayan/ayodhya-kand/</loc>
   </url><url>
@@ -216,6 +218,8 @@
     <loc>http://localhost:1313/society/judiciary/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/judiciary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kedi/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/kedi-purana/</loc>
   </url><url>
