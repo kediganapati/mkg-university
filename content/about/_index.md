@@ -213,3 +213,5 @@ It has only begun.
 Welcome to MKG Digital University of Sanatan Dharma.
 
  ## Learn. Question. Research. Discover. Awaken.
+
+ ---
