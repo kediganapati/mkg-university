@@ -20,7 +20,7 @@ kedi_books:
     link: "https://doi.org/10.5281/zenodo.22668036"
 
   - title: "Kama Shastra Free eBook"
-    cover: "images/varna-system-framework.jpeg"
+    cover: "images/kama-shastra-ebook.jpeg"
     link: "https://doi.org/10.5281/zenodo.22734867"
 
 
