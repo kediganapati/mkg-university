@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 17: Shraddhatraya Vibhaga Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-17.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 17
 author: "Kedi Ganapati"
 ---
