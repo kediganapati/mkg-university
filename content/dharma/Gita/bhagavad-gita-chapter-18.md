@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 18: Moksha Sannyasa Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-18.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 18
 author: "Kedi Ganapati"
 ---

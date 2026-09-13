@@ -465,6 +465,6 @@ svaruparupam paramarthatattvam ॥ 45 ॥
 muncha muncha hi samsaram tyagam muncha hi sarvatha ।
 tyagatyagavisham shuddham amritam sahajam dhruvam ॥ 46 ॥
 
-## इति तृतीयोऽध्यायः ॥ ३॥
+इति तृतीयोऽध्यायः ॥ ३॥
 
-Source verified against SanskritDocuments' Devanagari text. Chapter 3 runs from verse **1 through 46**.
+

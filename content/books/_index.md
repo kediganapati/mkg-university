@@ -1,6 +1,7 @@
 ---
 title: "MKG Bookshelf"
 
+
 kedi_books:
   - title: "CODE - Core of Dharma Eternal"
     cover: "images/code-book-cover.jpeg"
@@ -20,9 +21,13 @@ kedi_books:
 
 
 other_books:
-  - title: "Bhagvad Gita"
+  - title: "Bhagvad Gita Free eBook"
     cover: "images/gita-ebook-image.jpeg"
     link: "https://www.mkgdigitaluniversity.com/books/Bhagvad-Gita-eBook.pdf"
+
+  - title: "Avadhuta Gita Free eBook"
+    cover: "images/avadhuta-gita-ebook-image.jpeg"
+    link: "https://www.mkgdigitaluniversity.com/books/Avadhuta-Gita-eBook.pdf"
 
   - title: "Mandukya Upanishad"
     cover: "images/mandukya-upanishad-ebook-image.jpeg"
@@ -31,3 +36,5 @@ other_books:
 ---
 
 Explore a growing digital collection of books, scriptures, and original works connected with Sanatan Dharma, philosophy, science, society, and human knowledge.
+
+---
