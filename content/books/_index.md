@@ -22,7 +22,7 @@ kedi_books:
 
 other_books:
   - title: "Bhagvad Gita Free eBook"
-    cover: "images/gita-ebook-image.jpeg"
+    cover: "images/bhagavad-gita-ebook-image.jpeg"
     link: "https://www.mkgdigitaluniversity.com/books/Bhagvad-Gita-eBook.pdf"
 
   - title: "Avadhuta Gita Free eBook"
