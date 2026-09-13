@@ -2,7 +2,8 @@
 title: "Avadhuta Gita — Chapter 2"
 draft: false
 categories: ["Avadhuta Gita"]
-image: "/images/Avadhuta-gita-chapter-2.webp"
+image: "/images/avadhuta-gita.webp"
+toc: false
 author: "Kedi Ganapati"
 ---
 
