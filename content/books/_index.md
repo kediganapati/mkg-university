@@ -26,8 +26,12 @@ other_books:
     link: "https://www.mkgdigitaluniversity.com/books/Bhagvad-Gita-eBook.pdf"
 
   - title: "Avadhuta Gita Free eBook"
-    cover: "images/avadhuta-gita-ebook-image.jpeg"
+    cover: "images/avadhuta-gita-ebook.jpeg"
     link: "https://www.mkgdigitaluniversity.com/books/Avadhuta-Gita-eBook.pdf"
+
+  - title: "Vijnanabhairava Tantra eBook"
+    cover: "images/Vijnanabhairava-Tantra-eBook.jpeg"
+    link: "https://www.mkgdigitaluniversity.com/books/Vigyana-Bhairava-Tantra-eBook.pdf"
 
   - title: "Mandukya Upanishad"
     cover: "images/mandukya-upanishad-ebook-image.jpeg"
