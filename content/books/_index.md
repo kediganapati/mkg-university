@@ -7,17 +7,21 @@ kedi_books:
     cover: "images/code-book-cover.jpeg"
     link: "https://gangaramsbookbureau.com/product/code-core-of-dharma-eternal/"
 
-  - title: "Varna System Free eBook"
-    cover: "images/varna-system-framework.jpeg"
-    link: "https://doi.org/10.5281/zenodo.22660160"
-
   - title: "36 Principles of Sanatan Dharma"
     cover: "images/36PrinciplesofSanatanDharma.webp"
     link: "https://store.pothi.com/book/ebook-kedi-ganapati-36-principles-sanatan-dharma/"
 
+  - title: "Varna System Free eBook"
+    cover: "images/varna-system-framework.jpeg"
+    link: "https://doi.org/10.5281/zenodo.22660160"
+
   - title: "Trend & Selection Free eBook"
     cover: "images/trend-&-selection-image.jpeg"
     link: "https://doi.org/10.5281/zenodo.22668036"
+
+  - title: "Kama Shastra Free eBook"
+    cover: "images/varna-system-framework.jpeg"
+    link: "https://doi.org/10.5281/zenodo.22734867"
 
 
 other_books:
