@@ -1,5 +1,5 @@
 ---
-title: "24 Subjects"
+title: "Subjects"
 draft: false
 ---
 
@@ -228,10 +228,6 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 
 </div>
 </section>
-
----
-
-<h2 style="text-align: center;">MKG Digital University focuses on helping seekers become masters.</h2>
 
 ---
 
