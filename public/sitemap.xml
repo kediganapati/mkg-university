@@ -123,6 +123,10 @@
   </url><url>
     <loc>http://localhost:1313/subjects/astrology/8-layers-of-reading-a-horoscope/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/tripitaka/abhidhamma-pitaka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/tripitaka/abhidhamma-pitaka/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/astrology/</loc>
@@ -175,11 +179,23 @@
   </url><url>
     <loc>http://localhost:1313/categories/bhagvad-gita/</loc>
   </url><url>
+    <loc>http://localhost:1313/science/biology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/biology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/brahma-sutras/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/brahma-sutras/</loc>
+  </url><url>
     <loc>http://localhost:1313/dharma/veda/brahma-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/veda/brahma-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/science/chemistry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/chemistry/</loc>
   </url><url>
     <loc>http://localhost:1313/society/constitution/</loc>
   </url><url>
@@ -199,6 +215,10 @@
   </url><url>
     <loc>http://localhost:1313/faculty/</loc>
   </url><url>
+    <loc>http://localhost:1313/society/festivals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/festivals/</loc>
+  </url><url>
     <loc>http://localhost:1313/society/constitution/foreign-constitution/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/constitution/foreign-constitution/</loc>
@@ -211,7 +231,23 @@
   </url><url>
     <loc>http://localhost:1313/subjects/veda/gauri-vandana/</loc>
   </url><url>
+    <loc>http://localhost:1313/science/geography/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/geography/</loc>
+  </url><url>
     <loc>http://localhost:1313/dharma/purana/kedi-purana/glutton-kiran-to-sage-kedi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/gods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/gods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/society/history/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/history/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/immortals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/immortals/</loc>
   </url><url>
     <loc>http://localhost:1313/society/constitution/indian-caste-based-constitution/</loc>
   </url><url>
@@ -259,6 +295,10 @@
   </url><url>
     <loc>http://localhost:1313/subjects/upanishad/mandukya-upanishad/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/manusmriti/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/manusmriti/</loc>
+  </url><url>
     <loc>http://localhost:1313/science/mathematics/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/mathematics/</loc>
@@ -270,6 +310,10 @@
     <loc>http://localhost:1313/dharma/parashurama-kalpasutra/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/parashurama-kalpasutra/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/patanjali-yoga-sutras/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/patanjali-yoga-sutras/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/philosophy/</loc>
   </url><url>
@@ -467,6 +511,10 @@
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
+    <loc>http://localhost:1313/society/rituals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/rituals/</loc>
+  </url><url>
     <loc>http://localhost:1313/society/constitution/sanatan-dharma-constitution/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/constitution/sanatan-dharma-constitution/</loc>
@@ -487,6 +535,10 @@
   </url><url>
     <loc>http://localhost:1313/subjects/sociology/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/spirits/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/spirits/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/spirituality/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/spirituality/</loc>
@@ -496,6 +548,10 @@
     <loc>http://localhost:1313/dharma/ramayan/sundara-kand/</loc>
   </url><url>
     <loc>http://localhost:1313/support/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/tripitaka/sutta-pitaka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/tripitaka/sutta-pitaka/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
@@ -540,6 +596,10 @@
     <loc>http://localhost:1313/dharma/vigyan-bhairav-tantra/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/vigyan-bhairav-tantra/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/tripitaka/vinaya-pitaka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/tripitaka/vinaya-pitaka/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/veda/vishnu-vandana/</loc>
   </url><url>

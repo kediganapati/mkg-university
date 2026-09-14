@@ -12,19 +12,19 @@ The faculty of MKG Digital University is divided into six sections.
 <a class="subject-card" href="/dharma/">
 <span class="subject-icon">🕉️</span>
 <h3>Dharma</h3>
-<p>Explore scriptures, and the timeless knowledge of Dharma.</p>
+<p>Explore 18 subjects related to Dharma.</p>
 </a>
 
 <a class="subject-card" href="/science/">
 <span class="subject-icon">🔬</span>
 <h3>Science</h3>
-<p>Explore the universe, matter, life, mathematics, and the laws of reality.</p>
+<p>Explore 9 subjects related to Science.</p>
 </a>
 
 <a class="subject-card" href="/society/">
 <span class="subject-icon">👥</span>
 <h3>Society</h3>
-<p>Explore human behaviour, society, law, economics, governance, and human</p>
+<p>Explore 9 subjects related to Society.</p>
 </a>
 
 <a class="subject-card" href="/subjects/">

@@ -1,5 +1,6 @@
 ---
 title: "Kedi Purana"
+image: "images/kedi-purana.webp"
 ---
 
 

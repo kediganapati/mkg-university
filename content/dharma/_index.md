@@ -4,11 +4,29 @@ draft: false
 ---
 
 <div style="text-align: center;">
-Explore the six disciplines of Dharma.
+Explore the 18 disciplines of Dharma.
 </div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
+
+<a class="subject-card" href="/dharma/gods/">
+<span class="subject-icon">🕉️</span>
+<h3>Gods</h3>
+<p>The 33 Koti Devi-Devta — all 33 types of Gods.</p>
+</a>
+
+<a class="subject-card" href="/dharma/spirits/">
+<span class="subject-icon">👻</span>
+<h3>Spirits</h3>
+<p>All 108 Ganas (Spirits) who descend into the human body to perform divine and demonic activities.</p>
+</a>
+
+<a class="subject-card" href="/dharma/immortals/">
+<span class="subject-icon">♾️</span>
+<h3>Immortals</h3>
+<p>All 8 immortal Chiranjeevis and 8 Rishis.</p>
+</a>
 
 <a class="subject-card" href="/dharma/avadhuta-gita/">
 <span class="subject-icon">🕉️</span>
@@ -79,7 +97,25 @@ Explore the six disciplines of Dharma.
 <a class="subject-card" href="/dharma/vigyan-bhairav-tantra/">
 <span class="subject-icon">🔱</span>
 <h3>Vigyan Bhairav Tantra</h3>
-<p>Study of the Vigyan Bhairav Tantra, Bhagwan Shiva's teachings on meditation and consciousness.</p>
+<p>Study of the Vigyan Bhairav Tantra</p>
+</a>
+
+<a class="subject-card" href="/dharma/brahma-sutras/">
+<span class="subject-icon">📖</span>
+<h3>Brahma Sutras</h3>
+<p>Foundations of Vedanta and the knowledge of Brahman.</p>
+</a>
+
+<a class="subject-card" href="/dharma/manusmriti/">
+<span class="subject-icon">📜</span>
+<h3>Manusmriti</h3>
+<p>Dharma, conduct, duties, and social order.</p>
+</a>
+
+<a class="subject-card" href="/dharma/patanjali-yoga-sutras/">
+<span class="subject-icon">🧘</span>
+<h3>Patanjali Yoga Sutras</h3>
+<p>Yoga, mind, meditation, discipline, and liberation.</p>
 </a>
 
 </div>

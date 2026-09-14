@@ -1,5 +1,6 @@
 ---
 title: "Upanishad"
+image: "/images/isha_upanishad.webp"
 ---
 
 

@@ -4,11 +4,29 @@ draft: false
 ---
 
 <div style="text-align: center;">
-Explore the six disciplines of Society.
+Explore the 9 disciplines of Society.
 </div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
+
+<a class="subject-card" href="/society/rituals/">
+<span class="subject-icon">🔥</span>
+<h3>Rituals</h3>
+<p>Study of rituals, ceremonies, customs, and traditions across human societies.</p>
+</a>
+
+<a class="subject-card" href="/society/festivals/">
+<span class="subject-icon">🎉</span>
+<h3>Festivals</h3>
+<p>Study of festivals, celebrations, traditions, and their social and cultural significance.</p>
+</a>
+
+<a class="subject-card" href="/society/history/">
+<span class="subject-icon">⚔️</span>
+<h3>History</h3>
+<p>Study of past events, societies, civilizations, cultures, and traditions.</p>
+</a>
 
 <a class="subject-card" href="/society/constitution/">
 <span class="subject-icon">📜</span>

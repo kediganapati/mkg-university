@@ -106,6 +106,4 @@ papers:
 
 I, Kedi Ganapati, wrote all the research papers presented below independently, based on my own study, observations, reasoning, interpretations, and personal experience, without co-authorship or direct research contributions from other authors or researchers.
 
-My English is not very good, and I do not like scientific language. To maintain the research paper format, I sometimes replace simple English words with scientific terms—even words I cannot pronounce properly.
-
-If you find any difficult words in my papers, please accept my apology for the inconvenience.
+My English is not very good, and I do not like scientific language. To maintain the research paper format, I sometimes replace simple English words with scientific terms—even words I cannot pronounce properly. If you find any difficult words in my papers, please accept my apology for the inconvenience.

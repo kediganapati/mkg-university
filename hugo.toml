@@ -35,19 +35,19 @@ enableEmoji = true
   [[params.subjects]]
     icon = "🕉️"
     title = "Dharma"
-    description = "Explore scriptures, and the timeless knowledge of Dharma."
+    description = "Explore 18 subjects related to Dharma."
     url = "dharma/"
 
   [[params.subjects]]
     icon = "🌌"
     title = "Science"
-    description = "Explore the universe, matter, life, mathematics, and the laws of reality."
+    description = "Explore 9 subjects related to Science."
     url = "science/"
 
   [[params.subjects]]
     icon = "⚖️"
     title = "Society"
-    description = "Explore human behaviour, society, law, economics, governance, and customs"
+    description = "Explore 9 subjects related to Society."
     url = "society/"
 
   [[params.subjects]]

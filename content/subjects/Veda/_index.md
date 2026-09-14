@@ -1,5 +1,6 @@
 ---
 title: "Veda"
+image: "images/veda.webp"
 ---
 
 

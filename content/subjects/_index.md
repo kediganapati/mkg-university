@@ -4,11 +4,29 @@ draft: false
 ---
 
 <div style="text-align: center;">
-MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, science, society, and human Existance.
+MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, science, society, and human Existence.
 </div>
 
 <section class="subjects-grid">
 <div class="card-grid grid-3">
+
+<a class="subject-card" href="/dharma/gods/">
+<span class="subject-icon">🕉️</span>
+<h3>Gods</h3>
+<p>The 33 Koti Devi-Devta — all 33 types of Gods.</p>
+</a>
+
+<a class="subject-card" href="/dharma/spirits/">
+<span class="subject-icon">👻</span>
+<h3>Spirits</h3>
+<p>All 108 Ganas (Spirits) who descend into the human body to perform divine and demonic activities.</p>
+</a>
+
+<a class="subject-card" href="/dharma/immortals/">
+<span class="subject-icon">♾️</span>
+<h3>Immortals</h3>
+<p>All 8 immortal Chiranjeevis and 8 Rishis.</p>
+</a>
 
 <a class="subject-card" href="/subjects/gita/">
 <span class="subject-icon">🕉️</span>
@@ -106,6 +124,24 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <p>Exploring spiritual practice, self-realisation, consciousness, and inner growth.</p>
 </a>
 
+<a class="subject-card" href="/dharma/brahma-sutras/">
+<span class="subject-icon">📖</span>
+<h3>Brahma Sutras</h3>
+<p>Foundations of Vedanta and the knowledge of Brahman.</p>
+</a>
+
+<a class="subject-card" href="/dharma/manusmriti/">
+<span class="subject-icon">📜</span>
+<h3>Manusmriti</h3>
+<p>Dharma, conduct, duties, and social order.</p>
+</a>
+
+<a class="subject-card" href="/dharma/patanjali-yoga-sutras/">
+<span class="subject-icon">🧘</span>
+<h3>Patanjali Yoga Sutras</h3>
+<p>Yoga, mind, meditation, discipline, and liberation.</p>
+</a>
+
 <a class="subject-card" href="/subjects/economics/">
 <span class="subject-icon">📊</span>
 <h3>Economics</h3>
@@ -154,6 +190,41 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <p>Study of Ayurveda, traditional Indian medicine, health, well-being, and the principles of balance between body, mind, and life.</p>
 </a>
 
+<a class="subject-card" href="/mkg-university/science/biology/">
+<span class="subject-icon">🧬</span>
+<h3>Biology</h3>
+<p>Study of life, living organisms, the human body, and the biological foundations of human existence.</p>
+</a>
+
+<a class="subject-card" href="/mkg-university/science/chemistry/">
+<span class="subject-icon">⚗️</span>
+<h3>Chemistry</h3>
+<p>Study of matter, substances, elements, chemical processes, and the material basis of life.</p>
+</a>
+
+<a class="subject-card" href="/mkg-university/science/geography/">
+<span class="subject-icon">🌍</span>
+<h3>Geography</h3>
+<p>Study of Earth, land, water, climate, environment, and the relationship between humans and their surroundings.</p>
+</a>
+
+<a class="subject-card" href="/society/rituals/">
+<span class="subject-icon">🔥</span>
+<h3>Rituals</h3>
+<p>Study of rituals, ceremonies, customs, and traditions across human societies.</p>
+</a>
+
+<a class="subject-card" href="/society/festivals/">
+<span class="subject-icon">🎉</span>
+<h3>Festivals</h3>
+<p>Study of festivals, celebrations, traditions, and their social and cultural significance.</p>
+</a>
+
+<a class="subject-card" href="/society/history/">
+<span class="subject-icon">⚔️</span>
+<h3>History</h3>
+<p>Study of past events, societies, civilizations, cultures, and traditions.</p>
+</a>
 
 </div>
 </section>
@@ -167,7 +238,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 **Note**: 
 I, Kedi Ganapati, am on a mission to learn subjects related to Sanatan Dharma and human existence and establish an open Digital University of Sanatan Dharma.
 
-I was not born with wisdom, nor am I an expert in all 24 subjects. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning and writing about it.
+I was not born with wisdom in 1989, nor am I an expert in all 24 subjects in 2026, But who knows—maybe I will be in 2048. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning and writing about it.
 
 If you are an expert in a relevant subject, you are welcome to teach me. I may not have even opened the first page yet. 
 
