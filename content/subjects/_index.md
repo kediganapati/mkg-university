@@ -4,7 +4,7 @@ draft: false
 ---
 
 <div style="text-align: center;">
-MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, science, society, and human Existence.
+MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, science, society, and human Existence.
 </div>
 
 <section class="subjects-grid">
@@ -13,7 +13,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 <a class="subject-card" href="/dharma/gods/">
 <span class="subject-icon">🕉️</span>
 <h3>Gods</h3>
-<p>The 33 Koti Devi-Devta — all 33 types of Gods.</p>
+<p>All 33 types of Gods.</p>
 </a>
 
 <a class="subject-card" href="/dharma/spirits/">
@@ -238,7 +238,7 @@ MKG Digital University offers 24 subjects based on Sanatan Dharma, philosophy, s
 **Note**: 
 I, Kedi Ganapati, am on a mission to learn subjects related to Sanatan Dharma and human existence and establish an open Digital University of Sanatan Dharma.
 
-I was not born with wisdom in 1989, nor am I an expert in all 24 subjects in 2026, But who knows—maybe I will be in 2048. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning and writing about it.
+I was not born with wisdom in 1989, nor am I an expert in all 36 subjects in 2026, But who knows—maybe I will be in 2048. I am learning them one by one and writing as I learn. So, if a subject has few or no articles, I may simply still be learning and writing about it.
 
 If you are an expert in a relevant subject, you are welcome to teach me. I may not have even opened the first page yet. 
 
