@@ -397,7 +397,9 @@ article {
   margin: 0 0 0.4rem;
   color: var(--saffron-dark);
   font-size: 1.05rem;
+  text-align: center;
 }
+
 
 .card p {
   margin: 0.3rem 0 0;
