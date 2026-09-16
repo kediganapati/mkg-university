@@ -100,10 +100,10 @@ Explore the 18 disciplines of Dharma.
 <p>Study of the Vigyan Bhairav Tantra</p>
 </a>
 
-<a class="subject-card" href="/dharma/brahma-sutras/">
+<a class="subject-card" href="/dharma/vedanga/">
 <span class="subject-icon">📖</span>
-<h3>Brahma Sutras</h3>
-<p>Foundations of Vedanta and the knowledge of Brahman.</p>
+<h3>Vedanga</h3>
+<p>Vedanga: Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha and Kalpa.</p>
 </a>
 
 <a class="subject-card" href="/dharma/manusmriti/">
@@ -112,10 +112,10 @@ Explore the 18 disciplines of Dharma.
 <p>Dharma, conduct, duties, and social order.</p>
 </a>
 
-<a class="subject-card" href="/dharma/patanjali-yoga-sutras/">
+<a class="subject-card" href="/dharma/Six Darshanas/">
 <span class="subject-icon">🧘</span>
-<h3>Patanjali Yoga Sutras</h3>
-<p>Yoga, mind, meditation, discipline, and liberation.</p>
+<h3>Six Darshanas</h3>
+<p>Six Darshanas: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa and Vedanta.</p>
 </a>
 
 </div>

@@ -117,7 +117,13 @@
   </url><url>
     <loc>http://localhost:1313/subjects/spirituality/3-satan-kali-koka-vikoka/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/gods/33-koti-devi-devta/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/purana/kedi-purana/33-koti-devi-devta/</loc>
+  </url><url>
     <loc>http://localhost:1313/subjects/gods/33-koti-devi-devta/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/purana/kedi-purana/33-koti-devi-devta/</loc>
   </url><url>
     <loc>http://localhost:1313/science/astrology/8-layers-of-reading-a-horoscope/</loc>
   </url><url>
@@ -183,10 +189,6 @@
   </url><url>
     <loc>http://localhost:1313/subjects/biology/</loc>
   </url><url>
-    <loc>http://localhost:1313/dharma/brahma-sutras/</loc>
-  </url><url>
-    <loc>http://localhost:1313/subjects/brahma-sutras/</loc>
-  </url><url>
     <loc>http://localhost:1313/dharma/veda/brahma-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/veda/brahma-vandana/</loc>
@@ -236,8 +238,6 @@
     <loc>http://localhost:1313/subjects/geography/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/purana/kedi-purana/glutton-kiran-to-sage-kedi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/gods/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/gods/</loc>
   </url><url>
@@ -312,10 +312,6 @@
     <loc>http://localhost:1313/dharma/parashurama-kalpasutra/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/parashurama-kalpasutra/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dharma/patanjali-yoga-sutras/</loc>
-  </url><url>
-    <loc>http://localhost:1313/subjects/patanjali-yoga-sutras/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/philosophy/</loc>
   </url><url>
@@ -529,6 +525,10 @@
   </url><url>
     <loc>http://localhost:1313/subjects/veda/shiva-vandana/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/six-darshanas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/six-darshanas/</loc>
+  </url><url>
     <loc>http://localhost:1313/society/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/sociology/</loc>
@@ -597,6 +597,10 @@
   </url><url>
     <loc>http://localhost:1313/subjects/veda/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/vedanga/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/vedanga/</loc>
+  </url><url>
     <loc>http://localhost:1313/dharma/vigyan-bhairav-tantra/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/vigyan-bhairav-tantra/</loc>
@@ -608,6 +612,8 @@
     <loc>http://localhost:1313/dharma/veda/vishnu-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/veda/vishnu-vandana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/vedanga/what-is-vedanga/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/ramayan/yuddha-kand/</loc>
   </url>

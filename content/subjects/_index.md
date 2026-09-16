@@ -124,10 +124,10 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 <p>Exploring spiritual practice, self-realisation, consciousness, and inner growth.</p>
 </a>
 
-<a class="subject-card" href="/dharma/brahma-sutras/">
+<a class="subject-card" href="/dharma/vedanga/">
 <span class="subject-icon">📖</span>
-<h3>Brahma Sutras</h3>
-<p>Foundations of Vedanta and the knowledge of Brahman.</p>
+<h3>Vedanga</h3>
+<p>Vedanga: Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha and Kalpa.</p>
 </a>
 
 <a class="subject-card" href="/dharma/manusmriti/">
@@ -136,10 +136,10 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 <p>Dharma, conduct, duties, and social order.</p>
 </a>
 
-<a class="subject-card" href="/dharma/patanjali-yoga-sutras/">
+<a class="subject-card" href="/dharma/Six Darshanas/">
 <span class="subject-icon">🧘</span>
-<h3>Patanjali Yoga Sutras</h3>
-<p>Yoga, mind, meditation, discipline, and liberation.</p>
+<h3>Six Darshanas</h3>
+<p>Six Darshanas: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa and Vedanta.</p>
 </a>
 
 <a class="subject-card" href="/subjects/economics/">
@@ -240,7 +240,7 @@ If you are an expert in a relevant subject, you are welcome to teach me. I may n
 
 Learn one subject, become knowledgeable. Learn related subjects deeply, become a master.
 
-All 24 subjects are necessary for my mission, but not for everyone. Learn related subjects for health and wealth. Learning everything may harm your health and wealth. Choose wisely.
+All 36 subjects are necessary for my mission, but not for everyone. Learn related subjects for health and wealth. Learning everything may harm your health and wealth. Choose wisely.
 
 ---
 

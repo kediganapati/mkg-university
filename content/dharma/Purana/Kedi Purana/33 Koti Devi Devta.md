@@ -347,6 +347,22 @@ Bhagwan Ram never performs bad deeds, while Bhagwan Kalki performs bad deeds wit
 
 **Ganesh**: “Parmeshwar Ganapati wanted Bhagwans to perform only good deeds, but at the same time, he also wanted Bhagwans to perform bad deeds so that no one could say that Bhagwan cannot do everything.”
 
+**Kedi:** “You said Dashavatara and then counted 12 Avatars. How did 10 become 12?”
+
+**Ganesh:** “There are 12 Avatars, but there are 2 categories. In one category, there are Dashavatara, which includes 10 Avatars whose body and mind are independent.
+
+In the second category, there are Mahavatars, which include 2 Avatars—Kalki and Ganesh—and both have the same body.
+
+All Dashavatara incarnate many times in one Kalpa, while Mahavatars incarnate only once.”
+
+**Kedi**: “If Parmeshwar had to take so many forms because of so many desires, and different problems arose because of them, then didn’t Parmeshwar know this in advance?”
+
+**Ganesh**: “If you had to spend your entire life lying comfortably in the same position without moving, or spend your entire life facing struggles, taking action, and experiencing new challenges, which one would you choose?”
+
+**Kedi**: “I would choose the challenges. If I lie down too much, I’ll get back pain.”
+
+**Ganesh**: “Parmeshwar already knew that challenges would arise. Parmeshwar made Himself incomplete in order to experience those challenges, and from that incomplete part, created His various forms and the creation itself.”
+
 **Kedi**: “Do I still have anything left to know?”
 
 **Ganesh**: “You have learned the 33 forms of Parmeshwar, learned about Hiranyagarbha, learned about Dashavatara, and learned about the types of mind.

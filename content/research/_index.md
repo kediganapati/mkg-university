@@ -4,6 +4,10 @@ title: "Research Papers"
 
 
 papers:
+  - title: "33 Koti Devi Devta"
+    image: "images/33-koti-devi-devta.jpeg"
+    link: "https://doi.org/10.5281/zenodo.22768890"
+
   - title: "Varna System"
     image: "images/varna-system-image.jpeg"
     link: "https://zenodo.org/records/22237238"
