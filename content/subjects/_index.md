@@ -85,7 +85,7 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 <a class="subject-card" href="/subjects/six-sects/">
 <span class="subject-icon">🪓</span>
 <h3>Sects</h3>
-<p>Study of the six sects are Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
+<p>Sects: Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
 </a>
 
 <a class="subject-card" href="/subjects/astrology/">

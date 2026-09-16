@@ -49,7 +49,7 @@ Explore the 18 disciplines of Dharma.
 <a class="subject-card" href="/dharma/six-sects/">
 <span class="subject-icon">🪓</span>
 <h3>Sects</h3>
-<p>Study of the six sects are Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
+<p>Sects: Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
 </a>
 
 <a class="subject-card" href="/dharma/purana/">
