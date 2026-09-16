@@ -22,10 +22,10 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 <p>All 108 Ganas (Spirits) who descend into the human body to perform divine and demonic activities.</p>
 </a>
 
-<a class="subject-card" href="/dharma/immortals/">
+<a class="subject-card" href="/dharma/sadhana/">
 <span class="subject-icon">♾️</span>
-<h3>Immortals</h3>
-<p>All 8 immortal Chiranjeevis and 8 Rishis.</p>
+<h3>Sadhana</h3>
+<p>Sadhana: Tantra, Mantra, Yantra, Yoga</p>
 </a>
 
 <a class="subject-card" href="/subjects/gita/">
@@ -76,16 +76,16 @@ MKG Digital University offers 36 subjects based on Sanatan Dharma, philosophy, s
 <p>Study of the Avadhuta Gita, Bhagwan Dattatreya's teachings on non-duality and self-realisation.</p>
 </a>
 
-<a class="subject-card" href="/subjects/vigyan-bhairav-tantra/">
+<a class="subject-card" href="/subjects/tantra/">
 <span class="subject-icon">🔱</span>
-<h3>Vigyan Bhairav Tantra</h3>
-<p>Study of the Vigyan Bhairav Tantra, Bhagwan Shiva's teachings on meditation and consciousness.</p>
+<h3>Tantra</h3>
+<p>Tantra — Bhairava, Dattatreya, Parashurama & Kalki</p>
 </a>
 
-<a class="subject-card" href="/subjects/parashurama-kalpasutra/">
+<a class="subject-card" href="/subjects/six-sects/">
 <span class="subject-icon">🪓</span>
-<h3>Parashurama Kalpasutra</h3>
-<p>Study of the Parashurama Kalpasutra, traditionally associated with Bhagwan Parashurama and Sri Vidya.</p>
+<h3>Sects</h3>
+<p>Study of the six sects are Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
 </a>
 
 <a class="subject-card" href="/subjects/astrology/">

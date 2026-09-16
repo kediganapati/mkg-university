@@ -1,5 +1,6 @@
 ---
 title: "Manusmriti"
+image: "/images/MANUSMRITI.webp"
 ---
 
 

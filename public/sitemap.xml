@@ -563,6 +563,8 @@
   </url><url>
     <loc>http://localhost:1313/subjects/upanishad/taittiriya-upanishad/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/spirits/108-spirits/</loc>
+  </url><url>
     <loc>http://localhost:1313/science/physics/the-origin-of-dimensions/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/physics/the-origin-of-dimensions/</loc>
@@ -612,6 +614,12 @@
     <loc>http://localhost:1313/dharma/veda/vishnu-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/subjects/veda/vishnu-vandana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/manusmriti/manusmriti-chapter-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/six-darshanas/what-are-the-six-darshanas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subjects/six-darshanas/what-are-the-six-darshanas/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/vedanga/what-is-vedanga/</loc>
   </url><url>

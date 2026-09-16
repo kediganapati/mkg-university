@@ -22,10 +22,10 @@ Explore the 18 disciplines of Dharma.
 <p>All 108 Ganas (Spirits) who descend into the human body to perform divine and demonic activities.</p>
 </a>
 
-<a class="subject-card" href="/dharma/immortals/">
+<a class="subject-card" href="/dharma/sadhana/">
 <span class="subject-icon">♾️</span>
-<h3>Immortals</h3>
-<p>All 8 immortal Chiranjeevis and 8 Rishis.</p>
+<h3>Sadhana</h3>
+<p>Sadhana: Tantra, Mantra, Yantra, Yoga</p>
 </a>
 
 <a class="subject-card" href="/dharma/avadhuta-gita/">
@@ -46,10 +46,10 @@ Explore the 18 disciplines of Dharma.
 <p>Exploring the Mahabharat, its philosophy, history, Dharma, and human nature.</p>
 </a>
 
-<a class="subject-card" href="/dharma/parashurama-kalpasutra/">
+<a class="subject-card" href="/dharma/six-sects/">
 <span class="subject-icon">🪓</span>
-<h3>Parashurama Kalpasutra</h3>
-<p>Study of the Parashurama Kalpasutra, traditionally associated with Bhagwan Parashurama and Sri Vidya.</p>
+<h3>Sects</h3>
+<p>Study of the six sects are Vaishnav, Shaiv, Shakta, Smart, Bhagwan, and Guru.</p>
 </a>
 
 <a class="subject-card" href="/dharma/purana/">
@@ -94,10 +94,10 @@ Explore the 18 disciplines of Dharma.
 <p>Study of the Vedas and the foundations of ancient Vedic knowledge and wisdom.</p>
 </a>
 
-<a class="subject-card" href="/dharma/vigyan-bhairav-tantra/">
+<a class="subject-card" href="/dharma/tantra/">
 <span class="subject-icon">🔱</span>
-<h3>Vigyan Bhairav Tantra</h3>
-<p>Study of the Vigyan Bhairav Tantra</p>
+<h3>Tantra</h3>
+<p>Tantra — Bhairava, Dattatreya, Parashurama & Kalki</p>
 </a>
 
 <a class="subject-card" href="/dharma/vedanga/">
@@ -112,7 +112,7 @@ Explore the 18 disciplines of Dharma.
 <p>Dharma, conduct, duties, and social order.</p>
 </a>
 
-<a class="subject-card" href="/dharma/Six Darshanas/">
+<a class="subject-card" href="/dharma/six-darshanas/">
 <span class="subject-icon">🧘</span>
 <h3>Six Darshanas</h3>
 <p>Six Darshanas: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa and Vedanta.</p>

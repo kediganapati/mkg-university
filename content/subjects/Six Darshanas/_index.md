@@ -1,5 +1,6 @@
 ---
 title: "Six Darshanas"
+image: "/images/Six-Darshan.webp"
 ---
 
 
