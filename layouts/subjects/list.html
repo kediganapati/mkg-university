@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="subjects-container">
+    <h1>{{ .Title }}</h1>
+    <div class="subject-grid">
+        {{ range .Params.papers }}
+            <div class="subject-card">
+                <a href="{{ .link }}">
+                    <img src="{{ .image | relURL }}" alt="{{ .title }}" class="subject-cover">
+                </a>
+                <div class="subject-info">
+                    <h3><a href="{{ .link }}">{{ .title }}</a></h3>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

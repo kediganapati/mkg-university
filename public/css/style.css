@@ -547,9 +547,10 @@ article {
    BOOKS
    ========================================================= */
 
- .site-main:has(.books-container) {
+.site-main:has(.books-container) {
   padding-top: 0 !important;
 }
+
 .books-container {
   max-width: 1200px;
   margin: 0 auto;
@@ -560,6 +561,7 @@ article {
   text-align: center;
   margin: 0 0 25px;
 }
+
 .book-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -615,7 +617,6 @@ article {
 .books-container h1 {
   text-align: center;
 }
-
 
 /* =========================================================
    UPI QR CODE
@@ -1209,6 +1210,11 @@ body {
 
 }
 
+@media (max-width: 700px) {
+  .book-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
 /* =========================================================
    MOBILE HEADER
@@ -1746,4 +1752,87 @@ body {
 
 .paper-info h3 a:hover {
   color: #2563eb;
+}
+
+/* =========================================================
+   SUBJECTS
+   ========================================================= */
+
+.site-main:has(.subjects-container) {
+  padding-top: 0 !important;
+  max-width: 1400px !important;
+}
+
+.subjects-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.subjects-container h1 {
+  text-align: center;
+}
+
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.2rem;
+  margin-top: 2rem;
+  margin-bottom: 40px;
+}
+
+.subject-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.subject-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.subject-card a {
+  display: block;
+  line-height: 0;
+}
+
+.subject-cover {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+}
+
+.subject-info {
+  padding: 0.8rem;
+  text-align: center;
+}
+
+.subject-info h3 {
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.subject-info h3 a {
+  color: #1e293b;
+  text-decoration: none;
+  line-height: normal;
+}
+
+.subject-info h3 a:hover {
+  color: #2563eb;
+}
+
+@media (max-width: 700px) {
+  .subject-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
