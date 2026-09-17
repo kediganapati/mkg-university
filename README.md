@@ -77,3 +77,10 @@ Fir browser me `http://localhost:1313` kholo. Ye sirf local preview hai — asli
 ## 🔍 SEO Tip
 
 Blogger se migrate karte waqt purane URLs (jaise `/p/about.html`) ke liye redirects zaroor banao, taaki Google search rankings na girein. `static/_redirects` ya meta-refresh pages se ye ho sakta hai — agar madad chahiye to pooch lena.
+
+---
+
+## 💻 Tech Stack
+
+- Hugo version: v0.165.0 (extended)
+- Deploy: GitHub Actions → GitHub Pages
