@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="subjects-container">
+  <h1>{{ .Title }}</h1>
+  <div class="subject-grid">
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+      <div class="subject-card">
+        <a href="{{ .RelPermalink }}">
+          {{ if .Params.image }}
+            <img class="subject-cover" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ end }}
+        </a>
+        <div class="subject-info">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
