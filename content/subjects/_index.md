@@ -33,7 +33,7 @@ papers:
     link: "/dharma/purana/"
 
   - title: "Ramayan"
-    image: "images/ramayan.webp"
+    image: "images/ramayana.webp"
     link: "/dharma/ramayan/"
 
   - title: "Sadhana"
@@ -73,9 +73,9 @@ papers:
   - title: "Astrology"
     image: "images/astrology.webp"
     link: "/science/astrology/"
-  - title: "Astronomy"
-    image: "images/astronomy.webp"
-    link: "/science/astronomy/"
+  - title: "Cosmology"
+    image: "images/cosmology.webp"
+    link: "/science/Cosmology/"
   - title: "Ayurveda"
     image: "images/ayurveda.webp"
     link: "/science/ayurveda/"

@@ -1,5 +1,6 @@
 ---
-title: "Uttara Kand Chapter 7"
+title: "Uttara Kand"
+image: "/images/ramayana.webp"
 ---
 
 

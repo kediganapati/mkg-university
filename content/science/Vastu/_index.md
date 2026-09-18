@@ -1,5 +1,6 @@
 ---
 title: "Vastu"
+image: "/images/vastu-shastra.webp"
 ---
 
 

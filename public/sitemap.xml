@@ -42,28 +42,42 @@
   </url><url>
     <loc>http://localhost:1313/dharma/gita/bhagavad-gita-chapter-18/</loc>
   </url><url>
-    <loc>http://localhost:1313/science/astronomy/</loc>
+    <loc>http://localhost:1313/science/cosmology/</loc>
     <lastmod>2026-08-29T13:32:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-08-29T13:32:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/science/astronomy/sanatan-time-cycle/</loc>
+    <loc>http://localhost:1313/science/cosmology/sanatan-time-cycle/</loc>
     <lastmod>2026-08-29T13:32:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/science/</loc>
     <lastmod>2026-08-29T13:32:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/science/astronomy/diwali-the-origin-of-big-bang-kedi-ganapati/</loc>
+    <loc>http://localhost:1313/science/cosmology/84-lakh-yoni-timeline-of-life-evolution/</loc>
+    <lastmod>2026-08-29T13:32:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dharma/gods/dashavatar-and-mahavatar/</loc>
+    <lastmod>2026-08-29T13:32:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dharma/</loc>
+    <lastmod>2026-08-29T13:32:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/cosmology/diwali-the-origin-of-big-bang-kedi-ganapati/</loc>
+    <lastmod>2026-08-29T13:32:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dharma/gods/</loc>
     <lastmod>2026-08-29T13:32:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dharma/six-sects/</loc>
   </url><url>
     <loc>http://localhost:1313/society/psychology/108-elements-of-human-mind/</loc>
   </url><url>
-    <loc>http://localhost:1313/science/astronomy/12-celestial-bodies-in-hiranyagarbha/</loc>
+    <loc>http://localhost:1313/science/cosmology/12-celestial-bodies-in-hiranyagarbha/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/philosophy/18-gems-of-samudra-manthan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/gods/21-forms-of-parmeshwari-gauri-riddhi-and-siddhi/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/spirituality/3-satan-kali-koka-vikoka/</loc>
   </url><url>
@@ -127,8 +141,6 @@
   </url><url>
     <loc>http://localhost:1313/society/constitution/</loc>
   </url><url>
-    <loc>http://localhost:1313/dharma/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/dharma--spirituality/</loc>
   </url><url>
     <loc>http://localhost:1313/donation/</loc>
@@ -143,6 +155,8 @@
   </url><url>
     <loc>http://localhost:1313/society/constitution/foreign-constitution/</loc>
   </url><url>
+    <loc>http://localhost:1313/science/vastu/foundation-of-vastu-shastra/</loc>
+  </url><url>
     <loc>http://localhost:1313/dharma/veda/ganapati-vandana/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/veda/gauri-vandana/</loc>
@@ -150,8 +164,6 @@
     <loc>http://localhost:1313/science/geography/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/purana/kedi-purana/glutton-kiran-to-sage-kedi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dharma/gods/</loc>
   </url><url>
     <loc>http://localhost:1313/society/history/</loc>
   </url><url>
@@ -201,6 +213,8 @@
   </url><url>
     <loc>http://localhost:1313/science/astrology/pitru-dosha/</loc>
   </url><url>
+    <loc>http://localhost:1313/dharma/gods/7-prophecies-of-bhagwan-kalki/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/psychology/</loc>
   </url><url>
     <loc>http://localhost:1313/society/psychology/</loc>
@@ -218,6 +232,16 @@
     <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_03/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_04/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_05/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_06/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_07/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_08/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/ramayan/bala-kand/bala-kanda_09/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
