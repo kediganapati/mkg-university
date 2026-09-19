@@ -1,8 +1,8 @@
 ---
-title: "Astronomy"
+title: "Cosmology"
 ---
 
 
 
-Astronomy explores stars, planets, constellations, galaxies, the universe, cosmological realms, and Hiranyaloka, Vaikuntha, Hiranyagarbha.
+Cosmology explores stars, planets, constellations, galaxies, the universe, cosmological realms, and Hiranyaloka, Vaikuntha, Hiranyagarbha.
 
