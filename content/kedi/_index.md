@@ -210,8 +210,24 @@ During one trip, the chassis broke from underneath at 60 km/h — the bike nearl
 
 ---
 
-## Founder's Note
+## Kedi's Mother
 
-I am still a student. There is much more to learn, understand, and experience. My path is not one of arrival — it is one of endless becoming. Every road I have traveled, every person I have met, every scripture I have studied, and every hardship I have endured has been part of this lifelong mission. My mother always asks when my studies will end, and I always say: lifelong study.
+My mother is a mix of contradictions, and she is right about all of them. Sometimes she says I am lazy, and sometimes she says I am so intelligent that I can write without any guidance. Sometimes she calls me a divine man, and sometimes a dark horse devil. She says she knows everything about me, and a little later she says she knows nothing. Both are true: my mother knows all my reactions, but not all my actions.
+
+She tells me not to go out at night, yet when I get ready to leave, she never stops me. I get both love and freedom from her. Usually, the more love someone gives, the less freedom they allow. My mother gives both equally. Without that freedom, I could not have understood even 30% of human existence that I learned during my night outs.
+
+Even at 37, my mother still teaches me how to eat: crush the rice on the side of the plate, never mix everything together. I still mix it all. Whenever she returns from the market, I ask, “What have you brought for me?” She knows I like vada pav, so she always brings it, and then calls me a glutton.
+
+Sometimes she misunderstands something and scolds me. I never talk back. I simply wait, because I know that when she discovers I was innocent, she will laugh at her own mistake, and then the pampering begins. If she sees a video of silly people doing silly things, she imagines me doing the same and laughs. Somehow, even when I do nothing, I make my mother laugh.
+
+Most mamma’s boys obey their mothers. I make my own decisions and do not tell her everything about my work and friends. So I am either an abnormal or an extraordinary mamma’s boy.
+
+In our society, I know only my neighbours, but everyone knows me as the Anganwadi teacher’s son. My mother belongs to a leftist family, and we live in my late uncle’s house, so I do not perform worship at home. I read and write about gods there, but I do not worship them. When I buy a house of my own, I will. Until then, my first goddess is my mother.
+
+When I tell her, “I am writing important topics, please give me 20–30 minutes,” she stays completely silent. That silence is the real infrastructure of MKG’s content.
+
+My mother gives me peace, freedom and care, so I can research and write without worrying about myself. She takes care of me, and I take care of MKG. If I had to take care of myself, I could not have built MKG at all.
+
+That is why I am the founder of MKG, but my mother is the sacred founder of me and MKG.
 
 ---

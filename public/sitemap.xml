@@ -83,7 +83,7 @@
   </url><url>
     <loc>http://localhost:1313/dharma/gods/33-koti-devi-devta/</loc>
   </url><url>
-    <loc>http://localhost:1313/dharma/purana/kedi-purana/33-koti-devi-devta/</loc>
+    <loc>http://localhost:1313/dharma/sadhana/4-bhakti-sadhana/</loc>
   </url><url>
     <loc>http://localhost:1313/science/astrology/8-layers-of-reading-a-horoscope/</loc>
   </url><url>
@@ -155,8 +155,6 @@
   </url><url>
     <loc>http://localhost:1313/society/constitution/foreign-constitution/</loc>
   </url><url>
-    <loc>http://localhost:1313/science/vastu/8-layers-of-reading-a-horoscope/</loc>
-  </url><url>
     <loc>http://localhost:1313/science/vastu/foundation-of-vastu-shastra/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/veda/ganapati-vandana/</loc>
@@ -202,6 +200,8 @@
     <loc>http://localhost:1313/science/mathematics/</loc>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/purana/kedi-purana/my-first-pilgrimage/</loc>
   </url><url>
     <loc>http://localhost:1313/dharma/tantra/parashurama-kalpasutra/</loc>
   </url><url>
@@ -290,6 +290,8 @@
     <loc>http://localhost:1313/science/physics/the-origin-of-dimensions/</loc>
   </url><url>
     <loc>http://localhost:1313/society/sociology/the-origin-of-sociology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dharma/purana/kedi-purana/the-vrindavan-journey/</loc>
   </url><url>
     <loc>http://localhost:1313/society/economics/trend-and-selection-a-behavioral-framework/</loc>
   </url><url>
