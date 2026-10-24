@@ -1836,3 +1836,34 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* Google Translate ka upar wala banner aur popup hide karo */
+iframe.skiptranslate,
+.skiptranslate > iframe,
+.goog-te-banner-frame,
+.VIpgJd-ZVi9od-ORHb-OEVmcd,
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+.VIpgJd-ZVi9od-l4eHX-hSRGPd,
+#goog-gt-tt,
+.VIpgJd-yAWNEb-L7lbkb,
+.goog-te-balloon-frame {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+}
+
+/* Google body ko neeche dhakel deta hai, usse roko */
+html,
+body {
+  top: 0 !important;
+  margin-top: 0 !important;
+}
+
+body {
+  position: static !important;
+}
+
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
