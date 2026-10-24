@@ -1,7 +1,7 @@
 ---
 title: "Gauri Vandana"
 categories: ["Veda"]
-image: "/images/gauri-vandana.webp"
+image: "images/gauri-vandana-kedi-ganapati.webp"
 author: "Kedi Ganapati"
 toc: false
 ---
