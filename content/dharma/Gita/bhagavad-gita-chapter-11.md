@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 11: Visvarupa Darshana Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-11.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 11
 author: "Kedi Ganapati"
 ---
