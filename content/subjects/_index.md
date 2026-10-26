@@ -21,7 +21,7 @@ papers:
     link: "/dharma/mahabharat/"
 
   - title: "Manusmriti"
-    image: "images/manusmriti.webp"
+    image: "images/MANUSMRITI.webp"
     link: "/dharma/manusmriti/"
 
   - title: "Philosophy"
