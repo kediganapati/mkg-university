@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 16: Daivasura Sampad Vibhaga Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-16.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 16
 author: "Kedi Ganapati"
 ---
