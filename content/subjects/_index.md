@@ -37,7 +37,7 @@ papers:
     link: "/dharma/ramayan/"
 
   - title: "Sadhana"
-    image: "images/sadhana.webp"
+    image: "images/bhakti-sadhana.webp"
     link: "/dharma/sadhana/"
 
   - title: "Six Darshanas"
@@ -50,15 +50,19 @@ papers:
   - title: "Spirits"
     image: "images/108-spirits.webp"
     link: "/dharma/spirits/"
+    
   - title: "Spirituality"
     image: "images/spirituality.webp"
     link: "/dharma/spirituality/"
+    
   - title: "Tantra"
     image: "images/tantra.webp"
     link: "/dharma/tantra/"
+    
   - title: "Tripitaka"
     image: "images/tripitaka.webp"
     link: "/dharma/tripitaka/"
+    
   - title: "Upanishad"
     image: "images/upanishad.webp"
     link: "/dharma/upanishad/"
