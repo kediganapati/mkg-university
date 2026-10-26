@@ -1,5 +1,5 @@
 ---
-title: "What Are the Six Darshanas?"
+title: "Manusmriti Chapter 1"
 image: "/images/MANUSMRITI.webp"
 author: "Kedi Ganapati"
 ---

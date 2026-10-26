@@ -109,3 +109,7 @@ To understand each darshana in detail, you should read the independent articles 
 This does not mean that the darshana is limited to only as much as one sage has written. Rather, every sage has written from their own experience; someone’s experience may be less, and someone’s may be more.
 
 Therefore, do not consider any book or article on a darshana to be complete. I too write about the same darshana across multiple articles.
+
+## Note 
+
+Every sage writes about the Six Darshanas based on their own observations and experiences. You may find Kedi’s Six Darshanas unique and simple, and they may not match other interpretations. The reason is simple: knowledge should be easy to understand, not complicated just to decorate it.
