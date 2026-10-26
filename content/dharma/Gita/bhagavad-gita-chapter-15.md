@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 15: Purushottama Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-15.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 15
 author: "Kedi Ganapati"
 ---
