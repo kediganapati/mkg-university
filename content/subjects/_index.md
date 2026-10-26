@@ -48,7 +48,7 @@ papers:
     image: "images/six-sects.webp"
     link: "/dharma/six-sects/"
   - title: "Spirits"
-    image: "images/spirits.webp"
+    image: "images/108-spirits.webp"
     link: "/dharma/spirits/"
   - title: "Spirituality"
     image: "images/spirituality.webp"
