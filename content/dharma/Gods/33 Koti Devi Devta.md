@@ -372,4 +372,4 @@ Now you need to experience the taste of the prasad from Ganpatipule Temple. Quic
 I had bought 2 ladoos as prasad from the temple and kept them in my bag. I took a ladoo out of the bag and, while eating it, forgot that I was still talking to Ganesh.
 
 Note: To know how my 5,000 KM motorcycle pilgrimage across India and my visits to various temples led me to discover the mystery of 33 Koti Devi Devata, read My First Pilgrimage: A 5,000 KM Journey Across India. 
-Read **[My First Pilgrimage: A 5,000 KM Journey Across India](https://www.mkgdigitaluniversity.com/dharma/gods/33-koti-devi-devta/)/)**
+Read **[My First Pilgrimage: A 5,000 KM Journey Across India](https://www.mkgdigitaluniversity.com/dharma/purana/kedi-purana/my-first-pilgrimage/)/)**
