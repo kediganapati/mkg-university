@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 14: Gunatraya Vibhaga Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-14.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 14
 author: "Kedi Ganapati"
 ---
