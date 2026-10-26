@@ -1,206 +1,184 @@
 ---
-
-title: "Ramayan — Bala Kanda — Sarga 06"
+title: "Ramayan — Bala Kanda — Sarga 7"
+image: "/images/ramayana.webp"
 categories: ["Ramayan", "Bala Kanda"]
 author: "Kedi Ganapati"
 toc: false
------------------------
+---
 
-# Bala Kanda — Sarga 06
+# Bala Kanda — Sarga 07
 
 ## Verse 1
 
-तस्यां पुर्यामयोध्यायां वेदवित्सर्वसंग्रहः |
-दीर्घदर्शी महातेजाः पौरजानपदप्रियः || १-६-१
+तस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मनः ।
+मन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः ॥ १-७-१ ॥
 
-In that city of Ayodhya lived one who was learned in the Vedas, possessed of every resource, far-seeing, greatly radiant, and beloved by both the citizens and the people of the countryside.
+The ministers of the great King Dasharatha, descendant of Ikshvaku, possessed excellent qualities. They understood statecraft, could interpret intentions, and were always devoted to the king's welfare.
 
 ## Verse 2
 
-इक्ष्वाकूणामतिरथो यज्वा धर्मपरो वशी |
-महर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुतः || १-६-२
+अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः ।
+शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः ॥ १-७-२ ॥
 
-Among the descendants of Ikshvaku, he was an excellent chariot-warrior, a performer of sacrifices, devoted to Dharma, self-controlled, like a great sage, and a royal sage renowned in the three worlds.
+The illustrious and valiant King Dasharatha had eight ministers. They were pure-hearted, loyal, and constantly devoted to the affairs of the kingdom.
 
 ## Verse 3
 
-बलवान् निहतामित्रो मित्रवान् विजितेन्द्रियः |
-धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः || १-६-३
+धृष्टिर्जयन्तो विजयो सुराष्ट्रो राष्ट्रवर्धनः ।
+अकोपो धर्मपालश्च सुमन्त्रश्चाष्टमोऽर्थवित् ॥ १-७-३ ॥
 
-He was powerful, had destroyed his enemies, possessed many friends, had conquered his senses, and in wealth and accumulated resources was comparable to Indra and Vaishravana.
+The eight ministers were Dhrishti, Jayanta, Vijaya, Surashtra, Rashtravardhana, Akopa, Dharmapala, and Sumantra, the eighth, who was knowledgeable in matters of state and wealth.
 
 ## Verse 4
 
-यथा मनुर्महातेजा लोकस्य परिरक्षिता |
-तथा दशरथो राजा लोकस्य परिरक्षिता || १-६-४
+ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ ।
+वशिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे ॥ १-७-४ ॥
 
-Just as the greatly radiant Manu was the guardian of the world, so King Dasharatha was the guardian of his people.
+The two highly esteemed sages Vashishtha and Vamadeva served as the king's chief priests. Other learned advisers also served him.
 
 ## Verse 5
 
-तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता |
-पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती || १-६-५
+सुयज्ञोऽप्यथ जाबालिः काश्यपोऽथ गौतमः ।
+मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः ॥ १-७-५ ॥
 
-That excellent city was governed by him, who was devoted to truth and practised the threefold aims of life, just as Amaravati is governed by Indra.
+The learned Brahmins included Suyajna, Jabali, Kashyapa, Gautama, Markandeya, Dirghayu, and the Brahmin Katyayana.
 
 ## Verse 6
 
-तस्मिन् पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः |
-नरास्तुष्टाः स्वैर्धनैरलुब्धाः सत्यवादिनः || १-६-६
+एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः ।
+विद्याविनीताः ह्रीमन्तः कुशलाः नियतेन्द्रियाः ॥ १-७-६ ॥
 
-In that excellent city, the people were joyful, righteous, widely learned, satisfied with their own wealth, free from greed, and truthful in speech.
+Along with these great sages, the king was served by priests belonging to his ancestral tradition. They were educated, disciplined, modest, skilful, and masters of their senses.
 
 ## Verse 7
 
-नाल्पसन्निचयः कश्चिदासीत्तस्मिन्पुरोत्तमे |
-कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान् || १-६-७
+श्रीमन्तश्च महात्मानः शास्त्रज्ञा दृढविक्रमाः ।
+कीर्तिमन्तः प्रणिहिता यथावचनकारिणः ॥ १-७-७ ॥
 
-In that excellent city there was no one with insufficient resources, and no householder lacked cattle, horses, wealth, or grain.
+They were prosperous and noble-minded, knowledgeable in the scriptures, and firm in courage. They were renowned, thoughtful, and faithful to their word.
 
 ## Verse 8
 
-कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित् |
-द्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः || १-६-८
+तेजः क्षमा यशः प्राप्ताः स्मितपूर्वाभिभाषिणः ।
+क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः ॥ १-७-८ ॥
 
-In Ayodhya, no lustful, miserly, or cruel person could be seen anywhere; nor was there an unlearned person or one who rejected the sacred order.
+They possessed brilliance, patience, and fame, and they spoke with a smile. They never spoke falsehood out of anger, desire, or greed for wealth.
 
 ## Verse 9
 
-सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः |
-मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः || १-६-९
+तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा ।
+क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम् ॥ १-७-९ ॥
 
-All the men and women were devoted to Dharma and well disciplined. They were content, pure in character and conduct, like great sages.
+Nothing remained unknown to them concerning their own kingdom or foreign lands. Through their agents, they learned what was happening, what had happened, and what others intended to do.
 
 ## Verse 10
 
-नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान् |
-नामृष्टो नालिप्ताङ्गो नासुगन्धश्च विद्यते || १-६-१०
+कुशलाः व्यवहारेषु सौहृदेषु परीक्षिताः ।
+प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि ॥ १-७-१० ॥
 
-No one was without earrings, a head ornament, or garlands; no one lived in poor conditions. No one was unbathed, without anointed limbs, or without fragrance.
+They were skilled in administration and carefully assessed in their relationships. When circumstances required punishment, they imposed it even upon their own sons.
 
 ## Verse 11
 
-नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक् |
-नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान् || १-६-११
+कोशसंग्रहणे युक्ता बलस्य च परिग्रहे ।
+अहितं चापि पुरुषं न हिंस्युरविदूषकम् ॥ १-७-११ ॥
 
-No one ate without proper preparation, no one was ungenerous, and no one was without ornaments for the body or hands; nor was any person lacking self-discipline.
+They were diligent in gathering wealth for the treasury and maintaining the army. Even a hostile person was not harmed if that person had committed no offence.
 
 ## Verse 12
 
-नानाहिताग्निर्नायज्वा न क्षुद्रो वा न तस्करः |
-कश्चिदासीदयोध्यायां न चावृत्तो न सङ्करः || १-६-१२
+वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः ।
+शुचीनां रक्षितारश्च नित्यं विषयवासिनाम् ॥ १-७-१२ ॥
 
-There was no one who had not maintained the sacred fires, no one who did not perform sacrifices, no base person, and no thief. There was no person of improper conduct or disorderly way of life.
+They were courageous, consistently energetic, and skilled in the principles of governance. They constantly protected the honest people living within the kingdom.
 
 ## Verse 13
 
-स्वकर्मनिरताः नित्यं ब्राह्मणा विजितेन्द्रियाः |
-दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे || १-६-१३
+ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन् ।
+सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम् ॥ १-७-१३ ॥
 
-The Brahmanas were constantly devoted to their prescribed duties, had conquered their senses, were devoted to giving and studying, and were disciplined in accepting gifts.
+They did not oppress Brahmins or Kshatriyas merely to fill the treasury. They imposed severe punishments after assessing the strength and weakness of the person concerned.
 
 ## Verse 14
 
-न तेष्वविद्वान् विद्यते न चानृतकथः क्वचित् |
-न च लोकेषु कश्चित्तु ब्राह्मणः क्षुद्रकर्मकृत् || १-६-१४
+शुचीनामेकबुद्धीनां सर्वेषां सम्प्रजानताम् ।
+नासीद्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित् ॥ १-७-१४ ॥
 
-Among them no one was unlearned, nor did anyone speak falsehood. No Brahmana anywhere engaged in inferior or improper actions.
+Under the administration of these honest and united ministers, no liar was found anywhere in the capital or the kingdom.
 
 ## Verse 15
 
-नासीत्सहस्रशो यज्ञो नास्ति तत्र नरोत्तम |
-न चासीत्कश्चिदन्यायी न चासीत्कश्चिदातुरः || १-६-१५
+कश्चिन्न दुष्टस्तत्रासीद्परदाररतिर्नरः ।
+प्रशान्तं सर्वमेवासीत् राष्ट्रं पुरवरं च तत् ॥ १-७-१५ ॥
 
-There were sacrifices performed in thousands, and there was no person who acted unjustly or suffered from affliction.
+There was no wicked person who pursued another man's wife. The entire kingdom and its excellent capital remained peaceful.
 
 ## Verse 16
 
-कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान् |
-द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान् || १-६-१६
+सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः ।
+हितार्थश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा ॥ १-७-१६ ॥
 
-No man or woman in Ayodhya could be seen without prosperity or beauty, nor was anyone lacking devotion toward the king.
+All the ministers were well dressed, dignified, and committed to righteous conduct. They remained vigilant and used sound judgment for the welfare of their king.
 
 ## Verse 17
 
-वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः |
-कृतज्ञाश्च वदान्याश्च शूरा विक्रमसंयुताः || १-६-१७
+गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमे ।
+विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः ॥ १-७-१७ ॥
 
-Among all the four social orders, the people honoured deities and guests, were grateful and generous, courageous and endowed with valour.
+They had acquired good qualities from their teachers and were renowned for their courage. Even in foreign lands, they were known for their sound judgment and decisive intelligence.
 
 ## Verse 18
 
-दीर्घायुषो नराः सर्वे धर्मं सत्यं च संश्रिताः |
-सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे || १-६-१८
+अभितो गुणवन्तश्च न चासन्गुणवर्जिताः ।
+सन्धिविग्रह तत्त्वज्ञाः प्रकृत्या सम्पदान्विताः ॥ १-७-१८ ॥
 
-All the people were long-lived and devoted to Dharma and truth. They lived continually with their sons, grandsons, and families in that excellent city.
+They were virtuous in every respect, and none lacked good qualities. They understood the principles of peace and war and were naturally endowed with prosperity.
 
 ## Verse 19
 
-क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः |
-शूद्राः स्वधर्मनिरतास्त्रीन् वर्णानुपचारिणः || १-६-१९
+मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु ।
+नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः ॥ १-७-१९ ॥
 
-The Kshatriyas looked toward the Brahmanas, the Vaishyas followed the Kshatriyas, and the Shudras were devoted to their own duties and served the other three social orders.
+They were capable of keeping state secrets and applying their intelligence to subtle matters. They were experts in the science of policy and consistently spoke pleasant words.
 
 ## Verse 20
 
-सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता |
-यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता || १-६-२०
+ईदृशैस्तैर्मात्यैश्च राजा दशरथोऽनघः ।
+उपपन्नो गुणोपेतैरन्वशासद्वसुन्धराम् ॥ १-७-२० ॥
 
-That city was well governed by the lord of the Ikshvaku dynasty, just as it had formerly been governed by the wise Manu, lord among humans.
+King Dasharatha, endowed with noble qualities and supported by such capable ministers, ruled the earth.
 
 ## Verse 21
 
-योधानागसहस्रैश्च युतामग्निसमप्रभैः |
-वसुभिर्देवसंकाशैः सर्वैः समुदितां गुणैः || १-६-२१
+अवेक्षमाणश्चारेण प्रजा धर्मेण रक्षयन् ।
+प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन् ॥ १-७-२१ ॥
 
-It was filled with thousands of warriors and elephants, radiant like fire, and with prosperous people resembling divine beings, endowed with every quality.
+He observed affairs through his spies, protected his subjects according to Dharma, governed them responsibly, and rejected unrighteous conduct.
 
 ## Verse 22
 
-सा तु राजा दशरथो महाराजः प्रतापवान् |
-सदोपजाता रथिभिः सर्वविद्याविशारदैः || १-६-२२
+विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः ।
+स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम् ॥ १-७-२२ ॥
 
-That city was ruled by the powerful great king Dasharatha and was constantly inhabited by skilled chariot-warriors knowledgeable in every discipline.
+Renowned throughout the three worlds, generous and faithful to his promises, that foremost among men ruled the earth.
 
 ## Verse 23
 
-तदा शस्त्रविदां श्रेष्ठा इष्टास्त्राश्च रणप्रियाः |
-शब्दवेध्यां च विदुषः परान् शस्त्रविशारदाः || १-६-२३
+नाध्यगच्छद्विशिष्टं वा तुल्यं वा शत्रुमात्मनः ।
+मित्रवान्नतसामन्तः प्रतापहतकण्टकः ।
+स शशास जगद्राजा दिवि देवपतिर्मथा ॥ १-७-२३ ॥
 
-There were foremost masters of weapons, skilled in the use of missiles and fond of battle. They understood shooting by sound and were highly proficient in warfare.
+King Dasharatha found no enemy superior or equal to himself. He had many allies, his subordinate rulers were loyal, and his valour removed the obstacles to his rule. He governed the world like Indra, the lord of the gods in heaven.
 
 ## Verse 24
 
-महाप्राणाः महावीर्या महावीर्यपराक्रमाः |
-शक्रवज्रप्रतिमाश्च योधा युद्धविशारदाः || १-६-२४
+तैर्मन्त्रिभिर्मन्त्रहितैर्निविष्टैः
+वृतोऽनुरक्तैः कुशलैः समर्थैः ।
+स पार्थिवो दीप्तिमवाप युक्तः
+तेजोमयैर्गोभिरिवोदितोऽर्कः ॥ १-७-२४ ॥
 
-The warriors possessed great strength and courage, mighty valour and power, and were like Indra's thunderbolt in battle.
+Surrounded by ministers devoted to sound counsel, loyal, skilful, and capable, King Dasharatha attained great splendour, like the rising Sun accompanied by its radiant rays.
 
-## Verse 25
+*इति वाल्मीकि रामायणे आदिकाव्ये बालकाण्डे सप्तमः सर्गः।*
 
-सर्वे चास्त्रविदः शूराः सर्वे युद्धविशारदाः |
-तथा ते नरशार्दूला रक्षन्ति स्म पुरोत्तमम् || १-६-२५
-
-All were masters of weapons, brave and skilled in warfare. Those foremost among men protected that excellent city.
-
-## Verse 26
-
-तां पुरीं स महातेजा राजा दशरथः प्रभुः |
-शशास शमितामित्रो नक्षत्राणामिव चन्द्रमाः || १-६-२६
-
-The greatly radiant King Dasharatha, having subdued his enemies, ruled that city as the moon rules among the stars.
-
-## Verse 27
-
-तां सत्यनामां दृढतोरणार्गलां
-गृहैर्विचित्रैरुपशोभितां शिवाम् |
-पुरीमयोध्यां नृसहस्रसंकुलां
-शशास वै शक्रसमो महीपतिः || १-६-२७
-
-That auspicious city of Ayodhya, true to its name, with strong gateways and bars, adorned with magnificent houses and filled with thousands of people, was ruled by that king, equal to Indra.
-
----
-
-## Kedi Ganapati Interpretation
-
-<!-- Interpretation to be added by Kedi Ganapati -->
+Thus ends Sarga 7 of Bala Kanda in the Valmiki Ramayana
