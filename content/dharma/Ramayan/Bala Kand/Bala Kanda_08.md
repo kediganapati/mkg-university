@@ -1,9 +1,10 @@
 ---
 title: "Ramayan — Bala Kanda — Sarga 08"
+image: "/images/ramayana.webp"
 categories: ["Ramayan", "Bala Kanda"]
 author: "Kedi Ganapati"
 toc: false
-----------
+---
 
 
 ## Verse 1
