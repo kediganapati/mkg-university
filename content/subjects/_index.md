@@ -41,7 +41,7 @@ papers:
     link: "/dharma/sadhana/"
 
   - title: "Six Darshanas"
-    image: "images/six-darshanas.webp"
+    image: "images/Six-Darshan.webp"
     link: "/dharma/six-darshanas/"
 
   - title: "Six Sects"
