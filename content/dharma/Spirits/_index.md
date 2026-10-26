@@ -1,5 +1,6 @@
 ---
 title: "Spirits"
+image: "images/108-spirits.webp"
 ---
 
 
