@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita Chapter 3"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-3.webp"
+image: "/images/bhagavad-gita.webp"
 description: "Interpretation of Bhagavad Gita Chapter 3 by Kedi Ganapati."
 weight: 3
 author: "Kedi Ganapati"

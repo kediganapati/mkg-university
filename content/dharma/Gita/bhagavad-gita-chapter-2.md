@@ -1,7 +1,6 @@
 ---
 title: "Bhagavad Gita — Chapter 2: Sankhya Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-2.webp"
 weight: 2
 author: "Kedi Ganapati"
 ---
