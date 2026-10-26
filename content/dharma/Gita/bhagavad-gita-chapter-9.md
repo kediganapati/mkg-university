@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 9: Raja Vidya Raja Guhya Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-9.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 9
 author: "Kedi Ganapati"
 
