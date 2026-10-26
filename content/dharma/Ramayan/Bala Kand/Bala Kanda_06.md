@@ -6,7 +6,6 @@ author: "Kedi Ganapati"
 toc: false
 ---
 
-# Bala Kanda — Sarga 06
 
 ## Verse 1
 
