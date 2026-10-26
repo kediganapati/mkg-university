@@ -1,5 +1,6 @@
 ---
 title: "Ramayan — Bala Kanda — Sarga 05"
+image: "/images/ramayana.webp"
 categories: ["Ramayan", "Bala Kanda"]
 author: "Kedi Ganapati"
 toc: false
