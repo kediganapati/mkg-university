@@ -1,5 +1,6 @@
 ---
 title: "Vedanga"
+image: "images/vedanga.webp"
 ---
 
 
