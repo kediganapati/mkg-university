@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 6: Dhyana Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-6.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 6
 author: "Kedi Ganapati"
 ---

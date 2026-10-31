@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 8: Akshara Brahma Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-8.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 8
 author: "Kedi Ganapati"
 

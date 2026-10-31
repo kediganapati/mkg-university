@@ -84,4 +84,4 @@ But after experiencing these different temples, their traditions, devotees, and 
 To know how this 5,000 KM pilgrimage and my visits to these temples led me to this wisdom, read My First Pilgrimage: A 5,000 KM Journey Across India.
 
 
-Read **[33 Koti Devi Devata](dharma/gods/33-koti-devi-devta/)**
+Read **[33 Koti Devi Devata](https://www.mkgdigitaluniversity.com/dharma/gods/33-koti-devi-devta/)**

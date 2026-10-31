@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 7: The Knowledge of the Absolute"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-7.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 7
 author: "Kedi Ganapati"
 ---

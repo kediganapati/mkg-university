@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 12: Bhakti Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-12.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 12
 author: "Kedi Ganapati"
 ---

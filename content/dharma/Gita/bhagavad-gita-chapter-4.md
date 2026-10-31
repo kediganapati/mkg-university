@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita Chapter 4"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-4.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 4
 description: "Bhagavad Gita Chapter 4 with Sanskrit shlokas, transliteration, translation, and interpretation."
 author: "Kedi Ganapati"

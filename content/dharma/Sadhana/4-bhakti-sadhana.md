@@ -253,4 +253,6 @@ draft: false
 
 ## Note
 
-Before I could ask Ganesh these questions, there was a journey — a decision to seek devotion, a two-day motorcycle ride to Vrindavan, and a search that took me from the Yamuna ghat to ashram doors that kept turning me away. To know why I wanted to understand bhakti, how I reached Vrindavan, and how this conversation came to be, read [The Vrindavan Journey: In Search of Devotion](/dharma/purana/kedi-purana/the-vrindavan-journey/)
+Before I could ask Ganesh these questions, there was a journey — a decision to seek devotion, a two-day motorcycle ride to Vrindavan, and a search that took me from the Yamuna ghat to ashram doors that kept turning me away. 
+
+To know why I wanted to understand bhakti, how I reached Vrindavan, and how this conversation came to be, read [The Vrindavan Journey: In Search of Devotion](/dharma/purana/kedi-purana/the-vrindavan-journey/)

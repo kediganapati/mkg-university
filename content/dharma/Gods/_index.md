@@ -1,5 +1,6 @@
 ---
 title: "Gods"
+image: "images/33-koti-devi-devta.webp"
 ---
 
 

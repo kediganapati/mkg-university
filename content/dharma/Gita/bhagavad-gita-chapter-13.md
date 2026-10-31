@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 13: Kshetra Kshetrajna Vibhaga Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-13.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 13
 author: "Kedi Ganapati"
 ---

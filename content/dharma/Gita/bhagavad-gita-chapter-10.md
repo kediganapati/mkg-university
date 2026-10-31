@@ -1,7 +1,7 @@
 ---
 title: "Bhagavad Gita — Chapter 10: Vibhuti Yoga"
 categories: ["Bhagvad Gita"]
-image: "/images/bhagavad-gita-chapter-10.webp"
+image: "/images/bhagavad-gita.webp"
 weight: 10
 author: "Kedi Ganapati"
 ---
