@@ -4,5 +4,5 @@ image: "images/kedi-purana.webp"
 ---
 
 
-Puranas explore the stories of Rishis, Bhagwan, and Ishwar to understand Sanatan Dharma through ancient and modern sacred narratives
+The 18 Original Puranas of MKG Digital University—Ganesh Purana, Gauri Purana, Kali-Shiva Purana, Saraswati-Brahma Purana,  Lakshmi-Vishnu Purana, Durga Purana, Shankar Purana, Dattatreya Purana, Parshuram Purana, Rama Purana, Krishna Purana, Buddha Purana, Kalki Purana, Narada Purana, Indra Purana, Asura Purana, Chiranjivi Purana, and Kedi Purana—are entirely original literary works written by Kedi Ganapati.
 

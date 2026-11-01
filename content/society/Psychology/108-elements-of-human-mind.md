@@ -146,13 +146,13 @@ Kedi: What is the conscious state?
 
 Ganesh: When you think and understand before doing some work, and the mind’s thinking and the body’s action go together, that is called the conscious state.
 
-Kedi: What is the semi-conscious state?
-
-Ganesh: When you are sitting in the office cabin attending a meeting, and at the same time looking at your colleague and getting lost in imagination about the future, imagining the qualities of your future wife, and at the same time nodding your head to show you are present in the meeting — that is the semi-conscious state.
-
 Kedi: What is the unconscious state?
 
-Ganesh: When by doing some work again and again, its pattern gets hidden in the brain, then you do not need to think to do that work. The body does it automatically without thinking, and the mind’s thinking gets rest. That state is called the unconscious state. Like while riding a bike you change gears without thinking, you type without thinking, the moment you put vada pav in your mouth you start chewing without thinking.
+Ganesh: When you are sitting in the office cabin attending a meeting, and at the same time looking at your colleague and getting lost in imagination about the future, imagining the qualities of your future wife, and at the same time nodding your head to show you are present in the meeting — that is the unconscious state.
+
+Kedi: What is the sub-conscious state?
+
+Ganesh: When by doing some work again and again, its pattern gets hidden in the brain, then you do not need to think to do that work. The body does it automatically without thinking, and the mind’s thinking gets rest. That state is called the sub-conscious state. Like while riding a bike you change gears without thinking, you type without thinking.
 
 Kedi: What is the emotion state?
 
