@@ -1,6 +1,6 @@
 ---
 title: "Purana"
-image: "images/kedi-purana.webp"
+image: "images/18-Purana-by-kedi-ganapati.webp"
 ---
 
 
