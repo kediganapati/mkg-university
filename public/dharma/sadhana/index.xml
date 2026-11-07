@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sadhana on MKG Digital University of Sanatan Dharma</title>
-		<link>http://localhost:1313/dharma/sadhana/</link>
+		<link>http://localhost:57353/dharma/sadhana/</link>
 		<description>Recent content in Sadhana on MKG Digital University of Sanatan Dharma</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/dharma/sadhana/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:57353/dharma/sadhana/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>4 Bhakti Sadhana</title>
-				<link>http://localhost:1313/dharma/sadhana/4-bhakti-sadhana/</link>
+				<link>http://localhost:57353/dharma/sadhana/4-bhakti-sadhana/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dharma/sadhana/4-bhakti-sadhana/</guid>
+				<guid>http://localhost:57353/dharma/sadhana/4-bhakti-sadhana/</guid>
 				<description>&lt;h2 id=&#34;the-search-for-devotion&#34;&gt;The Search for Devotion&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kedi:&lt;/strong&gt; I want to do devotion practice, but why can’t I listen to bhajans?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ganesh:&lt;/strong&gt; Why do you want to do devotion practice?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kedi:&lt;/strong&gt; I want to know what it feels like to do devotion practice.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ganesh:&lt;/strong&gt; Why do you want to feel it?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kedi:&lt;/strong&gt; I am writing a religious scripture in which I also want to write a chapter on devotion. Without knowing devotion, I cannot write even a single word.&lt;/p&gt;</description>
 			</item>
 	</channel>

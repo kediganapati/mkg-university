@@ -1,30 +1,21 @@
 {{ define "main" }}
-<div class="books-container">
+<div class="papers-container">
     <h1>{{ .Title }}</h1>
 
     <div class="page-content">
         {{ .Content }}
     </div>
 
-    <div class="book-grid">
-        {{ range .Params.papers }}
-            <div class="book-card">
-
-                {{ if .image }}
-                    <a href="{{ .link }}" target="_blank" rel="noopener">
-                        <img src="{{ .image | relURL }}" alt="{{ .title }}" class="book-cover">
-                    </a>
-                {{ end }}
-
-                <div class="book-info">
-                    <h3>
-                        <a href="{{ .link }}" target="_blank" rel="noopener">
-                            {{ .title }}
-                        </a>
-                    </h3>
-                </div>
-
+    <div class="paper-list">
+        {{ range $i, $paper := .Params.papers }}
+        <div class="paper-card">
+            <span class="paper-no">{{ add $i 1 }}</span>
+            <span class="paper-title">{{ $paper.title }}</span>
+            <div class="paper-actions">
+                <a class="paper-btn paper-btn-read" href="{{ $paper.read }}" target="_blank" rel="noopener">Read</a>
+                <a class="paper-btn paper-btn-download" href="{{ $paper.download }}" rel="noopener">Download</a>
             </div>
+        </div>
         {{ end }}
     </div>
 
