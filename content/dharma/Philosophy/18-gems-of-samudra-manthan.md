@@ -484,6 +484,8 @@ Kedi: "Is Samudra Manthan happening inside me right now too?"
 
 Ganesh: "As long as we both are talking, no gana or deva can even touch your Meru mountain, but when we are not talking, every gana shakes your Meru mountain and makes you dance here and there, and you feel that you are dancing, meaning you are having fun."
 
-When I left home for the religious bike journey of 5 grand temples, I thought I would gain some new religious knowledge. At the last temple, I received the knowledge of Samudra Manthan, which was already inside him; I just had to open my mind and read it. Ganesh made the journey successful by giving the knowledge of Samudra Manthan.
+When I left home for a religious journey by bike to visit eight major temples—Kailash Temple, Grishneshwar Jyotirlinga, Khajuraho Temple, Matangeshwar Shivling Temple, Kashi Vishwanath Temple, Bodh Gaya Temple, Kamakhya Temple, and Jagannath Puri Temple—I thought I would gain some new religious knowledge. 
+
+At the last Jagannath Puri temple, I received the knowledge of Samudra Manthan, which was already inside him; I just had to open my mind and read it. Ganesh made the journey successful by giving the knowledge of Samudra Manthan.
 
 > Note: This content represents a chapter of Kedi Purana, a 64-chapter work authored by Kedi Ganapati. Kedi Purana is a modern Purana of the present and final Kaliyuga.
