@@ -7,6 +7,10 @@ kedi_books:
     cover: "images/code-book-cover.jpeg"
     link: "https://gangaramsbookbureau.com/product/code-core-of-dharma-eternal/"
 
+  - title: "The Spine of Sanatan Dharma"
+    cover: "images/the-spine-of-sanatan-dharma.jpeg"
+    link: "https://www.mlbd.in/products/the-spine-of-sanatan-dharma-by-kedi-ganapati-9789371001823-9371001828-9789371001649-937100164x/"
+
   - title: "36 Principles of Sanatan Dharma"
     cover: "images/36PrinciplesofSanatanDharma.webp"
     link: "https://store.pothi.com/book/ebook-kedi-ganapati-36-principles-sanatan-dharma/"
