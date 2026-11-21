@@ -47,7 +47,7 @@ other_books:
 
   - title: "Mandukya Upanishad"
     cover: "images/mandukya-upanishad-ebook-image.jpeg"
-    link: "https://www.mkgdigitaluniversity.com/books/Mandukya-Upanishad"
+    link: "https://www.mkgdigitaluniversity.com/books/Mandukya-Upanishad-eBook.pdf"
 
 ---
 
