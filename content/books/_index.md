@@ -27,6 +27,10 @@ kedi_books:
     cover: "images/kama-shastra-ebook.jpeg"
     link: "https://doi.org/10.5281/zenodo.22734867"
 
+  - title: "Triguna Free eBook"
+    cover: "images/Triguna-ebook-cover-image.jpeg"
+    link: "https://www.mkgdigitaluniversity.com/books/Triguna-Ebook.pdf"
+
 
 other_books:
   - title: "Bhagvad Gita Free eBook"
@@ -43,7 +47,7 @@ other_books:
 
   - title: "Mandukya Upanishad"
     cover: "images/mandukya-upanishad-ebook-image.jpeg"
-    link: "https://www.mkgdigitaluniversity.com/books/Mandukya Upanishad"
+    link: "https://www.mkgdigitaluniversity.com/books/Mandukya-Upanishad"
 
 ---
 
