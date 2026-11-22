@@ -31,6 +31,9 @@ kedi_books:
     cover: "images/Triguna-ebook-cover-image.jpeg"
     link: "https://www.mkgdigitaluniversity.com/books/Triguna-Ebook.pdf"
 
+  - title: "Avatar Free eBook"
+    cover: "images/Avatar-Ebook-cover-image.jpeg"
+    link: "https://www.mkgdigitaluniversity.com/books/Avatar-eBook.pdf"
 
 other_books:
   - title: "Bhagvad Gita Free eBook"
